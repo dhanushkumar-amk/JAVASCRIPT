@@ -380,3 +380,250 @@ var string = "      hello dhanushkumar , hi am dhaushkumar   ";
 string.trim()
 "hello dhanushkumar , hi am dhaushkumar" 
 
+// ============================== function ==========================//
+
+
+
+function hello(){
+  console.log("hello world")
+  }
+  hello();
+// basic syntax 
+
+  hello world
+
+
+// parameter function
+  function hello(message){
+    console.log(message)
+    }
+    hello("hello dhanushkumar");
+
+    output:
+    hello dhanushkumar
+
+// function with no return value 
+    function hello(message){
+      console.log(message)
+      }
+      let result = hello("hello dhanushkumar");
+      console.log('result', result);
+output:
+
+      hello dhanushkumar 
+      result undefined // result will be no undefined
+
+
+
+      // function with return value
+
+
+function add(a,b){
+  return a+b;
+  
+  }
+  add(10,10)
+
+  output:
+  20
+
+// function with return value
+
+
+function add(a,b){
+  if(a&b){
+  return a+b;
+  }
+  return 0
+  }
+  add()
+  output:
+  0 
+
+
+// ============================== closure==========================//
+
+// closure
+
+function outer()
+{
+  var a = 10;
+
+function inner()
+{
+  let b = 20;
+console.log(a+b);
+
+}
+return inner;
+}
+
+let resuly = outer() // resuly is a  reference variable to call the inner function
+resuly();
+30
+
+
+// another simple example 
+// calling directly
+
+function outerFunction() {
+  //outer function
+  let a = 100;
+function innerFunction() {  // inner function
+  let b = 200;
+  console.log(a + b);
+}
+innerFunction(); // calling inner function
+}
+outerFunction(); // outer function
+ 
+output:
+300
+
+//  closer using function example 3
+
+
+function mobilePrize(mobile) {
+  console.log('mobile prize :', mobile);
+
+  return function (laptop) {
+    console.log('laptop prize :', laptop);
+    let prize = mobile + laptop;
+    return prize;
+  };
+}
+
+let reference = mobilePrize(30000);
+let totalPrize = reference(20000);
+console.log('total prize :', totalPrize);
+
+output:
+mobile prize : 30000
+laptop prize : 20000
+total prize : 50000
+
+
+// ============================== array ==========================//
+
+// array is a  datatype  used to store the different values in one variable
+
+// method 1
+
+// let colors = ['red','blue','green',1,2,3,4,5,true,false]  and objects
+
+
+// array accessing method 2let
+let colors = new Array('red', 'green', 'blue');
+
+console.log(colors);
+
+
+// accessing the value in array using index value
+let colors = new Array('red', 'green', 'blue');
+
+console.log(colors[1]);
+
+output:
+green
+
+//  to change the value in array using  assignment operator
+let colors = new Array('red', 'green', 'blue');
+colors[2] = 'yellow';
+console.log(colors);
+
+output:
+[ 'red', 'green', 'yellow' ]
+
+
+// to identify array length using length method
+
+
+let rgb = new Array('red', 'green', 'blue');
+
+rgb.length;
+3
+
+
+
+if(rgb.length > 0){
+  console.log('we have colors')
+}
+ouput:
+we have colors
+
+
+// push method
+// push method used to add values in array element
+
+
+// ex
+
+let arrayname = new Array('red','green','blue');
+
+arrayname.length
+3
+arrayname.push('yellow');
+arrayname 
+
+
+output:
+Array(4) [ "red", "green", "blue", "yellow" ]
+4
+
+
+
+// unshift method
+// its used to push the element in first position
+
+let arrayname1 = new Array('red','green','blue');
+
+arrayname1.unshift('yellow');
+
+arrayname1
+
+output:
+Array(4) [ "yellow", "red", "green", "blue" ]
+
+
+//pop method 
+// used to remove the last element in the array
+
+var arrayPop = new Array('red','green','blue');
+
+arrayPop.pop()
+"blue"
+arrayPop
+Array [ "red", "green" ]
+
+
+// shift method 
+// its is used to remove the first element in a array  just opposite of an pop method
+var arrayPop = new Array('red','green','blue');
+
+arrayPop.shift()
+"red"
+arrayPop
+Array [ "green", "blue" ]
+
+//indexof
+//used to get a index value in an array element
+
+var arrayPop = new Array('red','green','blue');
+
+arrayPop.indexOf('green')
+1 
+
+
+/* forEach method  */
+var numbers = [1, 2, 3];
+/* forEach method is used to get a value of every element in array*/
+
+numbers.forEach(function (element) { // element parameter
+  console.log(element * 5);
+});
+
+output:
+5 // 1 * 5
+10// 2 * 5
+15//3 * 5
+
