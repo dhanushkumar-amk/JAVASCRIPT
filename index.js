@@ -627,3 +627,196 @@ output:
 10// 2 * 5
 15//3 * 5
 
+
+
+//!======================================================== map method() ==============================//
+
+// map are used to target the every element in the array and also used to change the state of th array
+var vegetable = ['carrot', 'beans','tomato','potato'];
+
+vegetable.map((el) => {
+
+return el + ' *';
+})
+
+
+// another example:
+var prices = [2, 3, 4, 5, 6, 7];
+var discountAmount = 1;
+var discountPrize = prices.map((prize) => { // is a parameter is used to get a each element in a prizes
+  return prize - discountAmount; // discountAmount = 1 so prize - 1; 
+});
+
+console.log(discountPrize);
+
+
+output:
+[ 1, 2, 3, 4, 5, 6 ]
+
+/*filter method:*/
+
+/*filter => array  filters are work the basis of boolean type => true or false */
+
+
+
+var numbers = [1, 4, 8, 9, 54, 7, 3];
+var greaterThanSeven = numbers.filter((number) => {
+  return number > 7; // the filter method takes value only greater than 7 
+});
+console.log(greaterThanSeven);
+
+
+output:
+[ 8, 9, 54 ]
+
+
+/* filters with object: */
+var names = [
+  { name: 'dhanushkumar', role: 'avengers' },
+  { name: 'sanjaykumar', role: 'avengers' },
+  { name: 'ashwin', role: 'people' },
+  { name: 'hari', role: 'enemy' },
+];
+var result = names.filter((el) => {
+  return el.role == 'avengers';
+});
+
+console.log(result);
+
+output: [
+  { name: 'dhanushkumar', role: 'avengers' },
+  { name: 'sanjaykumar', role: 'avengers' },
+];
+
+
+// here the object is called by the basis of role 
+
+/* find method */
+ /* Find method is similar to the filter method but it takes only one value as output
+ that is the fist value of an array the condition is satisfy*/ 
+ var numbers = [10, 20, 30, 40, 50];
+ let result = numbers.find((el) => {
+   return el > 30;
+ });
+ 
+ console.log(result);
+ 
+ output:
+ 40
+
+
+ /* some method in array */
+/* some method is just like a find method but it returns only a values as boolean type*/
+var numbers = [5, 10, 15, 20, 25];
+
+var result = numbers.some((el) => {
+  return el > 10;
+});
+
+console.log(result);
+
+output: true
+
+/*another*/
+
+var numbers = [5, 10, 15, 20, 25];
+
+var result = numbers.some((el) => {
+  return el > 30;
+});
+
+console.log(result);
+
+output: false;
+
+// !                          object in java script                   */
+
+/* syntax:var objectname = {key : value;
+} */
+
+/*two type of creating the object*/
+
+/* first type */
+
+var person = {
+  firstName: 'Dhanushkumar',
+  lastName: 'G',
+  age: 19,
+  isStudent: true,
+};
+
+/* second type */
+/* var PersonNew = Object.create(person); */
+
+/* . dot refers here the object */
+
+/* person.firstName  */
+/* person = name of an object and . refers to the object and firstName refers to the variables inside the object */
+// accessing the variable in an object  using (.) dot
+console.log(person.firstName);
+
+// output:
+// Dhanushkumar
+
+//second way
+console.log(person['firstName']);
+// output:
+// Dhanushkumar
+
+// console.log(person['address']);
+
+// illada value access panna undefined nu ta kedaikkum
+
+// to change the value in an array using assignment operator
+person.firstName = 'visiovibe';
+person.lastName = 'brand';
+
+console.log(person.firstName);
+console.log(person.lastName);
+
+//  output:
+//  visiovibe
+//  brand
+
+// console.log(person);
+
+//  firstName: 'visiovibe', //old dhanushkumar to new visiovibe*/
+//  lastName: 'brand',   /*old G to new brand*/
+//  age: 19,
+//   isStudent: true  */
+
+// delete the key in the object */
+
+/* using delete keyword*/
+
+delete person.lastName;
+/* delete is keyword */
+console.log(person);
+// ? before */
+
+//  firstName: 'visiovibe', //old dhanushkumar to new visiovibe*/
+//  lastName: 'brand',   /*old G to new brand*/
+//  age: 19,
+//   isStudent: true  */
+
+// ? after */
+/* output
+{
+   firstName: 'visiovibe', 
+   age: 19,
+   isStudent: true
+}
+the last name will be deleted;
+*/
+
+// to check the value available  in object using [ in ] operator
+
+// the values is available then return true else return false */
+console.log('firstName' in person);
+// output:
+// true
+
+// else */
+console.log('lastName' in person);
+// output:
+false;
