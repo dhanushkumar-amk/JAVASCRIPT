@@ -1,5 +1,17 @@
-// ? try Catch Method
-// it handle errors in js and the program can't stop
+// ? try Catch Method// it handle errors in js and the program can't stop//////////////
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
 function add(a, b) {
   return a + b;
 }
@@ -50,3 +62,37 @@ console.log('bye');
   statement
   bye
   */
+
+// types of error
+
+(' use Strict');
+
+// reference error
+// syntax error
+// type error
+
+/* js error handle by 
+  
+try 
+
+ write the code inside the try  
+
+catch
+
+used to catch the error
+
+finally
+
+it execute always
+
+  */
+
+try {
+  const name = 'dhaussh';
+  name = 'avengers';
+} catch (e) {
+  console.table({name: e.name, message: e.message});
+}
+
+// table
+//error
