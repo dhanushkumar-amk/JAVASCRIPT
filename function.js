@@ -1,11 +1,4 @@
-// ?! ======================= function =========================================////////////////
-//
-//
-//
-//
-//
-//
-//
+// ?! ======================= function =========================================/////////////////////////////
 //
 //
 //
@@ -175,3 +168,61 @@ var name1 = () => {
 };
 
 name1();
+
+//  !Self invoking Function
+// IIFE => Immediately Invoke Function expression
+
+// ()() first() fo declaration and second() for Function Calling
+
+// (Function Expression)(Invoked function)
+
+// used in two ways
+
+// 1 => anonymous function
+//2 => Arrow Function
+
+// (() => {
+
+// })
+
+// Default function
+
+function iife() {
+  console.log('Default function');
+}
+iife();
+
+//Self invoking Function
+
+// its used to call function automatically
+
+// 1 => anonymous function
+
+(function () {
+  console.log(
+    'Immediately Invoke Function expression using anonymous function'
+  );
+})();
+
+// passing parameters in  self invoking function anonymous function
+
+(function (name, age) {
+  console.log('hello my Name is' + ' ' + name + ' ' + 'and age is' + ' ' + age);
+})('dhanush', 19);
+
+// hello my Name is dhanush and age is 19
+
+//2 => Arrow Function
+
+(() => {
+  console.log('hello VisioVibe');
+})();
+
+// passing parameters in  self invoking function using  Arrow Function
+
+((name, age) => {
+  console.log(name + ' ' + age);
+})('aswin', 19);
+
+//aswin 19
+//
