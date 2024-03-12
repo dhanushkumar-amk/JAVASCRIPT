@@ -1,10 +1,13 @@
-/* two types of export 1 => individual item export2 => Group item export
+/* two types of export 
+1 => individual item export
 
-*/
+
+2 => Group item export */
 
 // 1 => individual item export
 
 // named export
+
 // A named export allows you to export multiple values from a single module by explicitly specifying their names.
 
 export let myName = 'Dhanushkumar';
@@ -34,4 +37,18 @@ var obj = {
   userAge: 18,
 };
 
-export default obj;
+// export default obj;
+function data1(data) {
+  console.log(data);
+}
+
+export default data1;
+
+// alliesName:
+
+// using as keyword
+
+let NameMy = 'dhanushkumar';
+let AddressMy = ' chennai';
+
+export {NameMy as Name, AddressMy as Address};
