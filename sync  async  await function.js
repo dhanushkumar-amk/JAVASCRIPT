@@ -1,184 +1,257 @@
-/* * * * * * * * * * * * * * *
- *
- *
- *
- *
- *
- */
+// /* * * * * * * * * * * * * * *//  *//////////////////////////////////////////////////  *//  *//  *//  */// /*// // promise//
+//  ? promise
+// used to write  async function code//
+// promise =  object//
+//  it have 3 state//
+// 1 => pending
+//
+
+// 2 => fullFilled State => gives value // success
+//
+// 3 => rejected  => gives reason//
+// promise syntax
+//     let promiseName = new Promise(function (resolve, reject) {
+//     resolve(); // when task success//
+//       reject(); // when task cancelled or unsuccess
+//      })// promiseName/
+//        .then(function (value) {//     // call resolve function//     // code if successful
+//    })
+// //   .catch(function (error) {
+//     // call reject function
+//     // code if some error
+//   });
+
+// // syntax:
+
+// let developer = true;
+
+// let promise = new Promise((myResolve, myReject) => {
+//   if (developer) {
+//     // default developer true
+//     myResolve('The project is Successfully Completed');
+//   } else {
+//     myReject('The project is Not Completed');
+//   }
+// });
+
+// // console.log(promise);
 
 // promise
+//   .then((resolveMessage) => {
+//     console.log(resolveMessage);
+//   })
+//   .catch((rejectMessage) => {
+//     console.log(rejectMessage);
+//   })
+//   .finally(() => {
+//     console.log('finally block is executed');
+//   });
 
-//  ? promise/*// used to write  async function code
-// promise =  object
+// // output
 
-//  it have 3 state
+// // true
 
-// 1 => pending
-// 2 => fullFilled State => gives value // success
-// 3 => rejected  => gives reason
+// //The project is Successfully Completed
+// // finally block is executed
 
-// promise syntax:
+// // false
 
-let promiseName = new Promise(function (resolve, reject) {
-  resolve(); // when task success
-  reject(); // when task cancelled or unsuccess
-});
+// // The project is Not Completed
+// // finally block is executed
 
-promiseName
-  .then(function (value) {
-    // call resolve function
-    // code if successful
-  })
-  .catch(function (error) {
-    // call reject function
-    // code if some error
-  });
+// // another example
 
-// syntax:
+// let anotherPromise = new Promise((resolve1, reject1) => {
+//   let bookingSuccess = true;
 
-let developer = true;
+//   if (bookingSuccess) {
+//     resolve1('The  Successfully ticket booked');
+//   } else {
+//     reject1('The  ticket booking  unsuccessful');
+//   }
+// });
 
-let promise = new Promise((myResolve, myReject) => {
-  if (developer) {
-    // default developer true
-    myResolve('The project is Successfully Completed');
-  } else {
-    myReject('The project is Not Completed');
-  }
-});
+// anotherPromise
+//   .then((resolve1data) => {
+//     console.log(resolve1data);
+//   })
+//   .catch((reject1data) => {
+//     console.log(reject1data);
+//   });
 
-// console.log(promise);
+// // function resolve1data() {
+// //   console.log('send money');
+// // }
 
-promise
-  .then((resolveMessage) => {
-    console.log(resolveMessage);
-  })
-  .catch((rejectMessage) => {
-    console.log(rejectMessage);
-  })
-  .finally(() => {
-    console.log('finally block is executed');
-  });
+// // function reject1data() {
+// //   console.log('sorry bro');
+// // }
 
-// output
+// // reject1data();
+// // resolve1data();
 
-// true
+// // !Synchronous and Asynchronous
 
-//The project is Successfully Completed
-// finally block is executed
+// // ? Synchronous
+// // default
 
-// false
+// // line by line execution
+// console.log('Synchronous process:');
 
-// The project is Not Completed
-// finally block is executed
+// console.log('First Line');
+// console.log('Second Line');
+// console.log('Third Line');
 
-// another example
+// //output:
 
-let anotherPromise = new Promise((resolve1, reject1) => {
-  let bookingSuccess = true;
+// // Synchronous process
+// // First Line
+// // Second Line
+// // Third Line
 
-  if (bookingSuccess) {
-    resolve1('The  Successfully ticket booked');
-  } else {
-    reject1('The  ticket booking  unsuccessful');
-  }
-});
+// // ? Asynchronous
 
-anotherPromise
-  .then((resolve1data) => {
-    console.log(resolve1data);
-  })
-  .catch((reject1data) => {
-    console.log(reject1data);
-  });
+// // execution based by user definition
+// console.log('Asynchronous process:');
 
-// function resolve1data() {
-//   console.log('send money');
+// console.log('First Line');
+
+// setTimeout(() => {
+//   console.log('Second Line');
+// }, 1000);
+
+// console.log('Third Line');
+
+// // Synchronous process
+// // First Line
+// // Third Line
+
+// // one second later
+// // Second Line
+
+// // !  async(Asynchronous) and await function
+
+// // async and await are must
+
+// // ? promise
+
+// let asyncPromise = new Promise((resolve, reject) => {
+//   setTimeout(() => {
+//     let user = {
+//       name: 'dhanush',
+//       address: 'pollachi',
+//     };
+//     if (Object.keys(user) !== 0) {
+//       resolve(user);
+//     } else {
+//       reject(user);
+//     }
+//   }, 2000);
+// });
+
+// async function getData() {
+//   //   alert('hello');
+//   let userInfo = await anotherPromise;
+//   console.log(userInfo);
+
+//   //   try {
+//   //     let userInfo = await promise;
+//   //     console.log(userInfo);
+//   //   } catch (errorMessage) {
+//   //     console.log(errorMessage);
+//   //   }
 // }
 
-// function reject1data() {
-//   console.log('sorry bro');
-// }
+// getData()
+//   .then((resolve) => {
+//     console.log('successfully Executed ');
+//   })
+//   .catch((reject) => {
+//     console.log('executed unsuccessfully');
+//   });
 
-// reject1data();
-// resolve1data();
+//
 
-// !Synchronous and Asynchronous
+//
+// promises
 
-// ? Synchronous
-// default
+// const myPromise = new Promise((resolve, reject) => {
+//   const error = false;
+//   if (!error) {
+//     resolve('success');
+//   } else {
+//     reject('rejected');
+//   }
+// });
 
-// line by line execution
-console.log('Synchronous process:');
+// //tenable  means dot(0) before element
+// myPromise
+//   .then((resolveData) => {
+//     console.log(resolveData);
+//     console.log('hello');
+//   })
+//   .catch((rejectData) => {
+//     console.log(rejectData);
+//     // console.log(err);
+//   });
+// // .then((resolve) => {
+// //   console.log(resolve);
+// // });
 
-console.log('First Line');
-console.log('Second Line');
-console.log('Third Line');
+// const myNextPromise = new Promise((resolved, rejected) => {
+//   setTimeout(function () {
+//     resolved('My next resolved');
+//   }, 2000);
+// });
 
-//output:
+// myNextPromise.then((rs) => {
+//   console.log(rs);
+// });
 
-// Synchronous process
-// First Line
-// Second Line
-// Third Line
+// myPromise.then((rs) => {
+//   console.log(rs);
+// });
 
-// ? Asynchronous
+//fetch
 
-// execution based by user definition
-console.log('Asynchronous process:');
+// function fetch(input: RequestInfo | URL, init?: RequestInit | undefined): Promise<Response>
 
-console.log('First Line');
+// fetch always gives promise
 
-setTimeout(() => {
-  console.log('Second Line');
-}, 1000);
-
-console.log('Third Line');
-
-// Synchronous process
-// First Line
-// Third Line
-
-// one second later
-// Second Line
-
-// !  async(Asynchronous) and await function
-
-// async and await are must
-
-// ? promise
-
-let asyncPromise = new Promise((resolve, reject) => {
-  setTimeout(() => {
-    let user = {
-      name: 'dhanush',
-      address: 'pollachi',
-    };
-    if (Object.keys(user) !== 0) {
-      resolve(user);
-    } else {
-      reject(user);
-    }
-  }, 2000);
-});
-
-async function getData() {
-  //   alert('hello');
-  let userInfo = await anotherPromise;
-  console.log(userInfo);
-
-  //   try {
-  //     let userInfo = await promise;
-  //     console.log(userInfo);
-  //   } catch (errorMessage) {
-  //     console.log(errorMessage);
-  //   }
-}
-
-getData()
-  .then((resolve) => {
-    console.log('successfully Executed ');
+const users = fetch('https://jsonplaceholder.typicode.com/users')
+  .then((response) => {
+    // console.log(response);
+    return response.json();
   })
-  .catch((reject) => {
-    console.log('executed unsuccessfully');
+  .then((users) => {
+    // console.log(users);
+    // users.forEach((user) => console.log(user));
   });
+console.log(users);
+// promise state => pending
+
+// async  / await
+
+// await are waited for the data comes inside the function
+
+// async used function compulsory for using await function
+const myUsers = {
+  userList: [],
+};
+
+const usersAsync = async () => {
+  const response = await fetch('https://jsonplaceholder.typicode.com/users');
+  const userData = await response.json();
+  // console.log(userData);
+  return userData;
+};
+
+const anotherAsyncFunction = async () => {
+  const data = await usersAsync();
+  myUsers.userList = data;
+  // console.log(data);
+  return data;
+};
+// usersAsync();
+anotherAsyncFunction();
+console.log(myUsers);
