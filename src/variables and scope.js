@@ -1,11 +1,4 @@
-// ! ======= ===== ===== ==== ==== variables ==== ==== ==== ==== ==== ===== *///////
-//
-//
-//
-//
-//
-//
-//
+// ! ======= ===== ===== ==== ==== variables ==== ==== ==== ==== ==== ===== */////////////////////
 //
 //
 //
@@ -91,13 +84,39 @@ console.log(avengers);
 // Array(4) [ "ironMan", "captainAmerica", "Hulk", "Thor" ]
 
 //! ======= ===== ===== ==== ==== Hoisting ==== ==== ==== ==== ==== ===== */
+// a will be declared
+// let a ;
+// function hoisting() {
+// a = 10;
+// let b = 20;
+//   console.log(a + b);
+// }
+// hoisting();
 
-function hoisting() {
-  a = 10;
+// console.log(a);
+// console.log(b);
+
+// b is undefined because b is a local scope
+
+//! ======= ===== ===== ==== ==== Scope of a variable ==== ==== ==== ==== ==== ===== */
+
+// scope pf a  variable
+// 1 =>  Global Scope
+// 1 =>  local Scope
+// 1 =>  block Scope
+
+let a = 10;
+function sum() {
   let b = 20;
+  if (true) {
+    let c = a + b;
+    console.log(c); // c is a block scope
+  }
   console.log(a + b);
-}
-hoisting();
 
-console.log(a);
-console.log(b);
+  console.log(c); // output :  c is undefined because c is a block scope
+}
+
+// here a is global scope
+// b is a functional scope or local scope
+sum();
