@@ -1,5 +1,4 @@
-// /* * * * * * * * * * * * * * *//  *//////////////////////////////////////////////////  *//  *//  *//  */// /*// // promise////  ? promise
-// used to write  async function code//
+// /* * * * * * * * * * * * * * *//  *//////////////////////////////////////////////////  *//  *//  *//  */// /*// // promise////  ? promise// used to write  async function code//
 // promise =  object//
 //  it have 3 state//
 // 1 => pending
@@ -78,140 +77,137 @@
 //     console.log(reject1data);
 //   });
 
-// // function resolve1data() {
-// //   console.log('send money');
-// // }
-
-// // function reject1data() {
-// //   console.log('sorry bro');
-// // }
-
-// // reject1data();
-// // resolve1data();
-
-// // !Synchronous and Asynchronous
-
-// // ? Synchronous
-// // default
-
-// // line by line execution
-// console.log('Synchronous process:');
-
-// console.log('First Line');
-// console.log('Second Line');
-// console.log('Third Line');
-
-// //output:
-
-// // Synchronous process
-// // First Line
-// // Second Line
-// // Third Line
-
-// // ? Asynchronous
-
-// // execution based by user definition
-// console.log('Asynchronous process:');
-
-// console.log('First Line');
-
-// setTimeout(() => {
-//   console.log('Second Line');
-// }, 1000);
-
-// console.log('Third Line');
-
-// // Synchronous process
-// // First Line
-// // Third Line
-
-// // one second later
-// // Second Line
-
-// // !  async(Asynchronous) and await function
-
-// // async and await are must
-
-// // ? promise
-
-// let asyncPromise = new Promise((resolve, reject) => {
-//   setTimeout(() => {
-//     let user = {
-//       name: 'dhanush',
-//       address: 'pollachi',
-//     };
-//     if (Object.keys(user) !== 0) {
-//       resolve(user);
-//     } else {
-//       reject(user);
-//     }
-//   }, 2000);
-// });
-
-// async function getData() {
-//   //   alert('hello');
-//   let userInfo = await anotherPromise;
-//   console.log(userInfo);
-
-//   //   try {
-//   //     let userInfo = await promise;
-//   //     console.log(userInfo);
-//   //   } catch (errorMessage) {
-//   //     console.log(errorMessage);
-//   //   }
+// function resolve1data() {
+//   console.log('send money');
 // }
 
-// getData()
-//   .then((resolve) => {
-//     console.log('successfully Executed ');
-//   })
-//   .catch((reject) => {
-//     console.log('executed unsuccessfully');
-//   });
+// function reject1data() {
+//   console.log('sorry bro');
+// }
 
-//
+// reject1data();
+// resolve1data();
 
-//
-// promises
+// !Synchronous and Asynchronous
 
-// const myPromise = new Promise((resolve, reject) => {
-//   const error = false;
-//   if (!error) {
-//     resolve('success');
-//   } else {
-//     reject('rejected');
-//   }
+// ? Synchronous
+// default
+
+// line by line execution
+console.log('Synchronous process:');
+
+console.log('First Line');
+console.log('Second Line');
+console.log('Third Line');
+
+//output:
+
+// Synchronous process
+// First Line
+// Second Line
+// Third Line
+
+// ? Asynchronous
+
+// execution based by user definition
+console.log('Asynchronous process:');
+
+console.log('First Line');
+
+setTimeout(() => {
+  console.log('Second Line');
+}, 1000);
+
+console.log('Third Line');
+
+// Synchronous process
+// First Line
+// Third Line
+
+// one second later
+// Second Line
+
+// !  async(Asynchronous) and await function
+
+// async and await are must
+
+// ? promise
+
+let asyncPromise = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    let user = {
+      name: 'dhanush',
+      address: 'pollachi',
+    };
+    if (Object.keys(user) !== 0) {
+      resolve(user);
+    } else {
+      reject(user);
+    }
+  }, 2000);
+});
+
+async function getData() {
+  //   alert('hello');
+  let userInfo = await anotherPromise;
+  console.log(userInfo);
+
+  //   try {
+  //     let userInfo = await promise;
+  //     console.log(userInfo);
+  //   } catch (errorMessage) {
+  //     console.log(errorMessage);
+  //   }
+}
+
+getData()
+  .then((resolve) => {
+    console.log('successfully Executed ');
+  })
+  .catch((reject) => {
+    console.log('executed unsuccessfully');
+  });
+
+promises;
+
+const myPromise = new Promise((resolve, reject) => {
+  const error = false;
+  if (!error) {
+    resolve('success');
+  } else {
+    reject('rejected');
+  }
+});
+
+//tenable  means dot(0) before element
+myPromise
+  .then((resolveData) => {
+    console.log(resolveData);
+    console.log('hello');
+  })
+  .catch((rejectData) => {
+    console.log(rejectData);
+    // console.log(err);
+  });
+// .then((resolve) => {
+//   console.log(resolve);
 // });
 
-// //tenable  means dot(0) before element
-// myPromise
-//   .then((resolveData) => {
-//     console.log(resolveData);
-//     console.log('hello');
-//   })
-//   .catch((rejectData) => {
-//     console.log(rejectData);
-//     // console.log(err);
-//   });
-// // .then((resolve) => {
-// //   console.log(resolve);
-// // });
+const myNextPromise = new Promise((resolved, rejected) => {
+  setTimeout(function () {
+    resolved('My next resolved');
+  }, 2000);
+});
 
-// const myNextPromise = new Promise((resolved, rejected) => {
-//   setTimeout(function () {
-//     resolved('My next resolved');
-//   }, 2000);
-// });
+myNextPromise.then((rs) => {
+  console.log(rs);
+});
 
-// myNextPromise.then((rs) => {
-//   console.log(rs);
-// });
+myPromise.then((rs) => {
+  console.log(rs);
+});
 
-// myPromise.then((rs) => {
-//   console.log(rs);
-// });
-
-//fetch
+fetch;
 
 // function fetch(input: RequestInfo | URL, init?: RequestInit | undefined): Promise<Response>
 
