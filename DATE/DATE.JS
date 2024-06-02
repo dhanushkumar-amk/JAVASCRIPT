@@ -1,5 +1,4 @@
-/** Date() */ const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//
-console.log(date);
+/** Date() */ const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//console.log(date);
 //  const date = new Date();
 console.log(date);
 
@@ -33,4 +32,8 @@ console.log(moonLanding.getFullYear());
 const birth = new Date('March 13, 08 14:20');
 console.log(birth.getHours());
 
-// ate.prototype.getMilliseconds()
+// ate.prototype.getMilliseconds() to get specific millisecond
+const moon = new Date('July 20, 69 00:20:18');
+moonLanding.setMilliseconds(123);
+
+console.log(moon.getMilliseconds());
