@@ -1,5 +1,4 @@
 /** Date() */
-
 const date = Date().toString();
 // default string method
 // Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//
@@ -28,3 +27,7 @@ const day1 = birthday1.getDay();
 // Sunday - Saturday : 0 - 6
 
 console.log(day1);
+
+// get full year
+const moonLanding = new Date('July 20, 69 00:20:18');
+console.log(moonLanding.getFullYear());
