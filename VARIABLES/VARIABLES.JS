@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.Using the 'let' keyword.
-Using the 'const' keyword.
+/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.Using the 'let' keyword.Using the 'const' keyword.
  */
 
 /* let  2015
@@ -30,7 +29,7 @@ console.log(d);
 
 // 1 => var
 
-var myName = 'DhanushKumar'; // global scope
+var myName = 'Dhanush'; // global scope
 console.log(myName);
 
 function myNameFunction() {
@@ -39,5 +38,6 @@ function myNameFunction() {
 }
 myNameFunction();
 
+console.log(myName);
 var myName = 'ram';
 console.log(myName);
