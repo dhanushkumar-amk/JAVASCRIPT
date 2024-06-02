@@ -1,4 +1,4 @@
-/** Date() */ const date = Date().toString();// default string method
+/** Date() */ const date = Date().toString(); // default string method
 // Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//
 console.log(date);
 //  const date = new Date();
@@ -26,10 +26,10 @@ const day1 = birthday1.getDay();
 
 console.log(day1);
 
-// get full year
+// get full year to get specific year
 const moonLanding = new Date('July 20, 69 00:20:18');
 console.log(moonLanding.getFullYear());
 
-// get hours
+// get hours to get specific hour
 const birth = new Date('March 13, 08 14:20');
-console.log(birth.getHours().toLocaleString());
+console.log(birth.getHours());
