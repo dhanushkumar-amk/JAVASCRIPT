@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords. Using the 'var' keyword.
- Using the 'let' keyword.
+/** four types of variables */ /*Without using any keywords. Using the 'var' keyword. Using the 'let' keyword.
 Using the 'const' keyword.
  */
 
@@ -93,7 +92,7 @@ console.log('===========================================');
 // let
 
 if (true) {
-  let text = 'hello';
-  console.log(text);
+  let message = 'Hello world';
+  console.log(message);
 }
-console.log(text);
+console.log(message);
