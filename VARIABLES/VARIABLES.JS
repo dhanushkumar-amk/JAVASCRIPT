@@ -1,5 +1,4 @@
-/** four types of variables */
-/*Without using any keywords.
+/** four types of variables *//*Without using any keywords.
 Using the 'var' keyword.
 Using the 'let' keyword.
 Using the 'const' keyword.
@@ -43,5 +42,5 @@ function myNameFunction() {
 myNameFunction();
 
 console.log(myName);
-var myName = 'ram';
+var myName = 'ram'; // using var keyword w can change the value
 console.log(myName);
