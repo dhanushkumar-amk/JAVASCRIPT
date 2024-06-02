@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords.
-Using the 'var' keyword.
+/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.
 Using the 'let' keyword.
 Using the 'const' keyword.
  */
@@ -54,12 +53,12 @@ ram === assigned value
 
 // 2 => let
 
-let name = 'Dhanushkumar';
+let name = 'Dhanushkumar'; // global scope
 console.log(name);
 
 function myNameFunction() {
-  let Name = 'Kumar'; // local scope
-  console.log(Name);
+  let name = 'Kumar'; // local scope
+  console.log(name);
 }
 
 console.log(name);
