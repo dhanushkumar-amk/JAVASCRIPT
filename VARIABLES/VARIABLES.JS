@@ -1,4 +1,4 @@
-/** four types of variables *//*
+/** four types of variables */ /*
 Without using any keywords.
 Using the 'var' keyword.
 Using the 'let' keyword.
@@ -19,3 +19,14 @@ console.log(a);
 console.log(b);
 console.log(c);
 console.log(d);
+
+/**
+ * JavaScript variables must have unique names. These names are called Identifiers.
+
+=>  Basic rules to declare a variable in JavaScript:
+=> These are case-sensitive
+=> Can only begin with a letter, underscore(“_”) or “$” symbol
+=> It can contain letters, numbers, underscore, or “$” symbol
+=> A variable name cannot be a reserved keyword.
+ *
+ */
