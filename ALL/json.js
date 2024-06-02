@@ -1,60 +1,6 @@
-//json// java Script object notation// text formate// to send and receive data in my language
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+//json// java Script object notation
+// text formate
+// to send and receive data in many language
 
 var Person = {
   firstName: 'Dhanush',
