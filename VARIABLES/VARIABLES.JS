@@ -103,4 +103,21 @@ if (true) {
   let message = 'Hello world'; // using let keyword we can't be used outside the blocked scope variable
   console.log(message);
 }
-console.log(message);
+// console.log(message);  can't be used
+
+
+
+if (true) {
+  const text = 'Hello world'; // using same as const keyword we can't be used outside the blocked scope variable
+  console.log(text);
+}
+
+// console.log(message);  can't be used
+
+
+
+var person = "john";
+console.log(person);
+
+person = "wick";  //  we can't add any variable to the person so it take var as default and reassign the values
+console.log(person);
