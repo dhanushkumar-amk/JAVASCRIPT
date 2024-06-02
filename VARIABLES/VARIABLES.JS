@@ -1,4 +1,6 @@
-/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.Using the 'let' keyword.
+/** four types of variables *//*Without using any keywords.
+ Using the 'var' keyword.
+ Using the 'let' keyword.
 Using the 'const' keyword.
  */
 
@@ -51,6 +53,7 @@ ram === assigned value
  */
 
 // 2 => let
+// using let keyword we can't be redeclare
 
 let name = 'Dhanushkumar'; // global scope
 console.log(name);
@@ -62,3 +65,18 @@ function myNameFunction() {
 myNameFunction();
 
 console.log(name);
+// let name = "ram";   cannot redeclare block-scoped variable 'name'.
+// console.log(name);
+
+// 3 => const
+// using const keyword we can't be redeclare and also can't be used another time
+const name1 = 'Dhanushkumar'; // global scope
+console.log(name1);
+
+function myNameFunction() {
+  const name1 = 'Kumar'; // local scope
+  console.log(name1);
+}
+myNameFunction();
+
+console.log(name1);
