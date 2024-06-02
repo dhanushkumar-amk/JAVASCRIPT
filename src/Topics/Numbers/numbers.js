@@ -1,5 +1,4 @@
-/* numbers = int, float*/ /**===================================================================================== */ let score = 100; /* this is normal way to define number */ /***===================================================================================== */ // to declare or use number in more precise way
-let number = new Number(100);
+/* numbers = int, float*/ /**===================================================================================== */ let score = 100; /* this is normal way to define number */ /***===================================================================================== */ // to declare or use number in more precise waylet number = new Number(100);
 // now as strings this gives us more control over numbers
 
 console.log(number.toFixed(2));
@@ -14,6 +13,6 @@ let preNumber = new Number(100.36);
 
 console.log(preNumber.toPrecision(3));
 // this method gives you numbers like how many digits you want from number however
-// the above argument should now be less than 3 as it should be at least number of digits before decimal
+// the above argument should now be less than 3 as it should be at least number of digi
 
-
+console.log('hello');
