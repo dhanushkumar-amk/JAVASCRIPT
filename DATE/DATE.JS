@@ -14,7 +14,6 @@
 
 
 
-
 */
 
 const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//
@@ -66,3 +65,8 @@ console.log(minute.getMinutes());
 const month = new Date('July 20, 69 00:20:18');
 console.log(month.getMonth()); // (January gives 0)
 // Expected output: 6
+
+// getSeconds() to get specific second
+const second = new Date('July 20, 69 00:20:18');
+console.log(second.getSeconds());
+// Expected output: 18
