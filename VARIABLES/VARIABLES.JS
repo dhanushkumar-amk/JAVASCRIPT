@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.
-Using the 'let' keyword.
+/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.Using the 'let' keyword.
 Using the 'const' keyword.
  */
 
@@ -28,3 +27,17 @@ console.log(d);
 => A variable name cannot be a reserved keyword.
  *
  */
+
+// 1 => var
+
+var myName = 'DhanushKumar'; // global scope
+console.log(myName);
+
+function myNameFunction() {
+  var myName = 'Kumar'; // local scope
+  console.log(myName);
+}
+myNameFunction();
+
+var myName = 'ram';
+console.log(myName);
