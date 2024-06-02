@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords.
- Using the 'var' keyword.
+/** four types of variables */ /*Without using any keywords. Using the 'var' keyword.
  Using the 'let' keyword.
 Using the 'const' keyword.
  */
@@ -89,10 +88,12 @@ if (true) {
 }
 console.log(text);
 
+console.log('===========================================');
+
 // let
 
 if (true) {
-  let text = 'hello'; // using var keyword we can use outside the block element
+  let text = 'hello';
   console.log(text);
 }
 console.log(text);
