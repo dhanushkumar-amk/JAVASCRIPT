@@ -1,5 +1,4 @@
-/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.
-Using the 'let' keyword.
+/** four types of variables */ /*Without using any keywords.Using the 'var' keyword.Using the 'let' keyword.
 Using the 'const' keyword.
  */
 
@@ -60,5 +59,6 @@ function myNameFunction() {
   let name = 'Kumar'; // local scope
   console.log(name);
 }
+myNameFunction();
 
 console.log(name);
