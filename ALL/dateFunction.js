@@ -1,5 +1,4 @@
-// date function//// /// /////
-///
+// date function//// /// ////////
 //
 //
 //
@@ -55,7 +54,6 @@ var Days = [
 // current year
 //
 console.log(date.getFullYear());
-
 // 2024
 
 console.log(date.getHours());
