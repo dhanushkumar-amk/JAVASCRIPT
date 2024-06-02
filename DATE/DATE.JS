@@ -1,5 +1,4 @@
-/** Date() */ const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//console.log(date);//  const date = new Date();console.log(date);
-// 2024-06-02T17:04:04.694Z
+/** Date() */ const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//console.log(date);//  const date = new Date();console.log(date);// 2024-06-02T17:04:04.694Z
 const now = Date.now();
 console.log(now);
 // 1717347961605
@@ -24,6 +23,7 @@ console.log(day1);
 // get full year to get specific year
 const moonLanding = new Date('July 20, 69 00:20:18');
 console.log(moonLanding.getFullYear());
+// 1969
 
 // get hours to get specific hour
 const birth = new Date('March 13, 08 14:20');
