@@ -1,4 +1,12 @@
-/** four types of variables */ /*Without using any keywords. Using the 'var' keyword. Using the 'let' keyword.
+/** four types of variables *
+ *
+ *
+ *
+ *  */
+
+/*Without using any keywords.
+ Using the 'var' keyword. 
+ Using the 'let' keyword.
 Using the 'const' keyword.
  */
 
@@ -92,7 +100,7 @@ console.log('===========================================');
 // let
 
 if (true) {
-  let message = 'Hello world';
+  let message = 'Hello world'; // using let keyword we can't be used outside the blocked scope variable
   console.log(message);
 }
 console.log(message);
