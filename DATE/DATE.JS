@@ -1,17 +1,5 @@
-/** Date()  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * 
-
-
-
-
-
-
-
-
-
-
-
-
-*/
+/** Date()  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+ */
 
 const date = Date().toString(); // default string method// Sun Jun 02 2024 22:32:59 GMT+0530 (India Standard Time)//
 console.log(date); //  const date = new Date();console.log(date);// 2024-06-02T17:04:04.694Z
@@ -19,19 +7,13 @@ const now = Date.now();
 console.log(now);
 // 1717347961605
 
-// The Date.now() static method returns the number of milliseconds elapsed since the epoch, which is defined as the midnight at the beginning of January 1, 1970, UTC.
-
-// Date.prototype.getDate()
-// The getDate() method of Date instances returns the day of the month for this date according to local time.
-
+// to get date
 const birthday = new Date('August 19, 1975 23:15:30');
 const date1 = birthday.getDate();
 console.log(date1);
 // 19
 
-// Date.prototype.getDay()
-// The getDay() method of Date instances returns the day of the week for this date according to local time, where 0 represents Sunday. For the day of the month, see Date.prototype.getDate().
-
+// to get day
 const birthday1 = new Date('August 19, 1975 23:15:30');
 const day1 = birthday1.getDay();
 // Sunday - Saturday : 0 - 6
@@ -53,8 +35,9 @@ moonLanding.setMilliseconds(123);
 console.log(moon.getMilliseconds());
 
 // 0
-const minute = new Date('March 13, 08 04:20');
 
+// to get the minutes
+const minute = new Date('March 13, 08 04:20');
 console.log(minute.getMinutes());
 // Expected output: 20
 
@@ -70,8 +53,7 @@ console.log(second.getSeconds());
 
 // The toLocaleDateString() method of Date instances returns a string with a language-sensitive representation of the date portion of this date in the local timezone. In implementations with Intl.DateTimeFormat API support, this method simply calls Intl.DateTimeFormat.
 
-// Every time toLocaleString is called, it has to perform a search in a big database of localization strings, which is potentially inefficient. When the method is called many times with the same arguments, it is better to create a Intl.DateTimeFormat object and use its format() method, because a DateTimeFormat object remembers the arguments passed to it and may decide to cache a slice of the database, so future format calls can search for localization strings within a more constrained context.
-const event = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
+const event1 = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
 const options = {
   weekday: 'long',
   year: 'numeric',
@@ -79,11 +61,17 @@ const options = {
   day: 'numeric',
 };
 
-console.log(event.toLocaleDateString('de-DE', options));
+console.log(event1.toLocaleDateString('de-DE', options));
 // Expected output (varies according to local timezone): Donnerstag, 20. Dezember 2012
 
-console.log(event.toLocaleDateString('ar-EG', options));
-// Expected output (varies according to local timezone): الخميس، ٢٠ ديسمبر، ٢٠١٢
+// toLocaleString convert the local string
 
-console.log(event.toLocaleDateString(undefined, options));
-// Expected output (varies according to local timezone and default locale): Thursday, December 20, 2012
+const event = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
+
+// British English uses day-month-year order and 24-hour time without AM/PM
+console.log(event.toLocaleString('en-GB', {timeZone: 'UTC'}));
+// Expected output: "20/12/2012, 03:00:00"
+
+// Korean uses year-month-day order and 12-hour time with AM/PM
+console.log(event.toLocaleString('ko-KR', {timeZone: 'UTC'}));
+// Expected output: "2012. 12. 20. 오전 3:00:00"
