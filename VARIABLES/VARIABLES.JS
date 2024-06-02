@@ -1,5 +1,4 @@
 /** four types of variables */
-
 /* let  2015
   const 2015
   var   1995 - 2015
