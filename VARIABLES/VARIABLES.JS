@@ -1,4 +1,4 @@
-/** four types of variables *//*Without using any keywords.
+/** four types of variables */ /*Without using any keywords.
 Using the 'var' keyword.
 Using the 'let' keyword.
 Using the 'const' keyword.
@@ -44,3 +44,22 @@ myNameFunction();
 console.log(myName);
 var myName = 'ram'; // using var keyword w can change the value
 console.log(myName);
+
+/**
+Dhanush === global scope
+Kumar  === local scope use within the particular function or the block
+Dhanush === global scope
+ram === assigned value
+ */
+
+// 2 => let
+
+let name = 'Dhanushkumar';
+console.log(name);
+
+function myNameFunction() {
+  let Name = 'Kumar'; // local scope
+  console.log(Name);
+}
+
+console.log(name);
