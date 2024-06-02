@@ -1,4 +1,13 @@
 /** four types of variables */
+
+Without using any keywords.
+
+Using the 'var' keyword.
+
+Using the 'let' keyword.
+
+Using the 'const' keyword.
+
 /* let  2015
   const 2015
   var   1995 - 2015
