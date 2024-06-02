@@ -1,5 +1,4 @@
 /* numbers = int, float*/ /**===================================================================================== */ let score = 100; /* this is normal way to define number */ /***===================================================================================== */ // to declare or use number in more precise waylet number = new Number(100);// now as strings this gives us more control over numbersconsole.log(number.toFixed(2));//this property gives us 100.00 in 2 decimal points
-
 console.log(number.toString());
 // this gives us string to numbers
 
@@ -17,3 +16,4 @@ console.log();
 log;
 
 ftdtdff;
+DD;
