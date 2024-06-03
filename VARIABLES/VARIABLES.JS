@@ -123,3 +123,4 @@ person = "wick";  //  we can't add any variable to the person so it take var as 
 console.log(person);
 
 
+// hello world from js
