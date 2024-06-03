@@ -121,3 +121,5 @@ console.log(person);
 
 person = "wick";  //  we can't add any variable to the person so it take var as default and reassign the values
 console.log(person);
+
+
