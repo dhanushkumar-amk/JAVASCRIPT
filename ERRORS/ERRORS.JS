@@ -1,1 +1,1 @@
-// error handling can be done byt ry
+// error handling can be done by try catch 
