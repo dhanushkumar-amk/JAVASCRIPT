@@ -4,7 +4,7 @@ try{
 console.log(test); // example for error
 }
 catch (error){
-  console.log(error.message); // message  
+  console.log(error.message); // message is used to  
   console.log(error.name);
   console.log(error.stack);
 }
