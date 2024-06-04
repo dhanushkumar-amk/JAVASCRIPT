@@ -10,5 +10,5 @@ catch (error){
  }
  finally{
   // finally always works 
-  console.log();
+  console.log("Exection");
  }
