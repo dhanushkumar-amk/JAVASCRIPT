@@ -6,5 +6,5 @@ console.log(test); // example for error
 catch (error){
   console.log(error.message);
   console.log(error.name);
-  console.log(error.);
+  console.log(error.stack);
 }
