@@ -23,6 +23,6 @@ catch (error){
  }catch (error){
   console.log(error.message);
  } finally{
-  
+  console.log("Always exectuted");
  }
  
