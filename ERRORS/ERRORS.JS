@@ -8,3 +8,4 @@ catch (error){
   console.log(error.name);  // name tells what type of error and error name
   console.log(error.stack);  // stack tells which line has error
  }
+ finally
