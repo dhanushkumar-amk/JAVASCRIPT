@@ -9,5 +9,5 @@ catch (error){
   console.log(error.stack);  // stack tells which line has error
  }
  finally{
-  
+  // finally always works 
  }
