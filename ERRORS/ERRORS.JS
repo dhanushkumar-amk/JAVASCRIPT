@@ -1,1 +1,1 @@
-// error handling can be done by try catch 
+// error handling can be done by try catch throw finally
