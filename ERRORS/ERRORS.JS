@@ -5,6 +5,6 @@ console.log(test); // example for error
 }
 catch (error){
   console.log(error.message);
-  console.log(error.message);
+  console.log(error.anme);
   console.log(error.message);
 }
