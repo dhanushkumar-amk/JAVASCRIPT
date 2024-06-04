@@ -19,7 +19,7 @@ catch (error){
  
  
  try{
-  
+  throw new err
   
  }catch (error){
   console.log(error.message);
