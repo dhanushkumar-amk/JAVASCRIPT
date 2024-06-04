@@ -4,5 +4,5 @@ try{
 console.log(test); // example for error
 }
 catch (error){
-  console.log("");
+  console.log("eror");
 }
