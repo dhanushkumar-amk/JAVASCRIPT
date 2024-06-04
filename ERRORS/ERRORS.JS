@@ -15,6 +15,8 @@ catch (error){
  
  
  // throw statement is used to throw the error manually
- // it works only on the try statee
+ // it works only on the try statement
+ 
+ 
  
  
