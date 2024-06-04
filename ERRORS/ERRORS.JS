@@ -18,5 +18,5 @@ catch (error){
  // it works only on the try statement
  
  
- 
+ try
  
