@@ -9,6 +9,6 @@ catch (error){
   console.log(error.stack);  // stack tells which line has error
  }
  finally{
-  // finally always works 
+  // finally always works  
   console.log("Execution");
  }
