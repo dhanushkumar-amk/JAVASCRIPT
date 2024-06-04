@@ -12,3 +12,5 @@ catch (error){
   // finally always works  whenever error comes or not 
   console.log("Execution");
  }
+ 
+ 
