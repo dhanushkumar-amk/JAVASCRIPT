@@ -14,3 +14,6 @@ catch (error){
  }
  
  
+ // throw statement
+ 
+ 
