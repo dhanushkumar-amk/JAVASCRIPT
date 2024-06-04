@@ -1,4 +1,4 @@
 // error handling can be done by try catch throw finally
 
-try
+try{
 console.log(test); // example for error
