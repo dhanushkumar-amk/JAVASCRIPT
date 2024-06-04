@@ -1,7 +1,7 @@
 // error handling can be done by try catch throw finally
 
 try{
-console.log(test); // example for error
+console.log(1); // example for error
 }
 catch (error){
   console.log(error.message); // message is used to tell what error 
