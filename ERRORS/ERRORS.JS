@@ -3,4 +3,4 @@
 try{
 console.log(test); // example for error
 }
-catch 
+catch (error)
