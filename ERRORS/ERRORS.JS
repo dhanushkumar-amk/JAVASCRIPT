@@ -6,5 +6,5 @@ console.log(test); // example for error
 catch (error){
   console.log(error.message); // message is used to tell what error 
   console.log(error.name);  // name tells what type of error and error name
-  console.log(error.stack);  // stack tells 
+  console.log(error.stack);  // stack tells which line has error
  }
