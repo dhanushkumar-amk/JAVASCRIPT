@@ -36,6 +36,6 @@ console.log(something);
 // statically typed language
 
 // ex:
-int name 
+String name = 
 
 // dynamic typed language
