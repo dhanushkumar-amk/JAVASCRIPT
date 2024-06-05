@@ -11,7 +11,7 @@
 //   4 => undefined
 //   5 => null
 //   6 => BigInt    => above 64byte
-//   7 => Symbol    => uni
+//   7 => Symbol    => unique values
 
 // reference data type
 //  1 => object
