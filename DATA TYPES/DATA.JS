@@ -121,5 +121,7 @@ console.log(largeNum);
     let str = "Hello";
     let bool = true;
     
-    console.log(t);
+    console.log(typeof num);
+    console.log(typeof num);
+    console.log(typeof bool;
      
