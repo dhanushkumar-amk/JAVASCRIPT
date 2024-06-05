@@ -22,4 +22,4 @@
 
 let firstName = "Dhanush" // string data type within double quotes
 let age = 25   // Integer means number
-let 
+let result = true 
