@@ -93,3 +93,7 @@ console.log(num02);
 
 let largeNum = 1245646564515635412348923448234842842343546576876789n;  // use n on the last
 console.log(largeNum);
+
+
+
+// symbol
