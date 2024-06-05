@@ -112,4 +112,4 @@ console.log(largeNum);
       
     //   additional notes 
     
-    to check the data type of the various variables using 
+    // to check the data type of the various variables using typeof operator  
