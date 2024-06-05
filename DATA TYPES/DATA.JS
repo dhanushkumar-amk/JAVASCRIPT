@@ -37,6 +37,6 @@ console.log(something);
 
 // ex:
 // String name = "dhanush"
-// we can dec
+// we can declare
 
 // dynamic typed language
