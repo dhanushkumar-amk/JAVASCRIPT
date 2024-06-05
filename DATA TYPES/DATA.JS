@@ -51,4 +51,8 @@ console.log(something);
 
 // string
 
-we can use string 
+// we can use string 
+
+// Using the single quote
+// Using the double quote
+// Using the backticks
