@@ -79,6 +79,9 @@ console.log(num2);
 
 
 // also we use Exponential notation of numbers
+let num1 = 98e4;    // 980000
+let num2 = 98e-4;   // 0.0098
 
+console.log();
 
 let largeNum = 1245646564515635412348923448234842842343546576876789n;
