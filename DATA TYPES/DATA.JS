@@ -48,3 +48,7 @@ console.log(something);
 // we can't assign data types the compiler automatically assign the datatype 
 
 
+
+// string
+
+we can use string 
