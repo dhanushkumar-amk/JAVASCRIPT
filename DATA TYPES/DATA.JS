@@ -85,4 +85,9 @@ let num02 = 98e-4;   // 0.0098
 console.log(num01);
 console.log(num02);
 
+
+
+
+
+JavaScript stores only 64-bit long floating point numbers. If you want to store a very large number, you should use the Bigint. You can create Bigint by appending n to the end of the number.
 let largeNum = 1245646564515635412348923448234842842343546576876789n;
