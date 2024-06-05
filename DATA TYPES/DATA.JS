@@ -98,3 +98,5 @@ console.log(largeNum);
 
 // symbol
 // It is used to create unique primitive, and immutable values.
+// The Symbol() constructor can be used to create a unique symbol, and you may pass the string as a parameter of the Symbol() constructor.
+
