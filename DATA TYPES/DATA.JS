@@ -35,5 +35,7 @@ console.log(something);
 
 // statically typed language
 
-ex
+// ex:
+int name 
+
 // dynamic typed language
