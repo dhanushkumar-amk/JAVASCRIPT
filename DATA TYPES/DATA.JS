@@ -43,4 +43,4 @@ console.log(something);
 
 // ex : 
 // name = "dhanush"
-// we can't assign data types 
+// we can't assign data types the compiler automatically asign 
