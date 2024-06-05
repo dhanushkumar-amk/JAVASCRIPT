@@ -68,4 +68,5 @@ console.log(str3);
 
 // numbers
 
+// integer
 // 64-bit floating-point 
