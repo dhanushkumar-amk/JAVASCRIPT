@@ -39,7 +39,7 @@ console.log(something);
 // String name = "dhanush"
 // we can declare the data type at the time of declaration
 
-// dynamic typed language
+// dynamic typed language  => js
 
 // ex : 
 // name = "dhanush"
