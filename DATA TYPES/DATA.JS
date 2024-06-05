@@ -100,3 +100,6 @@ console.log(largeNum);
 // It is used to create unique primitive, and immutable values.
 // The Symbol() constructor can be used to create a unique symbol, and you may pass the string as a parameter of the Symbol() constructor.
 
+        let sym1 = Symbol("123");
+      let sym2 = Symbol("123");
+      let res = sym1 === sym2;
