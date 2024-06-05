@@ -27,5 +27,5 @@ let name;
 console.log(name); // by default you don't have any value is Undefined 
 
 
-let something = null;  // first you declare null then 
+let something = null;  // first you declare null then you can assign vak
 something = "some thing"
