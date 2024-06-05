@@ -74,4 +74,4 @@ console.log(str3);
 let num1 = 10; // Integer
 let num2 = 10.22; // Floating point number
 
-log
+console.log(nu);
