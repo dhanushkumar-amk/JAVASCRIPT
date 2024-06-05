@@ -107,6 +107,6 @@ console.log(typeof str);
 console.log(typeof bool);
 
 // output :
-number;
-string;
-boolean;
+        // number;
+        // string;
+        // boolean;
