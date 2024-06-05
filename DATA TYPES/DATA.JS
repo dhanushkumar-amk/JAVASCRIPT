@@ -33,4 +33,6 @@ console.log(something);
 
 
 
+// statically typed language
 
+// dynamic typed language
