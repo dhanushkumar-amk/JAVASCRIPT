@@ -102,6 +102,6 @@ console.log(largeNum);
 
       let sym1 = Symbol("123");
       let sym2 = Symbol("123");
-      let res = sym1 === sym2; // false because symbol isused to create  
+      let res = sym1 === sym2; // false because symbol is used to create  
       
       console.log(res);
