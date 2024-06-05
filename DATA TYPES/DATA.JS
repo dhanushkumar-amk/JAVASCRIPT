@@ -18,4 +18,6 @@
 
 
 
-// primitive 
+// primitive data type
+
+let first
