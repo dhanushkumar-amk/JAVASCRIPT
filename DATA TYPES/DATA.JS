@@ -33,13 +33,13 @@ console.log(something);
 
 
 
-// statically typed language => c++, c ,java
+// statically typed language => c++, c ,java etc
 
 // ex:
 // String name = "dhanush"
 // we can declare the data type at the time of declaration
 
-// dynamic typed language  => js
+// dynamic typed language  => js, python
 
 // ex : 
 // name = "dhanush"
