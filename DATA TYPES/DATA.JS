@@ -117,4 +117,7 @@ console.log(largeNum);
     
     // to check the data type of the various variables using typeof operator 
     
+    let num = 30;
+    let str = "Hello";
+    let bool = true;
      
