@@ -6,4 +6,4 @@
 // primitive data type
 
 //   1 => String
-//   2 => 
+//   2 => Integer
