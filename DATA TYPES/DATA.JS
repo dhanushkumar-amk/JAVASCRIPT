@@ -97,3 +97,4 @@ console.log(largeNum);
 
 
 // symbol
+// It is used to create unique primitive, and immutable values.
