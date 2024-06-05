@@ -37,6 +37,7 @@ console.log(something);
 
 // ex:
 // String name = "dhanush"
-// we can declare the data type at the time of decleration
+// we can declare the data type at the time of declaration
 
 // dynamic typed language
+
