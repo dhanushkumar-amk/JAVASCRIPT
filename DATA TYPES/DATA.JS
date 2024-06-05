@@ -20,4 +20,4 @@
 
 // primitive data type
 
-let firstName = "Dhanush"
+let firstName = "Dhanush" -> 
