@@ -21,4 +21,4 @@
 // primitive data type
 
 let firstName = "Dhanush" // string data type within double quotes
-let age = 
+let age = 25   // 
