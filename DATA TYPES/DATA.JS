@@ -20,4 +20,4 @@
 
 // primitive data type
 
-let firstName = "Dhanush" // string data type within double 
+let firstName = "Dhanush" // string data type within double quotes
