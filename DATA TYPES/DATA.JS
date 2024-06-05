@@ -105,3 +105,9 @@ console.log(largeNum);
       let res = sym1 === sym2; // false because symbol is used to create unique values 
       
       console.log(res);
+      
+      
+      
+      
+      
+      
