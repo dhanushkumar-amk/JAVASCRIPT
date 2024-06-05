@@ -30,3 +30,7 @@ console.log(name); // by default you don't have any value is Undefined
 let something = null;  // first you declare null then you can assign value later
 something = "some thing"
 console.log(something);
+
+
+
+
