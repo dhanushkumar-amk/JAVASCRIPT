@@ -77,6 +77,7 @@ let num2 = 10.22; // Floating point number
 console.log(num1);
 console.log(num2);
 
-also we use expo
+also we use 
 
 
+let largeNum = 1245646564515635412348923448234842842343546576876789n;
