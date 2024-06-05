@@ -3,4 +3,4 @@
 // primitive data type
 // reference data type
 
-// prem
+// primitive data type
