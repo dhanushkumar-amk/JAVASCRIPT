@@ -27,5 +27,5 @@ let name;
 console.log(name); // by default you don't have any value is Undefined 
 
 
-let something = null; 
+let something = null;  // first 
 something = "some thing"
