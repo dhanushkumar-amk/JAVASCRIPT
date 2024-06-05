@@ -76,3 +76,7 @@ let num2 = 10.22; // Floating point number
 
 console.log(num1);
 console.log(num2);
+
+
+
+
