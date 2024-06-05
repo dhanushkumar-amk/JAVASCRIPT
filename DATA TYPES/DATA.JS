@@ -41,3 +41,4 @@ console.log(something);
 
 // dynamic typed language
 
+ex : 
