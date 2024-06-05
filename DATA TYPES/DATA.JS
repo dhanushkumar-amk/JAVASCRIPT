@@ -87,7 +87,8 @@ console.log(num02);
 
 
 
-
+BigInt
 
 // JavaScript stores only 64-bit long floating point numbers. If you want to store a very large number, you should use the Bigint. You can create Bigint by appending n to the end of the number.
+
 let largeNum = 1245646564515635412348923448234842842343546576876789n;
