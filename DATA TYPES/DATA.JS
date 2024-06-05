@@ -33,7 +33,7 @@ console.log(something);
 
 
 
-// statically typed language =
+// statically typed language => c++, c jva
 
 // ex:
 // String name = "dhanush"
