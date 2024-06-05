@@ -1,3 +1,5 @@
 // data types in java
 
-// primit
+// primitive data type
+// reference data type
+
