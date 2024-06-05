@@ -22,4 +22,4 @@
 
 let firstName = "Dhanush" // string data type within double quotes
 let age = 25   // Integer means number
-let result = true // boolean => true o
+let result = true // boolean => true or false 
