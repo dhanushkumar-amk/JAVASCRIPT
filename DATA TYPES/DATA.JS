@@ -120,4 +120,6 @@ console.log(largeNum);
     let num = 30;
     let str = "Hello";
     let bool = true;
+    
+    console.log(t);
      
