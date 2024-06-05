@@ -11,7 +11,7 @@
 //   4 => undefined  
 //   5 => null
 //   6 => BigInt
-//   Symbol
+//   7 => Symbol
 
 // reference data type
 //  1 => object
