@@ -12,3 +12,4 @@
 //   5 => null
 
 // reference data type
+ 1 => <object data="2" type=""></object>
