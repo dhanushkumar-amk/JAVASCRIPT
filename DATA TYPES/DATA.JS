@@ -35,4 +35,5 @@ console.log(something);
 
 // statically typed language
 
+ex
 // dynamic typed language
