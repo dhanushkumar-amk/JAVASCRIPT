@@ -25,3 +25,6 @@ let age = 25   // Integer means number
 let result = true // boolean => true or false | 0 or 1
 let name;  
 console.log(name); // by default you don't have any value is Undefined 
+
+
+let 
