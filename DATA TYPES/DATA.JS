@@ -10,8 +10,8 @@
 //   3 => Boolean
 //   4 => undefined  
 //   5 => null
-// BigInt
-// Symbol
+//   6 => BigInt
+//   Symbol
 
 // reference data type
 //  1 => object
