@@ -122,6 +122,6 @@ console.log(largeNum);
     let bool = true;
     
     console.log(typeof num);
-    console.log(typeof s);
+    console.log(typeof str);
     console.log(typeof bool);
      
