@@ -83,6 +83,6 @@ let num01 = 98e4;    // 980000
 let num02 = 98e-4;   // 0.0098
 
 console.log(num01);
-console.log(num2);
+console.log(num02);
 
 let largeNum = 1245646564515635412348923448234842842343546576876789n;
