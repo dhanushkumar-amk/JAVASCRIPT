@@ -10,7 +10,7 @@
 //   3 => Boolean
 //   4 => undefined
 //   5 => null
-//   6 => BigInt  
+//   6 => BigInt  above 65b
 //   7 => Symbol
 
 // reference data type
