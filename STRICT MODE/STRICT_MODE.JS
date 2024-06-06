@@ -16,4 +16,5 @@ x = 100; // This is not valid
 console.log(x);  // x is not defined
 
 
+// without strict mode
 
