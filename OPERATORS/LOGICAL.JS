@@ -3,6 +3,9 @@
 // LOGICAL NOT   => !
 
 
+
+// LOGICAL AND   => &&
+
 true && true; // returns true
 true && false;// returns false
 false && true; // returns false
