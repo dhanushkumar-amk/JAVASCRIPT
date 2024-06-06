@@ -43,4 +43,5 @@ console.log(x % y);
 // increment and decrement
  
 //increment operator
-1 => Postfix Increment Operator
+// 1 => Postfix Increment Operator
+// 2 => 
