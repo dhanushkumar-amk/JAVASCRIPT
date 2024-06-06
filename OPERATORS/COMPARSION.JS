@@ -30,6 +30,9 @@
     console.log(a==b); // true
     console.log(a===b); // false
     
+    
+    // The "equality" operator checks if the value of two operands are equal or not.
+    
     // The "strict equality" operator checks whether the values and data types of the two operands are equal or not.
     
     
