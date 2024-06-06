@@ -9,7 +9,7 @@
 
 
 // abstract    	double    	implements	                  return
-// arguments    	else    	in                  	switch
+// arguments    else    	in                  	switch
 // await	    enum	    instanceof                  	synchronized
 // boolean    	eval	    int                  	this
 // break    	export	    interface                  throw
