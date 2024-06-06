@@ -70,7 +70,7 @@ var b3 = a3--;  // postfix decrement
 console.log(x1);
 console.log(y1);
 console.log(a3);
-console.log(a3);
+console.log(b3);
 
 // decrement operator
 
