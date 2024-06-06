@@ -8,5 +8,5 @@
 // var function = "Hello";   function is keyword used to declare the function
 
 
-// abstract 	double	implements	return
-// arguments	else	in	switch
+// abstract 	double	 implements  	return
+// arguments	else	 in	switch
