@@ -59,4 +59,4 @@ console.log(b1);
 
 
 
-The prefix increment operator increments the value of the variable before its current value is used.
+// The prefix increment operator increments the value of the variable before its current value is used.
