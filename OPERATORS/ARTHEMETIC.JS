@@ -67,7 +67,8 @@ var y1 = --x1;  //prefix decrement
 var a3 = 10;
 var b3 = a3--;  // postfix decrement
 
-console.log();
+console.log(x1);
+console.log(y1);
 
 // decrement operator
 
