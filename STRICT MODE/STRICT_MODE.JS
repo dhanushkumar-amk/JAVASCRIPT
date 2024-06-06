@@ -19,6 +19,6 @@ console.log(x);  // x is not defined
 // without strict mode
 
 let y1 = 100;
-x = 200;
+x1 = 200;
 console.log(y1);
-console.log(y);
+console.log(x1);
