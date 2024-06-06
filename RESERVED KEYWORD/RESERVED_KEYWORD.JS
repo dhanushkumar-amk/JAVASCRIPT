@@ -24,4 +24,4 @@ debugger	goto	protected	volatile
 default	if	public	yield
 delete	implements	short	while
 do	import	static	with
-double	in	super");
+double	in	"super");
