@@ -35,3 +35,9 @@ console.log(x % y);
 // If string contains non numeric value, it will return NaN.
 
 // If any operand is NaN or Infinity, the result will be NaN or Infinity respectively.
+
+
+
+
+
+// increment 
