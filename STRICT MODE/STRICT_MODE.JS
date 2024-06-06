@@ -8,7 +8,7 @@
 // When you add the 'use strict' at the top of the JavaScript code; it uses the strict mode for the whole code.
 
 
-// with struct
+// with strict mode
 "use strict";
 let y = 50; // This is valid
 console.log(y);
