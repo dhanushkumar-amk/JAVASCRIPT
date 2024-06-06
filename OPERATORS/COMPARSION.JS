@@ -41,5 +41,5 @@
        
     // The "inequality" operator checks if the values of two operands are not equal.
     
-    10 != 10; // false
-10 != 20; // true
+//     10 != 10; // false
+// 10 != 20; // true
