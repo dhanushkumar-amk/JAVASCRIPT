@@ -1,1 +1,3 @@
 // LOGICAL AND
+// LOGICAL OR
+// LOG
