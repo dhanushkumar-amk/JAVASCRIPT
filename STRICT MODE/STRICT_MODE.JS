@@ -18,4 +18,4 @@ console.log(x);  // x is not defined
 
 // without strict mode
 
-let y1 = 
+let y1 = 100;
