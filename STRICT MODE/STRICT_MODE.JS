@@ -18,5 +18,5 @@ let y1 = 100;
 x1 = 200;
 console.log(y1);
 console.log(x1);
-100
+// 100
 // 200
