@@ -61,5 +61,9 @@ console.log(b2);
 
 // now a2 is 11 and b2 is also 11
 
+
+
+
+
 // decrement operator
 
