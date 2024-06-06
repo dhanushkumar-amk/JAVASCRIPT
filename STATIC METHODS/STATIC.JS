@@ -6,3 +6,11 @@
 
 // global scope
 // When you add the 'use strict' at the top of the JavaScript code; it uses the strict mode for the whole code.
+
+
+
+"use strict";
+let y = 50; // This is valid
+document.write("The value of the X is: " + y);
+x = 100; // This is not valid
+document.write("The value of the X is: " + x);
