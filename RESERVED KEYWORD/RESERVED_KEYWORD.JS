@@ -8,11 +8,11 @@
 // var function = "Hello";   function is keyword used to declare the function
 
 
-// abstract    	double    	implements	                  return
+// abstract    	double    	implements	            return
 // arguments    else    	in                  	switch
-// await	    enum	    instanceof                  	synchronized
+// await	    enum	    instanceof              synchronized
 // boolean    	eval	    int                  	this
-// break    	export	    interface                  throw
+// break    	export	    interface               throw
 // byte    	    extends	    let                  	throws
 // case	        false	    long	                  transient
 // catch    	final    	native                  	true
