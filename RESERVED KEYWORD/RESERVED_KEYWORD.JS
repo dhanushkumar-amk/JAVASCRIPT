@@ -5,4 +5,4 @@
 
 
 // ex :
-// var function = "Hello";   function is keyword 
+// var function = "Hello";   function is keyword used to declare the function
