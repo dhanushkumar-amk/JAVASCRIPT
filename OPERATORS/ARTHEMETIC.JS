@@ -3,4 +3,7 @@
 // +   Addition
 // - Subtraction
 // * multiplication
-// / di
+// / division
+// % modulus
+
+
