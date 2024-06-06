@@ -19,5 +19,6 @@ console.log(true && false);
 console.log(false && true);
 console.log(false && false);
 
+// The logical OR (||) operator
 
 // The logical OR (||) operator also evaluates the operands from left to right. If the first operand can be converted to true, it will return the value of first operand, otherwise it will return the value of the second operand.
