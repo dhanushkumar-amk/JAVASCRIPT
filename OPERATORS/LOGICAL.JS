@@ -6,7 +6,7 @@
 
 // LOGICAL AND   => &&
 
-// both co
+// both cond
 
 true && true; // returns true
 true && false;// returns false
