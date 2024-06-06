@@ -37,4 +37,7 @@ console.log(false || false);
 // if any one condition is true then return true else if the both condition is false return false
 
 
+
+
+
 // The logical NOT (!) Operator is a unary operator. It returns false if the operand can be converted to true, otherwise it returns true.
