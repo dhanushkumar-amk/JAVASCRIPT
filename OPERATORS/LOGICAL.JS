@@ -24,3 +24,7 @@ console.log(false && false);
 // The logical OR (||) operator also evaluates the operands from left to right. If the first operand can be converted to true, it will return the value of first operand, otherwise it will return the value of the second operand.
 
 
+true || true; // returns true
+true || false; // returns true
+false || true; // returns true
+false || false; // returns false
