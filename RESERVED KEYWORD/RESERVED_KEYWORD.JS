@@ -5,4 +5,4 @@
 
 
 // ex :
-// var function = "Hello";
+// var function = "Hello";   function is keyword 
