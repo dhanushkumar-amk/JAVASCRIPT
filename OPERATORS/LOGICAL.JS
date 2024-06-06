@@ -12,4 +12,5 @@ false && true; // returns false
 false && false; // returns false
 
 
-console.log();
+console.log(true && true);
+console.log(true && true);
