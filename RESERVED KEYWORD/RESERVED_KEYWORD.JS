@@ -3,3 +3,4 @@
 
 // you can't use the reserved keywords as an identifier
 
+var function = "Hello";
