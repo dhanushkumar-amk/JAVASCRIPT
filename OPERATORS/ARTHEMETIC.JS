@@ -48,6 +48,7 @@ console.log(x % y);
 
 
 // 1 => Postfix Increment Operator
+// The postfix increment operator increments the value of the variable after its current value is used
 
 var a1 = 10;
 var b1 = a1++; // a1 is now 11 but b1 is 10.
