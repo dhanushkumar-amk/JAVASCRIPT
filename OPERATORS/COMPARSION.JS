@@ -37,6 +37,6 @@
     
     
     
-    // nequality (!=) Operator
+    // inequality (!=) Operator
     
     
