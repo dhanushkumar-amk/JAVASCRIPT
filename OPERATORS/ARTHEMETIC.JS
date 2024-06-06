@@ -47,3 +47,4 @@ console.log(x % y);
 // 2 => Prefix Increment Operator
 
 
+// 1 => Postfix Increment Operator
