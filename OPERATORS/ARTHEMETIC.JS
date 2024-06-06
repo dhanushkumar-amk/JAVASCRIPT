@@ -62,7 +62,10 @@ console.log(b2);
 // now a2 is 11 and b2 is also 11
 
 
-
+var x1 = 10;
+var y1 = --x;  //prefix decrement
+var a = 10;
+var b = a--;  // postfix decrement
 
 
 // decrement operator
