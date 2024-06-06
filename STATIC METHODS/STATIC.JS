@@ -4,3 +4,5 @@
 // syntax :
 // 'use strict';
 
+// global scope
+// When you add the 'use strict' at the top of the JavaScript code; it uses the strict mode for the whole code.
