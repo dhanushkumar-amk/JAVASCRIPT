@@ -56,3 +56,7 @@ var b1 = a1++; // a1 is now 11 but b1 is 10.
 
 console.log(a1);
 console.log(b1);
+
+
+
+The prefix increment operator increments the value of the variable before its current value is used.
