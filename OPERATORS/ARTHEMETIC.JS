@@ -33,4 +33,5 @@ console.log(x % y);
 // If any or both operands are strings (containing only numbers), it first converts the strings to number and then performs subtraction operations.
 
 // If string contains non numeric value, it will return NaN.
+
 // If any operand is NaN or Infinity, the result will be NaN or Infinity respectively.
