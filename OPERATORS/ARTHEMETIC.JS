@@ -42,3 +42,4 @@ console.log(x % y);
 
 // increment and decrement
  
+//increment operator
