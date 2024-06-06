@@ -53,3 +53,4 @@ var a1 = 10;
 var b1 = a1++; // a1 is now 11 but b1 is 10.
 
 console.log(a1);
+console.log(b1);
