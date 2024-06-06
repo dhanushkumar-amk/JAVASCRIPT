@@ -3,9 +3,9 @@
 
 
 // Operator	  Description	 Example
-// ==	      Equal	          x == y
-// !=	      Not Equal	      x != y
-// ===	      Strict equality x === y
+// ==	      Equal	              x == y
+// !=	      Not Equal	          x != y
+// ===	      Strict equality      x === y
 // !==	    Strict inequality    	x !== y
 // >	Greater than	x > y
 // <	Less than	x < y<
