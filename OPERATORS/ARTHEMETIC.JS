@@ -1,5 +1,4 @@
 // ARITHMETIC OPERATOR
-
 // +   Addition
 // - Subtraction
 // * multiplication
@@ -8,7 +7,7 @@
 // -- increment
 // ++ decrement
 
-var x= 20;
+var x = 20;
 var y = 40;
 
 console.log(x + y);
@@ -24,8 +23,6 @@ console.log(x % y);
 // 0.5
 // 20
 
-
-
 // The subtraction operator uses numeric operands but can also be used for non-numeric operands such as strings.
 
 // If both operands are numbers, then resultant is number.
@@ -36,16 +33,11 @@ console.log(x % y);
 
 // If any operand is NaN or Infinity, the result will be NaN or Infinity respectively.
 
-
-
-
-
 // increment and decrement
- 
+
 //increment operator
 // 1 => Postfix Increment Operator
 // 2 => Prefix Increment Operator
-
 
 // 1 => Postfix Increment Operator
 
@@ -57,14 +49,12 @@ var b1 = a1++; // a1 is now 11 but b1 is 10.
 console.log(a1);
 console.log(b1);
 
-
 // 2 => Prefix Increment Operator
 
 // The prefix increment operator increments the value of the variable before its current value is used.
 
-
 var a2 = 10;
 var b2 = ++a2;
 
-console.log(a2);
+console.log(a2); 
 console.log(b2);
