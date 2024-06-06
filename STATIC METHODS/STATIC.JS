@@ -11,6 +11,6 @@
 
 "use strict";
 let y = 50; // This is valid
-document.write("The value of the X is: " + y);
+console.log(y);
 x = 100; // This is not valid
-document.write("The value of the X is: " + x);
+log
