@@ -64,7 +64,7 @@ console.log(b1);
 
 
 var a2 = 10;
-var b2 = a2++;
+var b2 = ++a2;
 
 console.log(a2);
 console.log(b2);
