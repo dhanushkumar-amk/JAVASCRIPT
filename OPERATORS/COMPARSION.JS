@@ -44,3 +44,4 @@
 //     10 != 10; // false
 // 10 != 20; // true
 
+// The "strict equality" operator checks whether the values and data types of the two operands are equal or not. It returns true if both operands are equal and of same type.
