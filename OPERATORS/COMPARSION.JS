@@ -2,11 +2,11 @@
 
 
 
-// Operator	  Description	 Example
+// Operator	  Description	     Example
 // ==	      Equal	              x == y
 // !=	      Not Equal	          x != y
-// ===	      Strict equality      x === y
-// !==	    Strict inequality    	x !== y
+// ===	      Strict equality     x === y
+// !==	    Strict inequality     x !== y
 // >	Greater than	x > y
 // <	Less than	x < y<
 // >=	Greater than or Equal to	x >= y
