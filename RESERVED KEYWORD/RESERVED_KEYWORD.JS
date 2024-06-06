@@ -8,3 +8,4 @@
 // var function = "Hello";   function is keyword used to declare the function
 
 
+console.table("");
