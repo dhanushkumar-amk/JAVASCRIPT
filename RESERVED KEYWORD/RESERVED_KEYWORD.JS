@@ -13,8 +13,8 @@
 // await	    enum	    instanceof                  	synchronized
 // boolean    	eval	    int                  	this
 // break    	export	    interface                  throw
-// byte    	extends	    let                  	throws
-// case	    false	    long	                  transient
+// byte    	    extends	    let                  	throws
+// case	        false	    long	                  transient
 // catch    	final    	native                  	true
 // char    	finally	    new	                  try
 // class    	float	    null                  	typeof
