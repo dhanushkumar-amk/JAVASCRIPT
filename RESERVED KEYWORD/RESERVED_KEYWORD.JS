@@ -18,8 +18,8 @@
 // catch    	final    	native                  	true
 // char      	finally	    new	                  try
 // class    	float	    null                  	typeof
-// const	    for    	   package                  	var
-// continue    	function    	private                  	void
+// const	    for    	    package                  	var
+// continue    	function    private                  	void
 // debugger    	goto    	protected                  	volatile
 // default    	if	    public                  	yield
 // delete    	implements	    short                  	while
