@@ -22,6 +22,6 @@
 // continue    	function    private                  	void
 // debugger    	goto    	protected                  	volatile
 // default    	if	        public                  	yield
-// delete    	implements	    short                  	while
-// do	    import	    static                  	with
+// delete    	implements  short                  	while
+// do	       import	    static                  	with
 // double    	in	    super
