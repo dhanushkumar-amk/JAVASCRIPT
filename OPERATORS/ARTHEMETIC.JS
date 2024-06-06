@@ -72,10 +72,10 @@ console.log(y1);
 console.log(a3);
 console.log(b3);
 
-9
-9
-9
-10
+// 9
+// 9
+// 9
+// 10
 
 // decrement operator
 
