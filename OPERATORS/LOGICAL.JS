@@ -1,3 +1,4 @@
 // LOGICAL AND
 // LOGICAL OR
-// LOG
+// LOGICAL NOT
+
