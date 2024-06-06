@@ -34,4 +34,4 @@ console.log(true || false);
 console.log(false || true);
 console.log(false || false);
 
-// if any one condition is true then return true else 
+// if any one condition is true then return true else if the both condition is false return false
