@@ -24,4 +24,4 @@
 
 // Equality (==) Operator
 
-    CONST A = 10
+    con = 10
