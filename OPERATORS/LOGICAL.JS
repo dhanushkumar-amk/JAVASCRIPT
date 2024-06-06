@@ -43,7 +43,7 @@ console.log(false || false);
 // The logical NOT (!) Operator is a unary operator. It returns false if the operand can be converted to true, otherwise it returns true.
 
 
-
+// Logical Operators Precedence
 
 // Logical NOT (!)
 // Logical AND (&&)
