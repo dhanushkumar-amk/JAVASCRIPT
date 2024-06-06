@@ -9,7 +9,7 @@
 
 
 
-"use strict";
+// "use strict";
 let y = 50; // This is valid
 console.log(y);
 x = 100; // This is not valid
