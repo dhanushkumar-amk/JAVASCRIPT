@@ -24,4 +24,4 @@
 
 // Equality (==) Operator
 
-    con = 10
+    const a = 10
