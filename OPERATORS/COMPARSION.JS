@@ -24,4 +24,4 @@
 
 // Equality (==) Operator
 
-A
+VAR A = 10
