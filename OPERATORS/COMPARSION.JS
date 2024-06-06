@@ -4,7 +4,7 @@
 
 // Operator	  Description	 Example
 // ==	      Equal	          x == y
-// !=	Not Equal	x != y
+// !=	      Not Equal	x != y
 // ===	Strict equality (equal value and equal type)	x === y
 // !==	Strict inequality (not equal value or not equal type)	x !== y
 // >	Greater than	x > y
