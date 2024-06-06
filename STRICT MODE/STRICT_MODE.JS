@@ -20,4 +20,5 @@ console.log(x);  // x is not defined
 
 let y1 = 100;
 x = 200;
-console.log(x);
+console.log(y);
+console.log(y);
