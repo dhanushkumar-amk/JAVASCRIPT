@@ -1,4 +1,4 @@
-// LOGICAL AND   => 
-// LOGICAL OR
+// LOGICAL AND   => &&
+// LOGICAL OR    => ||
 // LOGICAL NOT
 
