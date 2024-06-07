@@ -1,5 +1,4 @@
-// The JavaScript if...else statement executes a block of code when the specified condition is true. When the condition is false the else block will be executed. The if-else statements can be used to control the flow of execution of a program based on different conditions.
-// Types of if statement
+// The JavaScript if...else statement executes a block of code when the specified condition is true. When the condition is false the else block will be executed. The if-else statements can be used to control the flow of execution of a program based on different conditions.// Types of if statement
 
 // if statement
 // if...else statement
@@ -32,19 +31,17 @@ if (age > 18) {
   console.log('Does not qualify for driving'); // Does not qualify for driving
 }
 
-
-// if else if 
+// if else if
 
 // The if...else if... statement (also called as if...else ladder)is an advanced form of if…else that allows JavaScript to make a correct decision out of several conditions.
 
-
-let book = "maths";
-      if (book == "history") {
-        console.log("History Book ");
-      } else if (book == "maths") {
-       console.log("Maths Book");
-      } else if (book == "economics") {
-         console.log("Economics Book");
-      } else {
-         console.log("Unknown Book");
-      }
+let book = 'maths';
+if (book == 'history') {
+  console.log('History Book ');
+} else if (book == 'maths') {
+  console.log('Maths Book');
+} else if (book == 'economics') {
+  console.log('Economics Book');
+} else {
+  console.log('Unknown Book');
+}
