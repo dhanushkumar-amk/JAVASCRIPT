@@ -30,4 +30,4 @@ if(age > 5){
 
 // if...else statement
 
-it consistes 
+it consists  two 
