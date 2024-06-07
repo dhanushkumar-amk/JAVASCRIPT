@@ -43,6 +43,9 @@
 // 5   =>  00000000000000000000000000000101
 // 5~  =>  11111111111111111111111111111010 (= -6)
 
+// ex :
+const d 
+
 // Left Shift (<<) Operator
 
 // The JavaScript bitwise left shift (<<) operator moves all the bits in its first operand to the left by the number of places specified in the second operand. New bits are filled with zeros from the right and left most bits are discarded.
