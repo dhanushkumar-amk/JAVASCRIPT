@@ -20,4 +20,13 @@ while (x < 20) {
 
 // Continue statement
 
-the continue statement is used to 
+// the continue statement is used to skip that the iteration is comes true 
+
+var x = 0;
+while (x < 20) {
+  if (x == 5) {
+    break; // breaks out of loop completely
+  }
+  x++;
+  console.log(x);
+}
