@@ -39,4 +39,5 @@
 
 
 
-// Bitwise 
+// Bitwise nor ^
+
