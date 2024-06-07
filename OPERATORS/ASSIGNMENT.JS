@@ -15,8 +15,8 @@
 // ex :
 
 // ==  simple assignment
-const a = 25;
+const a1 = 25;
 
 // addition assignment
  a  += 5;
- console.log();
+ console.log(a);
