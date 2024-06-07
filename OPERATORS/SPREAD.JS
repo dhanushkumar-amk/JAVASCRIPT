@@ -27,9 +27,9 @@ const car = {
  
  console.log(car);
  
- const person = {
-    name : "ram",
-    age : 25,
-    ...car
+ const BMW = {
+    model: "X5",
+    year: 2019,
+    ...car,
  }
  console.log(person);
