@@ -31,3 +31,10 @@ if (age > 18) {
 } else {
   console.log('Does not qualify for driving'); // Does not qualify for driving
 }
+
+
+// if else if 
+
+// The if...else if... statement (also called as if...else ladder)is an advanced form of if…else that allows JavaScript to make a correct decision out of several conditions.
+
+
