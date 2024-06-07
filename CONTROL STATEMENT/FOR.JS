@@ -60,3 +60,6 @@ let car = {
 //  model
 //  color
 
+
+
+ for of 
