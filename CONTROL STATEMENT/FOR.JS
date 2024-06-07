@@ -8,5 +8,5 @@
 // Iteration − The iteration expression is where you can increase or decrease your counter.
 
 // for (initialization; condition; iteration) {
-    Statement(s) to be executed if condition is true
-}
+    // Statement(s) to be executed if condition is true
+// }
