@@ -25,6 +25,6 @@ console.log( person); // { name: 'dhanush', salary: 100000 }
 
 const arr = [10, 20, 30, 40, 50, 60];
    delete arr[1];
-   console.log(arr);  // 
+   console.log(arr);  // [ 10, <1 empty item>, 30, 40, 50, 60 ]
    
    // if we delete the array element  it became empty but the position is same and length of the array is same 
