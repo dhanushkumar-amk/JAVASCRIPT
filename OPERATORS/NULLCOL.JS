@@ -7,4 +7,8 @@
 
 
 
-EX :
+// EX :
+let x = null;
+      let y = x ?? 5;
+      
+      
