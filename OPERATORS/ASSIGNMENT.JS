@@ -14,4 +14,4 @@
 
 // ex :
 
-// ==  
+// ==  simple assignment
