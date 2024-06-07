@@ -5,5 +5,5 @@
 // simple example for spread operator
 
 let x = ["Dhanush", "kumar"];
-console.log(x);  // [ 'Dhanush', 'kumar' ]  it return as a object
-console.log(...x); // Dhanush kumar it convert the object into the string
+console.log(x);  // [ 'Dhanush', 'kumar' ] =>  it return as a object
+console.log(...x); // Dhanush kumar => it convert the object into the string
