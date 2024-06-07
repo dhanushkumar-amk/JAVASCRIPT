@@ -7,3 +7,4 @@
 // do while loop
 
 var count = 0;
+while (cu)
