@@ -7,4 +7,6 @@
 // do while loop
 
 var count = 0;
-while (cu)
+while (count < 5){
+    
+}
