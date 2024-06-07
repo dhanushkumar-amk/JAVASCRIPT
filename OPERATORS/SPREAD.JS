@@ -27,4 +27,6 @@ const car = {
  
  console.log(car);
  
- const 
+ const person = {
+    
+ }
