@@ -87,4 +87,4 @@
 
 
 const a = 5;
-console.log();
+console.log(a >>> );
