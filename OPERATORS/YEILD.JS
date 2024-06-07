@@ -5,4 +5,4 @@
 // SYNTAX : 
 // yield expression;
 
-// yeild 
+// yield operator i  
