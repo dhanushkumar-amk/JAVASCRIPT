@@ -23,3 +23,4 @@ console.log(res);
 
 const value = "";
 const name = user? value : "stranger";
+console.log(name);
