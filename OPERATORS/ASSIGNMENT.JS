@@ -32,4 +32,4 @@ let a = 10;
 //  (Multiplication Assignment)
 let c = 10;
 c *= 5;
-console.log();
+console.log(c);
