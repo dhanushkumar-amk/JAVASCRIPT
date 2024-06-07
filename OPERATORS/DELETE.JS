@@ -5,3 +5,7 @@
 // It works only with the objects not with the variables or functions.
 
 
+// syntax :
+delete obj.property;
+ OR
+delete obj["property"];
