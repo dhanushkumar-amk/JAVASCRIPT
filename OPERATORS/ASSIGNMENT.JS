@@ -40,9 +40,11 @@ let d = 10;
 d /= 2; // d = d/2;
 console.log(d); // 5
 
+
 // Remainder Assignment
 let e = 5;
 e %= 5; // e = e % 5;
 console.log(e); // 0
+
 
 // (Exponentiation Assignment)
