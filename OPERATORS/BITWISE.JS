@@ -6,7 +6,7 @@
 //RIGHT SHIFT
 
 
-// BITWISE AND &&
+// BITWISE AND &
 
 // 0   0    0
 // 1   0    0
