@@ -14,12 +14,12 @@ console.log(typeof Symbol()); // returns 'symbol'
 console.log(typeof 10n); // big int
 
 
-number
-string
-boolean
-object
-function
-undefined
-object
-symbol
-bigint
+// number
+// string
+// boolean
+// object
+// function
+// undefined
+// object
+// symbol
+// bigint
