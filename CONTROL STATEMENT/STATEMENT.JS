@@ -1,23 +1,4 @@
-//control flow statement///////////////
-//
-///
-//
-//
-//
-//
-//
-//
-///
-///
-///
-//
-
-//
-//
-//
-//
-//
-//
+//control flow statement
 //
 // three types
 // 1 => conditional statement
