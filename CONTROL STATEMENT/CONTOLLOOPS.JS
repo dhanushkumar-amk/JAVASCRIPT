@@ -25,7 +25,7 @@ while (x < 20) {
 var y = 0;
 while (y < 20) {
   if (y == 5) {
-    break; // breaks out of loop completely
+   continue // breaks out of loop completely
   }
   y++;
   console.log(y);
