@@ -22,11 +22,11 @@ while (x < 20) {
 
 // the continue statement is used to skip that the iteration is comes true 
 
-var x = 0;
-while (x < 20) {
-  if (x == 5) {
+var y = 0;
+while (y < 20) {
+  if (y == 5) {
     break; // breaks out of loop completely
   }
-  x++;
-  console.log(x);
+  y++;
+  console.log(y);
 }
