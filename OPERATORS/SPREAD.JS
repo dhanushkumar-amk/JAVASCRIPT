@@ -9,4 +9,4 @@ console.log(x);  // [ 'Dhanush', 'kumar' ] =>  it return as a object
 console.log(...x); // Dhanush kumar => it convert the object into the string
 
 
-// spread operator is also  used to covcv 
+// spread operator is also  used to concate the two arrays 
