@@ -45,4 +45,13 @@ for (let count = 0; count < 10; count++) {
 //     statement or block to execute
 //  }
 
-e :
+// ex :
+
+let car = {
+    brand: "OD",
+    model: "Q7",
+    color: "Black",
+ }
+ for (key in car) {
+    output.innerHTML += key + " -> " + car[key] + "<br>";
+ }
