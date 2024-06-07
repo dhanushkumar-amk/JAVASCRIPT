@@ -3,4 +3,6 @@
 // The while loop is an entry-controlled loop.
 
 
-while loop
+// while loop
+// do while loop
+
