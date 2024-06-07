@@ -35,4 +35,5 @@ c *= 5; // c = c * 5
 console.log(c); // 50
 
 // (Division Assignment)
-let d = 
+let d = 10;
+d 
