@@ -68,5 +68,5 @@ let car = {
 
 const arr = ["JavaScript", "Python", "C", "C++", "HTML", "CSS"];
 for (let ele of arr) {
-    output.innerHTML += ele + "<br>";
+   console.log(ele);
 }
