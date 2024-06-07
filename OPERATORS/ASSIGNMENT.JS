@@ -22,8 +22,8 @@ let a = 10;
  a  += 5;  // a = a + 5;
  console.log(a); // 15
  
- // Subtraction Assignment	
  
+ // Subtraction Assignment	
  let b = 10;
  b  -= 5;  // b = b - 5;
  console.log(b); // 5
