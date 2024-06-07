@@ -20,4 +20,4 @@ const person = {
     salary : 100000,
 }
 
-delete[person.age];
+const result = delete[person.age];
