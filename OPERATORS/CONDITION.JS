@@ -14,4 +14,4 @@
 
 var num1 = 25;
 var num2 = 20;
-var res = 
+var res = num
