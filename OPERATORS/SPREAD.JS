@@ -32,4 +32,4 @@ const car = {
     age : 25,
     ...car
  }
- console.log(per);
+ console.log(person);
