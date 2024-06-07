@@ -16,5 +16,5 @@ const person = {
   salary: 100000,
 };
 
-delete [person.age];
+delete person.age;
 console.log(person);
