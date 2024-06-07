@@ -12,3 +12,4 @@
 // exp2 − If the conditional statement evaluates falsy, control flow executes the exp2 expression.
 
 
+var num1 = 
