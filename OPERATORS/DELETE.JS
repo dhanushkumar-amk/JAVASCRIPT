@@ -14,4 +14,6 @@
 // ex :
 
 
-const 
+const person = {
+    
+}
