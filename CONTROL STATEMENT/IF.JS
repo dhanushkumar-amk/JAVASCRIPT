@@ -35,7 +35,7 @@ if(age > 5){
 
 let age = 15;
 if( age > 18 ) {
-   result = "Qualifies for driving";
+   result = ;
 } else {
    result = "Does not qualify for driving";
 }
