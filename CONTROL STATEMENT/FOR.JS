@@ -37,4 +37,5 @@ for (let count = 0; count < 10; count++) {
 
 // for In loop   => object
 
-The for...in loop in JavaScript is used to loop through an object's properties. The JavaScript for...in loop is a variant of the for loop. The for loop can't be used to traverse through the object properties. So, the for...in loop is introduced to traverse through all object properties.
+// The for...in loop in JavaScript is used to loop through an object's properties. The JavaScript for...in loop is a variant of the for loop. The for loop can't be used to traverse through the object properties. So, the for...in loop is introduced to traverse through all object properties.
+
