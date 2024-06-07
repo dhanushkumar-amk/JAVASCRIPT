@@ -41,4 +41,5 @@ console.log(d); // 5
 
 // Remainder Assignment
 let e = 5;
-e %= 5; // e = e % 
+e %= 5; // e = e % 5;
+console.log(e);
