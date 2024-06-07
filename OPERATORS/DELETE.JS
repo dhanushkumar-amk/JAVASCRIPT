@@ -17,4 +17,4 @@ const person = {
 };
 console.log("Before deleting : "+ person);
 delete person.age;
-console.log("After Deleting : "person);
+console.log("After Deleting : " + person);
