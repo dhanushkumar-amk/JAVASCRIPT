@@ -21,3 +21,4 @@ const person = {
 }
 
 const result = delete[person.age];
+console.log(result);
