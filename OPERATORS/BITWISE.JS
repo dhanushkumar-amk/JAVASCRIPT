@@ -56,3 +56,6 @@
 
 // Left Shift (<<) Operator
 
+The JavaScript bitwise left shift (<<) operator moves all the bits in its first operand to the left by the number of places specified in the second operand. New bits are filled with zeros from the right and left most bits are discarded.
+
+Shifting a value left by one position is equivalent to multiplying it by 2, shifting two positions is equivalent to multiplying by 4, 
