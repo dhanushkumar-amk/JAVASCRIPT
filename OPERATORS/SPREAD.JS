@@ -30,5 +30,6 @@ const car = {
  const person = {
     name : "ram",
     age : 25,
-    ...
+    ...car
  }
+ console.log(per);
