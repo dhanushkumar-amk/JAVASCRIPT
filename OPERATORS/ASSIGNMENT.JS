@@ -20,5 +20,7 @@ const a1 = 25;
 // addition assignment
 let a = 10;
  a  += 5;  // a = a + 5;
- console.log(a);
+ console.log(a); // 15
+ 
+ // 
  
