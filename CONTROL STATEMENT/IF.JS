@@ -44,7 +44,7 @@ let book = "maths";
       } else if (book == "maths") {
        console.log("Maths Book");
       } else if (book == "economics") {
-         console.log();;
+         console.log("Economics Book");
       } else {
          output.innerHTML="<b>Unknown Book</b>";
       }
