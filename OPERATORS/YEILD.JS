@@ -7,6 +7,7 @@
 
 // yield operator in generator function
 
+// 'function*' is used to create a generator function named test, and the yield keyword is used to return 'expression' from the function.
 function* test() {
     yield 20;
     yield [1,2,3];
@@ -24,5 +25,3 @@ console.log(res.next());
 // { value: 'Hello World', done: false }
 // { value: undefined, done: true }
 
-
-// 'function*' is used to create a generator function named test, and the yield keyword is used to return 'expression' from the function.
