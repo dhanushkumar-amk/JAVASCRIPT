@@ -16,3 +16,8 @@ while (count < 5){    // if the condition is true then the loop is terminated
 
 // The do...while loop is similar to the while loop except that the condition check happens at the end of the loop. This means that the loop will always be executed at least once, even if the condition is false.
 
+do {
+    output.innerHTML += "Current Count : " + count + "<br />";
+    count++;
+}
+while (count < 5);
