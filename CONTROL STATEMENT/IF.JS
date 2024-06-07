@@ -42,7 +42,7 @@ let book = "maths";
       if (book == "history") {
         console.log("History Book ");
       } else if (book == "maths") {
-         output.innerHTML="<b>Maths Book</b>";
+       console.log();
       } else if (book == "economics") {
          output.innerHTML="<b>Economics Book</b>";
       } else {
