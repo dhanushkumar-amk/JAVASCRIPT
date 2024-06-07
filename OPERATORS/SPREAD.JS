@@ -32,4 +32,4 @@ const car = {
     year: 2019,
     ...car,
  }
- console.log(person);
+ console.log(BMW);
