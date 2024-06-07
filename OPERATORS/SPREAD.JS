@@ -29,5 +29,6 @@ const car = {
  
  const person = {
     name : "ram",
-    age : ""
+    age : 25,
+    ...
  }
