@@ -6,3 +6,13 @@
 
 // label	The 'label' is not a keyword, but you can use any identifier followed by a colon (:) to give a label to the loop. After that, you can use the label to target the particular loop with the break and continue keyword.
 
+
+
+// Break statement
+while (x < 20) {
+    if (x == 5) {
+       break;   // breaks out of loop completely
+    }
+    x = x + 1;
+    coutput.innerHTML +=  x + "<br>";
+ }    
