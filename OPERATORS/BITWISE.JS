@@ -41,4 +41,4 @@
 
 // Bitwise nor ^
 
-it works the principle of the both condition is same then it return true else try
+it works the principle of the both condition is same then it return true else return 
