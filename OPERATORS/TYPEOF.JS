@@ -11,4 +11,5 @@ typeof function foo(){};// returns 'function'
 typeof undefined; // returns 'undefined'
 typeof null; // returns 'object'
 typeof Symbol(); // returns 'symbol'
-typeof 10n; // 
+typeof 10n; // big int
+
