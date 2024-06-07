@@ -1,2 +1,4 @@
 // The comma operator (,) in JavaScript evaluates the multiple expression from left to right
 
+// comma operator is also used in the 'for' loop, array, object, etc
+
