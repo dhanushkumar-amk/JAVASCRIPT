@@ -35,4 +35,5 @@
 // 1    0
 
 
-it convert the inverse of the integer 
+// it convert the inverse of the integer 0 to 1 and 1 to 0
+
