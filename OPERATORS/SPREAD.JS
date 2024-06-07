@@ -9,4 +9,10 @@ console.log(x);  // [ 'Dhanush', 'kumar' ] =>  it return as a object
 console.log(...x); // Dhanush kumar => it convert the object into the string
 
 
-// spread operator is also  used to concate the two arrays 
+// spread operator is also  used to concat the two arrays 
+
+const nums1 = [10, 20, 30];
+const nums2 = [40, 50, 60];
+const res = [...nums1, ...nums2];
+
+log
