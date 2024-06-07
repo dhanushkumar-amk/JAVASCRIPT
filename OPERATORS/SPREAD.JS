@@ -2,5 +2,8 @@
 
 // spread operator (…) allows us to spread out elements of an iterable such as an array. The spread operator is represented with three dots (…)
 
+// simple example for spread operator
 
-/ SIMPLE 
+let x = ["Tutorials", "Point"];
+console.log(x); // [ 'Tutorials', 'Point' ]
+console.log(...x); // Tutorials Point
