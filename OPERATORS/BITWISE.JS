@@ -56,7 +56,7 @@
 // 5 << 2	10100 (= 20)
 
 const c = 100;
-console.log(c <<);
+console.log(c << 1); // 200
 
 
 // Bitwise Right Shift (>>) Operator
