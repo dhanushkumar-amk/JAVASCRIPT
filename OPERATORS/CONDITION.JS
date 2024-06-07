@@ -25,3 +25,4 @@ const user = "";
 // const user = "dhanush";
 const name = user? user : "stranger";
 console.log(name);
+
