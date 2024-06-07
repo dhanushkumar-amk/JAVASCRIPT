@@ -18,3 +18,11 @@ const person = {
 console.log( person);  // { name: 'dhanush', age: 45, salary: 100000 }
 delete person.age;
 console.log( person); // { name: 'dhanush', salary: 100000 }
+
+
+
+// Deleting Array element
+
+const arr = [10, 20, 30, 40, 50, 60];
+   delete arr[1];
+   log
