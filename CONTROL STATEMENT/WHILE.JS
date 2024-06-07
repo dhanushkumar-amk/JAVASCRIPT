@@ -6,3 +6,4 @@
 // while loop
 // do while loop
 
+var count = 0;
