@@ -44,3 +44,4 @@ let e = 5;
 e %= 5; // e = e % 5;
 console.log(e); // 0
 
+// (Exponentiation Assignment)
