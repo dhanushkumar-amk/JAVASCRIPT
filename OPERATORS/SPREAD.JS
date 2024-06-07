@@ -15,4 +15,4 @@ const nums1 = [10, 20, 30];
 const nums2 = [40, 50, 60];
 const res = [...nums1, ...nums2];
 
-log
+console.log(res);
