@@ -35,4 +35,4 @@
 // 1    0
 
 
-it convert the inverse of the intteger
+it convert the inverse of the integer 
