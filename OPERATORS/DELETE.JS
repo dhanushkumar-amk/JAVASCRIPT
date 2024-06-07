@@ -25,4 +25,4 @@ console.log( person); // { name: 'dhanush', salary: 100000 }
 
 const arr = [10, 20, 30, 40, 50, 60];
    delete arr[1];
-   log
+   console.log(arr);
