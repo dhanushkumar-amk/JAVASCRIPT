@@ -53,5 +53,5 @@ let car = {
     color: "Black",
  }
  for (key in car) {
-    output.innerHTML += key + " -> " + car[key] + "<br>";
+    console.log(key);
  }
