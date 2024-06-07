@@ -19,3 +19,4 @@ const a = 25;
 
 // addition assignment
  a  += 5;
+ console.log();
