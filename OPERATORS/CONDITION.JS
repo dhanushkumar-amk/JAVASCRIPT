@@ -15,3 +15,4 @@
 var num1 = 25;
 var num2 = 20;
 var res = num1 > num2 ? "Num1 is greatest" : "Num2 is greatest";
+console.log(res);
