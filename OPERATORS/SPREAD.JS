@@ -6,4 +6,4 @@
 
 let x = ["Dhanush", "kumar"];
 console.log(x);  // [ 'Dhanush', 'kumar' ]
-console.log(...x); // [ 'Dhanush kumar
+console.log(...x); // Dhanush kumar
