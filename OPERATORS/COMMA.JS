@@ -8,3 +8,7 @@
 
 let m = 1, n = 2, x = 3;
 const arr = [10, 20, 30, 40, 50, 60];
+name: "tutorialspoint",
+age: 10,
+... other properties
+}
