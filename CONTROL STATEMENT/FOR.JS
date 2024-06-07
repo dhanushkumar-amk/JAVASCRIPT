@@ -56,4 +56,6 @@ let car = {
     console.log(key);
  }
 
- //
+ brand
+ model
+ color
