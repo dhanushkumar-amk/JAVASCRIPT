@@ -37,4 +37,5 @@ console.log(c); // 50
 // (Division Assignment)
 let d = 10;
 d /= 2; // d = d/2;
-console.log(d); // 3
+console.log(d); // 5
+
