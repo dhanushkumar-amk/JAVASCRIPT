@@ -3,12 +3,12 @@
 // syntax :
 // typeof operand;
 
-typeof 10; // returns 'number'
-typeof 'Hello World'; // returns 'string'
-typeof true; // returns 'boolean'
-typeof {name:"Tutorialspoint"}; // returns 'object'
-typeof function foo(){};// returns 'function'
-typeof undefined; // returns 'undefined'
-typeof null; // returns 'object'
-typeof Symbol(); // returns 'symbol'
-typeof 10n; // big int
+constypeof 10; // returns 'number'
+constypeof 'Hello World'; // returns 'string'
+constypeof true; // returns 'boolean'
+constypeof {name:"Tutorialspoint"}; // returns 'object'
+constypeof function foo(){};// returns 'function'
+constypeof undefined; // returns 'undefined'
+constypeof null; // returns 'object'
+constypeof Symbol(); // returns 'symbol'
+constypeof 10n; // big int
