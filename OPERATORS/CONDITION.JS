@@ -21,4 +21,4 @@ console.log(res);
 
 // Handling null values
 
-const name = user? user.name : "stranger";
+const name = user? .name : "stranger";
