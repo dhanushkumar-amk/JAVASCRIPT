@@ -4,7 +4,7 @@
 
 // var answer = (exp1, exp2, exp3, ex4, ...);
 
-// some common use of comma operatot
+// some common use of comma operator
 
 let m = 1, n = 2, x = 3;
 
