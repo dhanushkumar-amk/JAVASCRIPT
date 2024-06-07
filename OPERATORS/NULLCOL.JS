@@ -5,7 +5,7 @@
 
 // The nullish coalescing operator (??) returns the second operand (op2) if the first operand (op1) is null or undefined
 
-
+// it is used to set the default value for the place of value null
 
 // EX :
 let x = null;
