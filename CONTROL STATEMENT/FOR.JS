@@ -16,5 +16,9 @@
 // }
 
 
-// 
-EX :
+// EX :
+
+let count;
+for (let count = 0; count < 10; count++) {
+    output.innerHTML += "Current Count : " + count + "<br/>";
+}
