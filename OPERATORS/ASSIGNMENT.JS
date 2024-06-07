@@ -18,3 +18,4 @@
 const a = 25;
 
 // addition assignment
+b 
