@@ -35,7 +35,7 @@ if(age > 5){
 
 let age = 15;
 if( age > 18 ) {
-   result = ;
+  console.log("Qualifies for driving");
 } else {
    result = "Does not qualify for driving";
 }
