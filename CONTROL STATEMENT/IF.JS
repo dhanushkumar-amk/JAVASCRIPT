@@ -4,7 +4,6 @@
 // Types of if statement
 
 // if statement
-
 // if...else statement
-
 // if...else if... statement.
+
