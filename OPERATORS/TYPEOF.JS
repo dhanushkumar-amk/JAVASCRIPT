@@ -4,11 +4,11 @@
 // typeof operand;
 
 console.log(typeof 10); 
-console.log(typeof 'Hello World'); /
-console.log(typeof true); // returns 'boolean'
-console.log(typeof {name:"Tutorialspoint"}); // returns 'object'
-console.log(typeof function foo(){});// returns 'function'
-console.log(typeof undefined); // returns 'undefined'
+console.log(typeof 'Hello World');/
+console.log(typeof true); 
+console.log(typeof {name:"Tutorialspoint"});/
+console.log(typeof function foo(){});
+console.log(typeof undefined);
 console.log(typeof null); // returns 'object'
 console.log(typeof Symbol()); // returns 'symbol'
 console.log(typeof 10n); // big int
