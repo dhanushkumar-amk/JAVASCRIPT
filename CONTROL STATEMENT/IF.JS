@@ -30,4 +30,4 @@ if(age > 5){
 
 // if...else statement
 
-it consists  two  statement  true statement  and 
+// it consists  two  statement  true statement  and false statement  
