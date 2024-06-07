@@ -5,3 +5,5 @@
 let res1 = 4 + 5 * 6; // 4 + 30
 let res2 = (4 + 5) * 6; // 9 + 6
 
+console.log(res1);
+console.log(res1);
