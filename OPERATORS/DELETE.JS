@@ -6,6 +6,9 @@
 
 
 // syntax :
-delete obj.property;
- OR
-delete obj["property"];
+// delete obj.property;
+//  OR
+// delete obj["property"];
+
+
+// ex :
