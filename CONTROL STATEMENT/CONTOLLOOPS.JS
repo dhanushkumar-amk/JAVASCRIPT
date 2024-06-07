@@ -25,7 +25,7 @@ while (x < 20) {
 var y = 0;
 while (y < 20) {
   if (y == 5) {
-   continue // 
+   continue // skip trhis condition
   }
   y++;
   console.log(y);
