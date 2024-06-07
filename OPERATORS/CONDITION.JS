@@ -6,5 +6,9 @@
 // var variable = condition ? exp1 : exp2;
 
 // condition − It is a conditional statement. 
+
 // exp1 − If the conditional statement evaluates truthy, control flow executes the exp1 expression.
+
 // exp2 − If the conditional statement evaluates falsy, control flow executes the exp2 expression.
+
+
