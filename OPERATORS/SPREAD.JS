@@ -25,7 +25,7 @@ const car = {
     color: "Black"
  }
  
- console.log(car);
+ console.log(car); // {"gears":6,"color":"Black"}
  
  const BMW = {
     model: "X5",
