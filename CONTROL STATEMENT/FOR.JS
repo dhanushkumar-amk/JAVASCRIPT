@@ -65,3 +65,4 @@ let car = {
 //  for of operator 
 
 // The for...of loop in JavaScript is used to traverse elements of the iterable object. In each iteration, it gives an element of the iterable object. Iterable objects include arrays, strings, maps, sets, and generators.
+
