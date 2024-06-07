@@ -38,3 +38,13 @@ if (age > 18) {
 // The if...else if... statement (also called as if...else ladder)is an advanced form of if…else that allows JavaScript to make a correct decision out of several conditions.
 
 
+let book = "maths";
+      if (book == "history") {
+         output.innerHTML="<b>History Book</b>";
+      } else if (book == "maths") {
+         output.innerHTML="<b>Maths Book</b>";
+      } else if (book == "economics") {
+         output.innerHTML="<b>Economics Book</b>";
+      } else {
+         output.innerHTML="<b>Unknown Book</b>";
+      }
