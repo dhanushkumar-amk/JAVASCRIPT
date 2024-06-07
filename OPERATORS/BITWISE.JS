@@ -55,7 +55,8 @@
 // 5 << 1	01010 (= 10)
 // 5 << 2	10100 (= 20)
 
-
+const c = 100;
+console.log(c <<);
 
 
 // Bitwise Right Shift (>>) Operator
