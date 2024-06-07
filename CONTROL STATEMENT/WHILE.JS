@@ -7,7 +7,7 @@
 // do while loop
 
 var count = 0;
-while (count < 5){
+while (count < 5){    // if the 
     console.log(count);
     count++;
 }
