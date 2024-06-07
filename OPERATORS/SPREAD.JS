@@ -9,4 +9,4 @@ console.log(x);  // [ 'Dhanush', 'kumar' ] =>  it return as a object
 console.log(...x); // Dhanush kumar => it convert the object into the string
 
 
-// spread opertor is also 
+// spread operator is also 
