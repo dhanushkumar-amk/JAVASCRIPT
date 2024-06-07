@@ -31,3 +31,11 @@ if(age > 5){
 // if...else statement
 
 // it consists  two  statement  true statement  and false statement  
+
+
+let age = 15;
+if( age > 18 ) {
+   result = "Qualifies for driving";
+} else {
+   result = "Does not qualify for driving";
+}
