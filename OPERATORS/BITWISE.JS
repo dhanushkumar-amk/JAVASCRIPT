@@ -41,4 +41,4 @@
 
 // Bitwise nor ^
 
-it works the prin
+it works the principle of the both condition is same thern
