@@ -15,6 +15,6 @@ const person = {
   age: 45,
   salary: 100000,
 };
-console.log("  "+ person);
+console.log("Before deleting : "+ person);
 delete person.age;
 console.log(person);
