@@ -43,7 +43,7 @@
 
 // it works the principle of the both condition is same then it return true else return false 
 
-0  0  1
-1  0  0
-1  1  1
-0  1  0
+// 0  0  1
+// 1  0  0
+// 1  1  1
+// 0  1  0
