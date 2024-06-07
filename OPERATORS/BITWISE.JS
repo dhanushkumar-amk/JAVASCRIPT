@@ -41,3 +41,4 @@
 
 // Bitwise nor ^
 
+it works the prin
