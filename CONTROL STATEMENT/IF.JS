@@ -20,9 +20,9 @@
 
 // ex :
 
-var age  = 10;
+var age1  = 10;
 
-if(age > 5){
+if(age1 > 5){
     console.log("Your are eligible"); // Your are eligible
 }
 
