@@ -28,5 +28,5 @@ const car = {
  console.log(car);
  
  const person = {
-    
+    name : "ram"
  }
