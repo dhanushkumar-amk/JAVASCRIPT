@@ -32,7 +32,7 @@ while (y < 10) {
 // 1
 // 2
 // 3
-// 4  it skip 
+// 4  it skip 5 then go 6
 // 6
 // 7
 // 8
