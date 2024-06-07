@@ -10,7 +10,8 @@
 
 // if statement
 
-// if the condition is true then it exe
+// if the condition is true then it execute the condition
+
 
 // if (expression) {
 //     Statement(s) to be executed if expression is true
