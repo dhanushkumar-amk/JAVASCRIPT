@@ -45,7 +45,7 @@
 
 // ex :
 const d  = 25;
-console.log(d~ );
+console.log( );
 
 // Left Shift (<<) Operator
 
