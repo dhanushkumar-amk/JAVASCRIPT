@@ -30,4 +30,5 @@ let a = 10;
  
  
 //  (Multiplication Assignment)
+let c = 10;
 
