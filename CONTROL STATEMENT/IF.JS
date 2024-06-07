@@ -20,4 +20,6 @@
 
 // ex :
 
-var na
+var age  = 10;
+
+if()
