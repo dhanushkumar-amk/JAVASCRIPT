@@ -40,7 +40,7 @@ if (age > 18) {
 
 let book = "maths";
       if (book == "history") {
-        
+        console.log("History ");
       } else if (book == "maths") {
          output.innerHTML="<b>Maths Book</b>";
       } else if (book == "economics") {
