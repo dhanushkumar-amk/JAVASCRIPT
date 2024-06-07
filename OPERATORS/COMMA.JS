@@ -12,6 +12,6 @@ const arr = [10, 20, 30, 40, 50, 60];
 
 
 const obj = {
-    name: "tutorialspoint",
+    name: "Dhanushkumar",
     age: 10,
  }
