@@ -9,6 +9,6 @@
 
 // EX :
 let x = null;
-      let y = x ?? 5;
+let y = x ?? 5;
       
       console.log(y);
