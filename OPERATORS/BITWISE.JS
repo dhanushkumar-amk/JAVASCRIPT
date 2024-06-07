@@ -69,7 +69,7 @@
 
 // ex : 
 const b = 100;
-console.log(b >> 1);
+console.log(b >> 1);  // 50
 
 
 
