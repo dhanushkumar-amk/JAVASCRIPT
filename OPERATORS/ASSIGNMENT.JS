@@ -25,5 +25,6 @@ let a = 10;
  // Subtraction Assignment	
  
  let b = 10;
- b  -= 5;
+ b  -= 5;  // b = b - 5;
+ 
  
