@@ -5,4 +5,15 @@
 // SYNTAX : 
 // yield expression;
 
-// yield operator i  
+// yield operator in generator function
+
+function* test() {
+    yield 20;
+    yield [1,2,3];
+    yield "Hello World";
+}
+let res = test();
+console.log(res.next());
+console.log(res.next());
+console.log(res.next());
+console.log(res.next());
