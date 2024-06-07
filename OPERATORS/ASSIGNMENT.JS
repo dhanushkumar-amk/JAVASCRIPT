@@ -28,3 +28,5 @@ let a = 10;
  b  -= 5;  // b = b - 5;
  console.log(b); // 5
  
+ 
+ 
