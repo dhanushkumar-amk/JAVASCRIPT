@@ -62,4 +62,5 @@ let car = {
 
 
 
- for of 
+//  for of operator 
+
