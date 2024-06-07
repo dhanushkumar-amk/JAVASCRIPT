@@ -3,7 +3,7 @@
 
 // simple assignment operator is equal (=) operator.
 
-// =   (Assignment)	a = b	a = b
+// =   (Assignment)	               a = b	a = b
 // +=  (Addition Assignment)	a += b	a = a + b
 // -=  (Subtraction Assignment)	a -= b	a = a – b
 // *=  (Multiplication Assignment)	a *= b	a = a * b
