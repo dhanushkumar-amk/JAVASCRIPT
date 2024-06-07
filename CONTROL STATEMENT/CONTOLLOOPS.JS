@@ -9,6 +9,8 @@
 
 
 // Break statement
+
+
 while (x < 20) {
     if (x == 5) {
        break;   // breaks out of loop completely
