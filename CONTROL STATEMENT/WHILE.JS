@@ -1,0 +1,1 @@
+// A while statement in JavaScript creates a loop that executes a block of code repeatedly, as long as the specified condition is true. The condition is evaluated before the execution of the block of code.
