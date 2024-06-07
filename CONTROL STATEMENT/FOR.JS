@@ -72,8 +72,8 @@ for (let ele of arr) {
 }
 
 // JavaScript
-Python
-C
-C++
-HTML
-CSS
+// Python
+// C
+// C++
+// HTML
+// CSS
