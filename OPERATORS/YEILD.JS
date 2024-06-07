@@ -20,6 +20,6 @@ console.log(res.next());
 
 
 // { value: 20, done: false }
-{ value: [ 1, 2, 3 ], done: false }
-{ value: 'Hello World', done: false }
-{ value: undefined, done: true }
+// { value: [ 1, 2, 3 ], done: false }
+// { value: 'Hello World', done: false }
+// { value: undefined, done: true }
