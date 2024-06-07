@@ -18,3 +18,7 @@ var res = num1 > num2 ? "Num1 is greatest" : "Num2 is greatest";
 console.log(res);
 // num1 is greatest
 
+
+// Handling null values
+
+const name = user? user.name : "stranger";
