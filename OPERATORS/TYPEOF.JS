@@ -23,3 +23,5 @@ console.log(typeof 10n); // big int
 // object
 // symbol
 // bigint
+
+
