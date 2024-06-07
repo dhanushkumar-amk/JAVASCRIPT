@@ -66,3 +66,7 @@ let car = {
 
 // The for...of loop in JavaScript is used to traverse elements of the iterable object. In each iteration, it gives an element of the iterable object. Iterable objects include arrays, strings, maps, sets, and generators.
 
+const arr = ["JavaScript", "Python", "C", "C++", "HTML", "CSS"];
+for (let ele of arr) {
+    output.innerHTML += ele + "<br>";
+}
