@@ -20,4 +20,4 @@ while (x < 20) {
 
 // Continue statement
 
-
+the continue statement is used to 
