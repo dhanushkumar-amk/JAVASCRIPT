@@ -70,3 +70,10 @@ const arr = ["JavaScript", "Python", "C", "C++", "HTML", "CSS"];
 for (let ele of arr) {
    console.log(ele);
 }
+
+// JavaScript
+Python
+C
+C++
+HTML
+CSS
