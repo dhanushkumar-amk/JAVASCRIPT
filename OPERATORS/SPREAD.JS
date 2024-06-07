@@ -24,3 +24,7 @@ const car = {
     gears: 6,
     color: "Black"
  }
+ 
+ console.log(car);
+ 
+ 
