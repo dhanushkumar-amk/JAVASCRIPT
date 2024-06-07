@@ -12,5 +12,3 @@ typeof undefined; // returns 'undefined'
 typeof null; // returns 'object'
 typeof Symbol(); // returns 'symbol'
 typeof 10n; // big int
-
-console.log();
