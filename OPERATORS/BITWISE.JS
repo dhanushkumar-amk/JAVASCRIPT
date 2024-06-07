@@ -44,8 +44,8 @@
 // 5~  =>  11111111111111111111111111111010 (= -6)
 
 // ex :
-const `d  = 25;
-console.log(d);
+const d  = 25;
+console.log(~d);
 
 // Left Shift (<<) Operator
 
