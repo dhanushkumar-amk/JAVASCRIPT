@@ -12,3 +12,5 @@ while (count < 5){    // if the condition is true then the loop is terminated
     count++;
 }
 
+// do...while Loop
+
