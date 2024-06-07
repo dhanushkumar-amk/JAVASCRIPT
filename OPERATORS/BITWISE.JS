@@ -33,3 +33,6 @@
 
 // 0    1
 // 1    0
+
+
+it convert the 
