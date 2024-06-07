@@ -24,8 +24,7 @@ var y = 0;
 while (y < 10) {
   if (y == 5) {
     continue; // skip this condition
-
   }
-
+  y++;
   console.log(y);
 }
