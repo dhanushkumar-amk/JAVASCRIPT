@@ -7,7 +7,7 @@
 // Break statement
 
 
-// break statement isused to break the condition if the xondition meets the certain block 
+// break statement issued to break the condition if the condition meets the certain block 
 
 var x = 0;
 while (x < 20) {
