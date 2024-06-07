@@ -55,6 +55,9 @@
 // 5 << 1	01010 (= 10)
 // 5 << 2	10100 (= 20)
 
+
+
+
 // Bitwise Right Shift (>>) Operator
 
 // The bitwise right shift (>>) operator moves all the bits in its first operand to the right by the number of places specified in the second operand. It inserts copies of leftmost bit in from left and discard rightmost bits. In this way it preserves the sign of the number.
