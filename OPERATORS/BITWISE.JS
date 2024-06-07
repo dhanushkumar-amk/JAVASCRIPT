@@ -78,3 +78,8 @@
 
 // 5	    00000000000000000000000000000101
 // 5 >> 1	00000000000000000000000000000010 (= 2)
+
+
+
+Bitwise Right Shift with Zero (>>>) Operator
+The Right Shift with Zero (>>>) operator is very similar to the right shift operator. It always fills the left bits with zero without worrying about the sign of the bit.
