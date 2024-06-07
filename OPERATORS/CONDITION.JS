@@ -21,5 +21,5 @@ console.log(res);
 
 // Handling null values
 
-
+const value = "";
 const name = user? value : "stranger";
