@@ -5,5 +5,5 @@
 // simple example for spread operator
 
 let x = ["Dhanush", "kumar"];
-console.log(x); // [ 'Tutorials', 'Point' ]
-console.log(...x); // Tutorials Point
+console.log(x); 
+console.log(...x); 
