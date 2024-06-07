@@ -26,4 +26,4 @@
 // 0   1    1
 
 
-// if the both condiion is true 
+// if the any one condition is true then it return true  
