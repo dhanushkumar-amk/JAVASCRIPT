@@ -32,4 +32,5 @@ const car = {
     year: 2019,
     ...car,
  }
- console.log(BMW);
+ console.log(BMW); // {"gears":6,"color":"Black"}
+ {"model":"X5","year":2019,"gears":6,"color":"Black"}
