@@ -7,7 +7,7 @@
 // Break statement
 
 
-// braek statement 
+// break statement 
 
 var x = 0;
 while (x < 20) {
