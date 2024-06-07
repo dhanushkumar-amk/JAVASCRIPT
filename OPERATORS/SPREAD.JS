@@ -4,6 +4,6 @@
 
 // simple example for spread operator
 
-let x = ["Tutorials", "Point"];
+let x = ["Tutorials", "kumar"];
 console.log(x); // [ 'Tutorials', 'Point' ]
 console.log(...x); // Tutorials Point
