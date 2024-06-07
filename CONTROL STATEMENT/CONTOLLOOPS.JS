@@ -23,9 +23,9 @@ while (x < 20) {
 // the continue statement is used to skip that the iteration is comes true 
 
 var y = 0;
-while (y < 20) {
+while (y < 10) {
   if (y == 5) {
-   continue // skip trhis condition
+   continue // skip this condition
   }
   y++;
   console.log(y);
