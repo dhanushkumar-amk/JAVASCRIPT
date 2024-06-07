@@ -16,5 +16,6 @@
 
 const person = {
     name : "dhanush",
-    age :""
+    age :45,
+    
 }
