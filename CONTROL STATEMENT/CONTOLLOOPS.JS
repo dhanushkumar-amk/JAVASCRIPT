@@ -14,5 +14,5 @@ while (x < 20) {
        break;   // breaks out of loop completely
     }
     x = x + 1;
-    coutput.innerHTML +=  x + "<br>";
+ console.log(x);
  }    
