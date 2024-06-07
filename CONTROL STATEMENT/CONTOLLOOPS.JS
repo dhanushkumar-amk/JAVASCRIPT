@@ -10,7 +10,7 @@
 
 // Break statement
 
-var x = 0;
+var x ;
 while (x < 20) {
     if (x == 5) {
        break;   // breaks out of loop completely
