@@ -19,5 +19,5 @@ const a1 = 25;
 
 // addition assignment
 const a = 10;
- a  += 5;
+ a  += 5;  // a = 
  console.log(a);
