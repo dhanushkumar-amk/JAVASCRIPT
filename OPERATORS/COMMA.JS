@@ -2,3 +2,5 @@
 
 // comma operator is also used in the 'for' loop, array, object, etc
 
+var answer = (exp1, exp2, exp3, ex4, ...);
+
