@@ -15,3 +15,4 @@
 // ex :
 
 // ==  simple assignment
+const a = 25;
