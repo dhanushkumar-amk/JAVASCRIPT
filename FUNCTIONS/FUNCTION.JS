@@ -104,7 +104,6 @@ const person = {
   const  greet = () => {
         console.log("Arrow Function");
  }
-      greet()  
+greet()  
         
-        
-        
+            
