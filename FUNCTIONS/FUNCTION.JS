@@ -3,3 +3,9 @@
 //  function functionName(parameters){
     
 //  }
+
+
+
+const person = {
+    
+}
