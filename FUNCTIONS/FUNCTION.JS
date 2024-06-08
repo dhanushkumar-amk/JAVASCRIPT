@@ -133,3 +133,6 @@ const squareNumbers = numbers.map((num) => {
 return num * num;
 })
 console.log(squareNumbers);
+
+
+
