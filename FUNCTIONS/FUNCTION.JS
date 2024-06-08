@@ -58,4 +58,4 @@ const person = {
         
         // Rest parameters
         
-        function Rest
+        function RestPara(--)
