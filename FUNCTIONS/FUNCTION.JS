@@ -118,4 +118,5 @@ const result = square(20)
 console.log(result);
 
 
-// arrow function with multiple aruguments
+// arrow function with multiple arguments
+
