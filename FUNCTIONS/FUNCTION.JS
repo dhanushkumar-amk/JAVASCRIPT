@@ -125,3 +125,4 @@ const human = {
 console.log(human.getFullName());
 
 
+Arrow function as call
