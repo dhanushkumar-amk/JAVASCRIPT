@@ -23,6 +23,6 @@ const person = {
         // parameters : 
         
         function printName(name){
-            console.log(person.name);
+            console.log(name);
         } 
         printName();
