@@ -110,7 +110,7 @@ greet()
 
 // arrow function with single arguments
 
-const square = (nums) => {
+const square = (x) => {
     
     return x * x;
     
