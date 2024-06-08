@@ -15,7 +15,7 @@ const person = {
 
         function printName(name){
             console.log(person.name);
-        } 
+} 
         printName();
         
       
