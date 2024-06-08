@@ -9,7 +9,9 @@
 // ex : 
 
 
-// function decleration
+
+
+// function declaration
 
 const person = {
     name : "Dhanush",
