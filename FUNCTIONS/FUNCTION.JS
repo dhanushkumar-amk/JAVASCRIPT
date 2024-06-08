@@ -13,7 +13,7 @@ const person = {
     age : 20,
 }
 
-        function printName(){
+        function printName(name){
             console.log(person.name);
         } 
         printName();
