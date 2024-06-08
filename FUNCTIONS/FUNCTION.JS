@@ -77,7 +77,7 @@ const person = {
         
         
         function secondReturn(){
-            
+            let name1 = fir
         }
         
         
