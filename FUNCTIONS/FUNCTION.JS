@@ -11,7 +11,7 @@ const person = {
     age : 20,
 }
 
-function printName(){
-    console.log(person.name);
-} 
-printName();
+        function printName(){
+            console.log(person.name);
+        } 
+        printName();
