@@ -46,4 +46,6 @@ const person = {
         MultiplePara("sanjay", 20, 100000);
         
         
+        // default value
+        
         
