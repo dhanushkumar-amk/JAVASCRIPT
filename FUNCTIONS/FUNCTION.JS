@@ -30,4 +30,4 @@ const person = {
         
         // Arguments
         
-        
+        function Arg
