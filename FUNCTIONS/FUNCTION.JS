@@ -26,3 +26,5 @@ const person = {
             console.log(name);
         } 
         printName("ram");
+        
+        
