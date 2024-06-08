@@ -8,7 +8,9 @@
 
 // ex : 
 
-function expression 
+// function expression 
+
+const me
 
 
 // function declaration
