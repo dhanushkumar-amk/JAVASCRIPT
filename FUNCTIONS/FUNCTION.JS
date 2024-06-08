@@ -136,7 +136,7 @@ const human = {
     name : "Dhanushkumar",
     initial : 'G',
 getFullName :() => {
-    this.na
+    this.name + this.in
 } 
 
 }
