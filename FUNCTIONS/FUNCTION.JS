@@ -108,4 +108,5 @@ greet()
         
 
 
-// arrow function with single argments
+// arrow function with single arguments
+
