@@ -1,4 +1,4 @@
- 
+ // syntax :
  
  function functionName(){
     
