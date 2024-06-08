@@ -114,6 +114,6 @@ const jsonObject = JSON.parse(jsonString);
 console.log(jsonObject);
 
 // [
-  { name: 'John Doe', age: 30, occupation: 'Software Engineer' },
-  { name: 'Jane Doe', age: 25, occupation: 'Doctor' }
-]
+//   { name: 'John Doe', age: 30, occupation: 'Software Engineer' },
+//   { name: 'Jane Doe', age: 25, occupation: 'Doctor' }
+// ]
