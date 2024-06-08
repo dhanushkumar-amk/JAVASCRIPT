@@ -62,7 +62,7 @@ console.log(receiveJson);
 // parse()
 
 // data types in json
-
+]
  // 6 types of data types in json 
  
 //  1 => Number
