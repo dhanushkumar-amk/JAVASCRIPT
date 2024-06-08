@@ -65,4 +65,4 @@ console.log(receiveJson);
  // 6 types of data types in json 
  
 //  1 => Number
-//  2 => 
+//  2 => String
