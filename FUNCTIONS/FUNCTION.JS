@@ -34,3 +34,8 @@ const person = {
             console.log(name);
         }
         ArgumentsPerson("sam") // arguments
+        
+        
+        // we can also pass multiple parameter
+        
+        
