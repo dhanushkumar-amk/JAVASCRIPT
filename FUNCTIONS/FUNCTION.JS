@@ -138,5 +138,7 @@ console.log(squareNumbers);
 
 // Returning object literals in arrow function 
 
-const mobile 
+const mobileInfo = () => {
+    return 
+}
 
