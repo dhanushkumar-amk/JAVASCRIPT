@@ -61,4 +61,4 @@ const person = {
         function RestPara(...name){
             console.log(name);
         }
-        RestPara("dhanush", :)
+        RestPara("dhanush", "sanjay", "ashwin")
