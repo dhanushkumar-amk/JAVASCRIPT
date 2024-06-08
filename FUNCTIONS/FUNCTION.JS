@@ -115,4 +115,4 @@ const square = (x) => {
  
 }
 const result = square(2)
-log
+console.log(result);
