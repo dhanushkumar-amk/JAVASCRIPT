@@ -134,5 +134,7 @@ console.log(res);
 
 const human = {
     name : "Dhanushkumar",
-    intial : 'G',
+    initial : 'G',
+
+
 }
