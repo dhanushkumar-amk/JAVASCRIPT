@@ -101,10 +101,10 @@ const person = {
         
         // Arrow function is also know as fat arrow function
         
-  const   greet = () => {
+  const  greet = () => {
         console.log("Arrow Function");
      }
-        
+      greet()  
         
         
         
