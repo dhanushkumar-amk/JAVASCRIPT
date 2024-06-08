@@ -69,4 +69,4 @@ console.log(receiveJson);
 // 3 => Boolean 
 // 4 => Array
 // 5 => Object
-// 5 
+// 6 => niuull
