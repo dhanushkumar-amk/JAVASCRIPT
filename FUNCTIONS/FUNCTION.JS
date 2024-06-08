@@ -70,7 +70,7 @@ const person = {
         // using rest parameter we can pass any number of arguments in function
         
         function RestPara(...name){
-            console.log(name.to);
+            console.log(name.toString());
         }
         RestPara("dhanush", "sanjay", "ashwin", "ram")
         
