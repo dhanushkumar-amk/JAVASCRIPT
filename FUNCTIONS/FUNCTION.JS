@@ -101,7 +101,7 @@ const person = {
         
         // Arrow function is also know as fat arrow function
         
-     
+     greet = n
         
         
         
