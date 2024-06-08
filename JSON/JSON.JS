@@ -95,3 +95,12 @@ console.log(names[1].age);
 
 // JSON Methods
 
+	
+JSON.parse()
+
+It parses a JSON string and creates a JavaScript object.
+
+2	
+JSON.stringify()
+
+It converts a JavaScript object to JSON string.
