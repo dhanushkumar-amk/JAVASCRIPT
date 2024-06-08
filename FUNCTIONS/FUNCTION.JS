@@ -52,4 +52,4 @@ const person = {
         function DefaultValue({name = "dhanush"}){
             console.log(name);
         }
-        function
+        DefaultValue();
