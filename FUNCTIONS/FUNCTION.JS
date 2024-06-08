@@ -89,7 +89,9 @@ const person = {
         
         // Arrow function 
         
-        // Arrow function is also know as fat arrow funcion 
+        // Arrow function is also know as fat arrow function
+        
+        
         
         
         
