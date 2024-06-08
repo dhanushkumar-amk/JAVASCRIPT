@@ -139,6 +139,9 @@ console.log(squareNumbers);
 // Returning object literals in arrow function 
 
 const mobileInfo = () => {
-    return {}
+    return {
+        id : 1,
+        
+    }
 }
 
