@@ -33,4 +33,4 @@ const person = {
         function ArgumentsPerson(name){
             console.log(name);
         }
-        ArgumentsPerson("sam")
+        ArgumentsPerson("sam") // ae
