@@ -87,3 +87,7 @@ console.log(receiveJson);
      "occupation": "Doctor"
   }
 ]
+
+// accessing the json data 
+
+console.log();
