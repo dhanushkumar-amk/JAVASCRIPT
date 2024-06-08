@@ -58,4 +58,7 @@ const person = {
         
         // Rest parameters
         
-        function RestPara(...name)
+        function RestPara(...name){
+            console.log(name);
+        }
+        
