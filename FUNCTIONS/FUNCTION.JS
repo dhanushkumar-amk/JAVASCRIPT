@@ -49,4 +49,7 @@ const person = {
         // default value
         
         
-        function DefaultValue({name = "dhanush"})
+        function DefaultValue({name = "dhanush"}){
+            console.log(name);
+        }
+        function
