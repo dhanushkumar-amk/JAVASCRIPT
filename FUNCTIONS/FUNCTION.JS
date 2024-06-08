@@ -70,6 +70,7 @@ const person = {
         
         function  valueReturn(firstName, lastName){
             const name = firstName + ' ' + lastName;
+            console.log(name);
         }
         
         
