@@ -110,11 +110,11 @@ greet()
 
 // arrow function with single arguments
 
-const square = (x) => {
-    return x * x;
+// const square = (x) => {
+//     return x * x;
  
-}
-const result = square(20)
-console.log(result);
+// }
+// const result = square(20)
+// console.log(result);
 
 
