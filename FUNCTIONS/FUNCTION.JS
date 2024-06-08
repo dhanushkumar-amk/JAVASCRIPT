@@ -1,5 +1,5 @@
  // syntax :
  
- function functionName(){
+ function functionName(parameters){
     
  }
