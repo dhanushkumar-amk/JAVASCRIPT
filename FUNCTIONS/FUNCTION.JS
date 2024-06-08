@@ -112,4 +112,6 @@ greet()
 
 const square = () => {
     
+    
+    square()
 }
