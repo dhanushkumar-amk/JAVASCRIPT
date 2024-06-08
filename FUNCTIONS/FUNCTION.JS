@@ -135,6 +135,8 @@ console.log(res);
 const human = {
     name : "Dhanushkumar",
     initial : 'G',
-getFullName() 
+getFullName :() => {
+    thi
+} 
 
 }
