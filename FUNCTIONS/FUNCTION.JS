@@ -149,4 +149,4 @@ console.log(mobileInfo());
 
 
 
-// ()=>()  if you want to return objectrt in
+// ()=>()  if you want to return object in 
