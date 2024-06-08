@@ -124,4 +124,4 @@ const sum = (a, b) => {
     return a + b;
 }
 
-const result = 
+const result = sum(10,10);
