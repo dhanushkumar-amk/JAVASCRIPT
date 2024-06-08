@@ -78,7 +78,7 @@ const person = {
         
         function secondReturn(firstName1, lastName2){
             let name1 = firstName1+ " " + lastName2;
-            return name
+            return name1;
         }
         secondReturn();
         
