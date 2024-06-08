@@ -61,4 +61,4 @@ console.log(receiveJson);
 // stringify()
 // parse()
 
-// data types injson
+// data types in json
