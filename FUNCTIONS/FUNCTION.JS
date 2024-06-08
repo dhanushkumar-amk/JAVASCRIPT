@@ -6,7 +6,7 @@
 
 
 
-ex : 
+// ex : 
 
 const person = {
     name : "Dhanush",
