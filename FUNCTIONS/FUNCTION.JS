@@ -114,5 +114,6 @@ const square = (nums) => {
     
     
     
-    square(2)
+    
 }
+square(2)
