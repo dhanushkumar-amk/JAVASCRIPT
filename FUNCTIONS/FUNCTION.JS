@@ -132,4 +132,6 @@ console.log(res);
 
 // arrow function in objects
 
-const human 
+const human = {
+    firstName
+}
