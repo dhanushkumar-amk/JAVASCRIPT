@@ -30,6 +30,6 @@ const person = {
         
         // Arguments
         
-        function ArguPerson(){
+        function ArgumentsPerson(){
             
         }
