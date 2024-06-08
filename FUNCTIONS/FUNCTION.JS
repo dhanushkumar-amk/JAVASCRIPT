@@ -10,7 +10,7 @@
 
 // function expression 
 
-const meassge 
+const message
 
 
 // function declaration
