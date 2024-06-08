@@ -57,7 +57,7 @@ const person = {
         
         
         // Rest parameters
-        // using rest poaramet
+        // using rest parameter
         
         function RestPara(...name){
             console.log(name);
