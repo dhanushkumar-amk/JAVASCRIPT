@@ -18,4 +18,7 @@ const person = {
         } 
         printName();
         
+      
+        
+        // parameters : 
         
