@@ -141,7 +141,7 @@ console.log(squareNumbers);
 const mobileInfo = () => {
     return {
         id : 1,
-        
+        name : ""
     }
 }
 
