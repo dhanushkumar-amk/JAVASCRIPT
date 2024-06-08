@@ -75,7 +75,7 @@ console.log(receiveJson);
 
 // json with array
 
-cont names = [
+const names = [
   {
      "name": "John Doe",
      "age": 30,
