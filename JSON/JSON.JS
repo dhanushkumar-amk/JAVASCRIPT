@@ -90,4 +90,4 @@ const names = [
 
 // accessing the json data 
 
-console.log(names.a);
+console.log(names[1].age);
