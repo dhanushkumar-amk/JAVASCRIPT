@@ -68,5 +68,5 @@ const person = {
         
         // return the value
         
-        function  valueReturn()
+        function  valueReturn(firstName, lastname)
         
