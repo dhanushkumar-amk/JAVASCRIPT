@@ -132,4 +132,4 @@ console.log(res);
 
 // arrow function in objects
 
-const 
+const human 
