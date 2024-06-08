@@ -132,3 +132,4 @@ const numbers = [1,2,3,5,6,8];
 const squareNumbers = numbers.map((num) => {
 return num * num;
 })
+console.log(squareNumbers);
