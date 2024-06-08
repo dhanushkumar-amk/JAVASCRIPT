@@ -41,5 +41,6 @@ const person = {
         function MultiplePara(name, age,salary){
             console.log(name);
             console.log(age);
-            console.log(name);
+            console.log(salary);
         }
+        Mu
