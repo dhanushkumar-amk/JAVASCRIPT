@@ -134,5 +134,5 @@ console.log(res);
 
 const human = {
     name : "Dhanushkumar"
-    
+    in
 }
