@@ -127,3 +127,5 @@ console.log(human.getFullName());
 
 // Arrow function as callback functions 
 
+const numbers = [1,2,3,5,6,8];
+
