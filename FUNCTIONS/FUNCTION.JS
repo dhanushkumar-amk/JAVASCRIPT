@@ -114,5 +114,5 @@ const square = (x) => {
     return x * x;
  
 }
-const result = square(20-0)
+const result = square(20)
 console.log(result);
