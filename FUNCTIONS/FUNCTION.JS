@@ -150,3 +150,6 @@ console.log(mobileInfo());
 
 
 // ()=>()  if you want to return object in you can use this type
+
+
+
