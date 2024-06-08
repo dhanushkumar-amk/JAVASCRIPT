@@ -15,3 +15,5 @@ const person = {
             console.log(person.name);
         } 
         printName();
+        
+        
