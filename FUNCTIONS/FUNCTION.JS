@@ -56,4 +56,6 @@ const person = {
         
         
         
-        // Rest 
+        // Rest parameters
+        
+        
