@@ -136,6 +136,7 @@ const human = {
     name : "Dhanushkumar",
     initial : 'G',
 getFullName :() => {
+    // arrow function we can't add any this 
    return this.name + " "  + this.initial
 } 
 
