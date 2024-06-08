@@ -83,6 +83,6 @@ const person = {
      let fullName = secondReturn('dhanush', 'kumar');
      console.log(fullName);
         
-        
+        // we can return any values in 
         
         
