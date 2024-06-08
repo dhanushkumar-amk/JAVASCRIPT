@@ -106,4 +106,6 @@ const person = {
  }
 greet()  
         
-            
+
+
+// arrow function with 
