@@ -28,4 +28,6 @@ const person = {
         printName("ram");
         
         
+        // Arguments
+        
         
