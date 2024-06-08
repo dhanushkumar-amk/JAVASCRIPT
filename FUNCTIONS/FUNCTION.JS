@@ -122,7 +122,7 @@ console.log(result);
 
 const sum = (a, b) => {
     return a + b;
-}
+
 
 const res = sum(10,10);
 console.log(res);
