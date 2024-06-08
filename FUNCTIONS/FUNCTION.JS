@@ -123,6 +123,7 @@ console.log(result);
 const sum = (a, b) => {
     return a + b;
 }
+// also written as const sum = (a, b) => a + b;
 
 const res = sum(10,10);
 console.log(res);
