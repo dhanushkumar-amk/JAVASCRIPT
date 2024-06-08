@@ -91,3 +91,7 @@ const names = [
 // accessing the json data 
 
 console.log(names[1].age);
+
+
+// JSON Methods
+
