@@ -1,3 +1,3 @@
 // number function
 
- 1. is 
+ 1. isFinite()
