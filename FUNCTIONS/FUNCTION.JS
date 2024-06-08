@@ -57,7 +57,7 @@ const person = {
         
         
         // Rest parameters
-        // using rest parameter we can pass any number of argumets
+        // using rest parameter we can pass any number of arguments in function
         
         function RestPara(...name){
             console.log(name);
