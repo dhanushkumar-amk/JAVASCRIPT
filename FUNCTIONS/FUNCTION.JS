@@ -130,3 +130,5 @@ const res = sum(10,10);
 console.log(res);
 
 
+// arrow function in objects
+
