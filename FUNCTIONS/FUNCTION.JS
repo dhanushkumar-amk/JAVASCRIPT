@@ -80,7 +80,7 @@ const person = {
             let name1 = firstName1+ " " + lastName2;
             return name1;
         }
-     let fullName = secondReturn();
+     let fullName = secondReturn('dha');
         
         
         
