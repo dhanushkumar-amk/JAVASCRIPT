@@ -136,4 +136,4 @@ console.log(squareNumbers);
 
 
 
-Returni
+Returning object literals 
