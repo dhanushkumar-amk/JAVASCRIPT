@@ -76,7 +76,9 @@ const person = {
         valueReturn('dhanush', 'kumar');
         
         
-        function secondreturn
+        function secondReturn(){
+            
+        }
         
         
         
