@@ -66,3 +66,4 @@ console.log(receiveJson);
  
 //  1 => Number
 //  2 => String
+3 => Boolean
