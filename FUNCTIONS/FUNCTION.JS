@@ -11,4 +11,4 @@ const person = {
     age : 20,
 }
 
-function 
+function printNaae 
