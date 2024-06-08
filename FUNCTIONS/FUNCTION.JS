@@ -10,7 +10,9 @@
 
 // function expression 
 
-const message
+const message=function(){
+    console.log("");
+}
 
 
 // function declaration
