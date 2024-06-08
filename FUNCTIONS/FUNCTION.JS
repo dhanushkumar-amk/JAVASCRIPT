@@ -123,3 +123,5 @@ const human = {
   },
 };
 console.log(human.getFullName());
+
+
