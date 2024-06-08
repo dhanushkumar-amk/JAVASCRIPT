@@ -9,7 +9,7 @@
 // ex : 
 
 
-
+// function decleration
 
 const person = {
     name : "Dhanush",
