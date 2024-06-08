@@ -106,4 +106,4 @@ console.log(names[1].age);
 // It converts a JavaScript object to JSON string.
 
 const jsonString = JSON.stringify(names);
-console.log();
+console.log(jsonString);
