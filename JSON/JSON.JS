@@ -55,3 +55,4 @@ console.log(receiveJson);
 // console.log(typeof receiveJson);
 
 
+// it support all language 
