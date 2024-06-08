@@ -44,3 +44,6 @@ const person = {
             console.log(salary);
         }
         MultiplePara("sanjay", 20, 100000);
+        
+        
+        
