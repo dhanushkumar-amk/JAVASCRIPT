@@ -1,3 +1,3 @@
 // number function
 
- 1. isFinite()
+//  1. isFinite()
