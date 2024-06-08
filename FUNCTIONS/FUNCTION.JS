@@ -69,6 +69,6 @@ const person = {
         // return the value
         
         function  valueReturn(firstName, lastName){
-            const name = 
+            const name = firstName + 
         }
         
