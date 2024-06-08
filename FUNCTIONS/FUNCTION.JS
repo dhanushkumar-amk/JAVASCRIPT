@@ -30,7 +30,7 @@ const person = {
         
         // Arguments
         
-        function ArgumentsPerson(name){
+        function ArgumentsPerson(name){ // parameters
             console.log(name);
         }
         ArgumentsPerson("sam") // arguments
