@@ -62,4 +62,4 @@ console.log(receiveJson);
 // parse()
 
 // data types in json
- // 6 types of 
+ // 6 types of dataa types in json 
