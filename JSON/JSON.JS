@@ -98,9 +98,10 @@ console.log(names[1].age);
 	
 // JSON.parse()
 
-It parses a JSON string and creates a JavaScript object.
+// It parses a JSON string and creates a JavaScript object.
 
 	
-JSON.stringify()
+// JSON.stringify()
 
-It converts a JavaScript object to JSON string.
+// It converts a JavaScript object to JSON string.
+
