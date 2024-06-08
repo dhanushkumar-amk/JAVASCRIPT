@@ -72,6 +72,6 @@ const person = {
             const name = firstName + ' ' + lastName;
             console.log(name);
         }
-        valueReturn('dhanush');
+        valueReturn('dhanush', 'kumar');
         
         
