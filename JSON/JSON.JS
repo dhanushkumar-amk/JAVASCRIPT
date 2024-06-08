@@ -110,3 +110,4 @@ console.log(jsonString);
 
 // [{"name":"John Doe","age":30,"occupation":"Software Engineer"},{"name":"Jane Doe","age":25,"occupation":"Doctor"}]
 
+const jsonObject = JSON.parse(jsonString);
