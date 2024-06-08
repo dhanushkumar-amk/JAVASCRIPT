@@ -68,5 +68,5 @@ const person = {
         
         // return the value
         
-        fun
+        function  valueReturn()
         
