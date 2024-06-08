@@ -38,4 +38,6 @@ const person = {
         
         // we can also pass multiple parameter
         
-        function MultiplePara(name, age,salary)
+        function MultiplePara(name, age,salary){
+            console.log(name);
+        }
