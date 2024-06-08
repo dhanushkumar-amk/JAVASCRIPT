@@ -136,7 +136,7 @@ const human = {
     name : "Dhanushkumar",
     initial : 'G',
 getFullName :() => {
-    // arrow function we can't add any this 
+    // arrow function we can't add any this method in the object using arrowfunction
    return this.name + " "  + this.initial
 } 
 
