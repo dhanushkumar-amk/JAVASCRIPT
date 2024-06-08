@@ -25,4 +25,4 @@ const person = {
         function printName(name){
             console.log(name);
         } 
-        printName("");
+        printName("ram");
