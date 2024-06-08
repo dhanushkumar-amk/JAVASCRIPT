@@ -140,4 +140,4 @@ getFullName :() => {
 } 
 
 }
-logperson.getFullName()
+console.log(); person.getFullName()
