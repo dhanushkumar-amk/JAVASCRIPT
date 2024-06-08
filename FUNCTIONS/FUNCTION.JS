@@ -111,9 +111,7 @@ greet()
 // arrow function with single arguments
 
 const square = (x) => {
-
     return x * x;
-    
-    
+   
 }
 square(2)
