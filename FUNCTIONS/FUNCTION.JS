@@ -133,5 +133,6 @@ console.log(res);
 // arrow function in objects
 
 const human = {
-    firstName
+    name : "Dhanushkumar"
+    
 }
