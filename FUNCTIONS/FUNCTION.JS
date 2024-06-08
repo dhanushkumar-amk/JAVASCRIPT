@@ -10,7 +10,7 @@
 
 // function expression 
 
-const message=function (){
+const message=function hello(){
     console.log("hello world");
 }
 
