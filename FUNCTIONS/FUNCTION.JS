@@ -8,5 +8,7 @@
 
 const person = {
     name : "Dhanush",
-    age : 20.
+    age : 20,
 }
+
+fun
