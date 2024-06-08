@@ -43,4 +43,4 @@ const person = {
             console.log(age);
             console.log(salary);
         }
-        MultiplePara("sanjay")
+        MultiplePara("sanjay", 2)
