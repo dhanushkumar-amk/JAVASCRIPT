@@ -145,5 +145,5 @@ const mobileInfo = () => {
     }
 }
 
-
+console.log(mobileInfo);
 
