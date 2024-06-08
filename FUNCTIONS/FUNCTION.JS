@@ -14,6 +14,7 @@ const message=function(){
     console.log("hello world");
 }
 
+me
 
 // function declaration
 
