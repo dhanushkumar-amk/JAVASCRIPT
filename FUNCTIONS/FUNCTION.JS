@@ -87,4 +87,6 @@ const person = {
         
         
         
-        // Arrow 
+        // Arrow function
+        
+        
