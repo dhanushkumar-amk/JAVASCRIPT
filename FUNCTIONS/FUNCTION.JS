@@ -81,6 +81,7 @@ const person = {
             return name1;
         }
      let fullName = secondReturn('dhanush', 'kumar');
+     console.log(fullName);
         
         
         
