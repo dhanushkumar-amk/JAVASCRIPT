@@ -70,7 +70,7 @@ const person = {
         
         function  valueReturn(firstName, lastName){
             const name = firstName + ' ' + lastName;
-            return
+            return  // using empty 
             console.log(name);
         }
         valueReturn('dhanush', 'kumar');
