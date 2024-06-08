@@ -120,4 +120,7 @@ console.log(result);
 
 // arrow function with multiple arguments
 
-const sum = ()
+const sum = (a, b) => {
+    return a + b;
+}
+
