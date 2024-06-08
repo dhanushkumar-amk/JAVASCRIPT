@@ -112,7 +112,7 @@ greet()
 
 const square = (nums) => {
     
-    
+    return x *
     
     
 }
