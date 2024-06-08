@@ -31,5 +31,5 @@ const person = {
         // Arguments
         
         function ArgumentsPerson(){
-            
+            log
         }
