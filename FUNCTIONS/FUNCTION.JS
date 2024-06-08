@@ -114,4 +114,4 @@ const square = (x) => {
     return x * x;
  
 }
-const square(2)
+const result square(2)
