@@ -144,6 +144,6 @@ const mobileInfo = () => {
         name : "iPhone"
     }
 }
-mo
-console.log(mobileInfo);
+
+console.log(mobileInfo());
 
