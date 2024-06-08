@@ -58,4 +58,6 @@ console.log(receiveJson);
 // it support all language 
 // it support all browser
 
-stringify()
+// stringify()
+// parse()
+
