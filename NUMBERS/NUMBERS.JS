@@ -3,3 +3,5 @@
 //  1. isFinite()
 
 
+
+// min value 
