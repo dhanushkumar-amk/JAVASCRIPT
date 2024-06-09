@@ -4,4 +4,5 @@
 
 
 
-// min value is used to get the minimum 
+// min value is used to get the minimum integer value is -32000ectccc
+
