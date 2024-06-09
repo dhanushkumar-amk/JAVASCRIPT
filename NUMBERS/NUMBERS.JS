@@ -4,4 +4,4 @@
 
 
 
-// min value 
+// min value is used to get the minimum 
