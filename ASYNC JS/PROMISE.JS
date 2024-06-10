@@ -13,5 +13,6 @@
 // crating the promise
 
 const myPromise = new Promise((resolve, rejected) => {
-    const error = a
+    const error = false;
+    if(!errror)
 })
