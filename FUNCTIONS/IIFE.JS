@@ -46,6 +46,6 @@
 ((name, age) => {
 console.log("First self Invoking Function");
 (() => {
-   console.log("Nested "); 
+   console.log("Nested Invoking function"); 
 })()   
 })()
