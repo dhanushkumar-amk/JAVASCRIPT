@@ -50,5 +50,3 @@ console.log(myPromise);
 // Promise.then() takes two arguments, a callback for success and another for failure.
 
 // Both are optional, so you can add a callback for success or failure only.
-
-console.log();
