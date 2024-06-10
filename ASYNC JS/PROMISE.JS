@@ -85,7 +85,7 @@ myPromise
 // promise using api
 
 const users = fetch("https://jsonplaceholder.typicode.com/users")
-.then((res) => {
+.then((resp) => {
     console.log(res);
 })
 console.log(users);
