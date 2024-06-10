@@ -15,6 +15,7 @@ function nameFunc(){
     console.log(myName);
 }
 
-nameFunc();
 
 
+
+let object =new nameFunc();
