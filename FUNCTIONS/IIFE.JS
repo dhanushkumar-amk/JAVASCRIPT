@@ -43,4 +43,4 @@
 
 //nested self invoking functions
 
-()
+(() => )()
