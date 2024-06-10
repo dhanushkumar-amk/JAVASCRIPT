@@ -52,7 +52,9 @@ console.log(myPromise);
 // Both are optional, so you can add a callback for success or failure only.
 
 
-myPromise.then(value => {
+myPromise
+.then(value => {
     console.log(value);
      // yes ! resolved the promise
-}).then(newValue =>console.log(newValue))  
+})
+.then(newValue =>console.log(newValue))  
