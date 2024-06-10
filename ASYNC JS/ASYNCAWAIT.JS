@@ -6,4 +6,4 @@ const users = async() => {
 }
 
 
-// await  is used to wait the value in the 
+// await  is used to wait the value in the funvtion
