@@ -2,6 +2,9 @@
 // which refers to the current variable
 
 
+
+
+
 const myName = "Dhanush"
 
 
