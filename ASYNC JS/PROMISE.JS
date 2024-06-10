@@ -61,3 +61,5 @@ myPromise
 .catch(err => {
     console.log(err);
 })
+
+// .thenonlu used when the 
