@@ -8,7 +8,7 @@
  */
 
 
-// async using settimeout
+// async using setTimeout
  
 console.log("First");
 setTimeout(() => console.log("Second"),2000);
