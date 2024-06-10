@@ -13,6 +13,6 @@ let promise =  new Promise((resolve,reject) => {
     if(Object.keys(user) != 0){
         resolve(user);
     }else{
-        reject("")
+        reject(user)
     }
 }) 
