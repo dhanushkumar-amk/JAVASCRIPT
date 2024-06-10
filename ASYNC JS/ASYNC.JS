@@ -18,7 +18,7 @@ let promise =  new Promise((resolve,reject) => {
 }) 
 
 
-function getData(){
+async function getData(){
 //    console.log("async");
 }
 getData();
