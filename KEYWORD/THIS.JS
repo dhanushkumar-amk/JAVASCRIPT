@@ -33,4 +33,6 @@ getInfo(){
 
 }
 
+getInfo
+
 console.log(person);
