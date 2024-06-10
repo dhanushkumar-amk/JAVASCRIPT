@@ -5,4 +5,6 @@
 
 // promise 
 
-let promise =  new Promise((resolve,) => {}) 
+let promise =  new Promise((resolve,reject) => {
+    
+}) 
