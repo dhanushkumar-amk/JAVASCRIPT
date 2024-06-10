@@ -76,4 +76,4 @@ console.log(output);
 
 
 
-// self inoking function with function name 
+// self invoking function with function name 
