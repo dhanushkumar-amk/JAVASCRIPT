@@ -54,4 +54,4 @@
 
 
 // return value with
-self invoking 
+self invoking function
