@@ -28,7 +28,7 @@ const person = {
     age : 27,
     Role : "Developer",
 getInfo(){
-    
+    console.log(this);
 }
 
 }
