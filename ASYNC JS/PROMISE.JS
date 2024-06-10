@@ -52,4 +52,6 @@ console.log(myPromise);
 // Both are optional, so you can add a callback for success or failure only.
 
 
-myPromise.then()
+myPromise.then(value => {
+    console.log(value);
+})
