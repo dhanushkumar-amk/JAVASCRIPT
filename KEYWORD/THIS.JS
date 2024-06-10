@@ -5,4 +5,8 @@
 const myName = "Dhanush"
 
 
-function name
+function nameFunc(){
+    console.log(myName);
+}
+
+nameFunc();
