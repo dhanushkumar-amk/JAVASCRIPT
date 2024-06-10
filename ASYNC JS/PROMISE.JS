@@ -10,7 +10,7 @@
 
 */
 
-// syntax :
+// ! syntax :
 
 // let myPromise = new Promise(function(myResolve, myReject) {
     // "Producing Code" (May take some time)
