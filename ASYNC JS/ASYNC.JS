@@ -18,4 +18,4 @@ console.log("third");
 // async 
 // await
 // promise
-// callback fumction
+// callback function
