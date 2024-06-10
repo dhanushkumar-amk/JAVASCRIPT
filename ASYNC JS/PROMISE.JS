@@ -66,5 +66,7 @@ myPromise
 
 
 const nextPromise = new Promise((resolve, rejected) => {
-    
+    setTimeout(() => {
+        
+    }, );
 })
