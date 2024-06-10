@@ -3,6 +3,8 @@
 // simple definition is function with another function
 
 
+
+simple example for 
 setTimeout(() =>{
     console.log("One Second");
     setTimeout(() =>{
