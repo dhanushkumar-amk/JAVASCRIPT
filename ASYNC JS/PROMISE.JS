@@ -58,3 +58,4 @@ myPromise
      // yes ! resolved the promise
 })
 .then(newValue =>console.log(newValue))  
+.ca
