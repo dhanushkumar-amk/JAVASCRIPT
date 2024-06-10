@@ -67,4 +67,4 @@ console.log(name);
 
 
 
-// normal function with return value
+// self invoking function with return value
