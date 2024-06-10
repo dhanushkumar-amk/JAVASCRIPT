@@ -34,6 +34,6 @@
 
 ((name, age) => {
     console.log("Name : " + name );
-    console.log("Name : " + age );
+    console.log("Age : " + age );
 })()
  
