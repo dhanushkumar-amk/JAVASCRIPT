@@ -43,6 +43,6 @@
 
 //nested self invoking functions
 
-(("") => {
-    
+((name, age) => {
+console.log("");    
 })()
