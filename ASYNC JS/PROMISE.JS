@@ -14,5 +14,7 @@
 
 const myPromise = new Promise((resolve, rejected) => {
     const error = false;
-    if(!errror)
+    if(!error){
+        resolve
+    }
 })
