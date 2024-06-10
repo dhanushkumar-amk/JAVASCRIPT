@@ -72,4 +72,4 @@ const nextPromise = new Promise((resolve, rejected) => {
 })
 
 nextPromise
-.then()
+.then(value )
