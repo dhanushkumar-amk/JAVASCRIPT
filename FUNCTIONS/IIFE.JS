@@ -15,7 +15,8 @@
  
  */
 
- // simple 
+ // simple  Example
+ 
  (function(){
     console.log("Hello");
  })()
