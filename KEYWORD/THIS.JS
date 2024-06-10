@@ -7,15 +7,15 @@
 
 
 
-const myName = "Dhanush"
+// const myName = "Dhanush"
 
 
 
-function nameFunc(){
-    console.log(myName);
+function nameFunc(myName,myAddress){
+    console.log(this.myName);
 }
 
 
 
 
-let object =new nameFunc();
+let object =new nameFunc("Dhanush");
