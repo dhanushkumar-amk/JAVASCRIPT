@@ -32,5 +32,5 @@
 
 // Self Invoking function using arrow function
 
-(() => {})()
+((name, age) => {})()
  
