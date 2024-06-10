@@ -74,4 +74,4 @@ const nextPromise = new Promise((resolve, rejected) => {
 nextPromise
 .then(value => console.log(value))
 
-my
+myPromise.then()
