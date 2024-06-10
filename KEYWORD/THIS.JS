@@ -12,10 +12,13 @@
 
 
 function nameFunc(myName,myAddress){
+  
+  this.myName = myName;
+  
     console.log(this.myName);
 }
 
 
 
 
-let object =new nameFunc("Dhanush");
+let object =new nameFunc();
