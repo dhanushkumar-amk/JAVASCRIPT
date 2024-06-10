@@ -26,6 +26,7 @@ const person = {
 };
 
 person.getInfo();
+
 // {
 //   name: 'Dhanush',
 //   age: 27,
