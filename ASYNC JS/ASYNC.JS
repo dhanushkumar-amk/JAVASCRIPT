@@ -16,4 +16,5 @@ console.log("third");
  
 
 // async 
-// awaoit
+// await
+// promise
