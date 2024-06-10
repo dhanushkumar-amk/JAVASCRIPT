@@ -84,4 +84,4 @@ myPromise
 
 // promise using api
 
-const users = fetch("")
+const users = fetch("https://jsonplaceholder.typicode.com/users")
