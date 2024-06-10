@@ -62,4 +62,4 @@ myPromise
     console.log(err);
 })
 
-// .thenonlu used when the promise become 
+// .then onlu used when the promise become 
