@@ -70,3 +70,4 @@ const nextPromise = new Promise((resolve, rejected) => {
         resolve("Next promise Resolved")
     }, 3000);
 })
+
