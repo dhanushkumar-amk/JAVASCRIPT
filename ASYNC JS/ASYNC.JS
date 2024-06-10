@@ -9,6 +9,6 @@
 
  
 console.log("First");
-setTimeout(() => console.log("Third"));
+setTimeout(() => console.log("Third"),200);
 console.log("third");
  
