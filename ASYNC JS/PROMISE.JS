@@ -52,6 +52,16 @@ console.log(myPromise);
 // Both are optional, so you can add a callback for success or failure only.
 
 
+const nextPromise = new Promise((resolve, rejected) => {
+    setTimeout(() => {
+        resolve("Next promise Resolved")
+    }, 3000);
+})
+
+nextPromise
+.then(value => console.log(value))
+
+
 myPromise
 .then(value => {
  return   value
