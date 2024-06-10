@@ -55,4 +55,4 @@
 
 // self invoking function with  return value 
 
-// 
+// normal funct
