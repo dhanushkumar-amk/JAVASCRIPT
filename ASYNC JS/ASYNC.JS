@@ -18,4 +18,6 @@ let promise =  new Promise((resolve,reject) => {
 }) 
 
 
-function 
+function getData(){
+    
+}
