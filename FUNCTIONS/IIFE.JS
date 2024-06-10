@@ -78,4 +78,6 @@ console.log(output);
 
 // self invoking function with function name
 
-(function funName())()
+(function funName(){
+    console.log("");
+})()
