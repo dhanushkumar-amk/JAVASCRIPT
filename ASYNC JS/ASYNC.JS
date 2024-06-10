@@ -26,6 +26,6 @@ let promise =  new Promise((resolve,reject) => {
 async function getData(){
 //    console.log("async");
 let userInfo  = promise;
-awconsole.log(userInfo);
+await console.log(userInfo);
 }
 getData();
