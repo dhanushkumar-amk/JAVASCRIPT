@@ -8,5 +8,7 @@
 
 /*
 (function () {
-    // function body
+    function body
  })();
+ 
+ */
