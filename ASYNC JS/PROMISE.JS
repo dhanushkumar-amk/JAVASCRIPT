@@ -12,7 +12,7 @@
 
 // crating the promise
 
-const myPromise = new Promise((resolve, rejected) => {
+const myPromise = new Promise((resolve, reject) => {
     const error = false;
     if(!error){
         resolve("yes ! resolved the promise")
