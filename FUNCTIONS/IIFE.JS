@@ -24,4 +24,6 @@
  
  // function with Parameter
  
-(function)()
+(function(){
+    
+})()
