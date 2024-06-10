@@ -6,6 +6,8 @@
 // a self-invoking function is also called immediately invoked function expression (IIFE).
 
 
+
+// Syntax :
 /*
 (function () {
     function body
