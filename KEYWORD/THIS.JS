@@ -21,4 +21,4 @@ function nameFunc(myName,myAddress){
 
 
 
-let object =new nameFunc();
+let object =new nameFunc("Hello","");
