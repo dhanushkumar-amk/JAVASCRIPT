@@ -14,7 +14,7 @@ const users = async() => {
 }
 
 const anotherFunction  =async() => {
-    const data = 
+    const data = users();
 }
 
  users()
