@@ -63,3 +63,5 @@ myPromise
 })
 
 // .then only used when the promise become fulfilled 
+
+
