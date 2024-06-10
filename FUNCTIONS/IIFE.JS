@@ -21,3 +21,5 @@
  (function(){
     console.log("Hello");
  })()
+ 
+ // function with example
