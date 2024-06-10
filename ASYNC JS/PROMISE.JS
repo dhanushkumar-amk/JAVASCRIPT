@@ -10,9 +10,8 @@
 
 */
 
-/* syntax : 
+// syntax :
 
-*/
 
 // crating the promise
 
