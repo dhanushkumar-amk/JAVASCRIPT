@@ -18,7 +18,8 @@ let object = new nameFunc('Hello', 'amk');
 
 
 
-// this keyword using  
+// this keyword using object 
+ 
 const person = {
   name: 'Dhanush',
   age: 27,
