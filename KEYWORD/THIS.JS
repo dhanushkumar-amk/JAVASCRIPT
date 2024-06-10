@@ -23,8 +23,8 @@ const person = {
   getInfo() {
     console.log(this);
     console.log(this.name);
-    console.log(this.name);
-    console.log(this.name);
+    console.log(this.age);
+    console.log(this.Role);
   },
 };
 
