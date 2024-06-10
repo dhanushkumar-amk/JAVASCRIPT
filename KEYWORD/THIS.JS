@@ -25,6 +25,6 @@ const person = {
   },
 };
 
-getInfo();
+person.getInfo();
 
 console.log(person);
