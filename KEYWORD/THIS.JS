@@ -25,5 +25,6 @@ let object =new nameFunc("Hello","amk");
 
 const person = {
     name : "Dhanush",
-    age : 27
+    age : 27,
+    
 }
