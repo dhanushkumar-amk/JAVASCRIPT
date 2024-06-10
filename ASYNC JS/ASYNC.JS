@@ -19,6 +19,6 @@ let promise =  new Promise((resolve,reject) => {
 
 
 function getData(){
-    
+    alert("")
 }
 getData();
