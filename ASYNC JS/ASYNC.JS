@@ -5,4 +5,4 @@
 
 // promise 
 
-let promise 
+let promise =  new 
