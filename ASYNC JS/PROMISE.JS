@@ -2,6 +2,7 @@
 
 /**3 stage*
  1=> pending
- 2=> fullfilled 
+ 2=> fulfilled
+  
 
 * /
