@@ -4,3 +4,6 @@ const users = async() => {
     console.log(userData);
     return userData; 
 }
+
+
+// await  is used to 
