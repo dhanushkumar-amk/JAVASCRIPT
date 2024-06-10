@@ -5,4 +5,4 @@
 
 // promise 
 
-let promise =  new promise 
+let promise =  new Promise((res)) 
