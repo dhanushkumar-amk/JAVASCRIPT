@@ -33,6 +33,6 @@
 // Self Invoking function using arrow function
 
 ((name, age) => {
-    console.log(Name );
+    console.log(Name : " );
 })()
  
