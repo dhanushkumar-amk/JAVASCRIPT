@@ -13,6 +13,6 @@ const users = async() => {
     return userData; 
 }
 
-const 
+const anotherFunction  =async
 
  users()
