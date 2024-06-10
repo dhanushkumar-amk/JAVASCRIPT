@@ -15,7 +15,7 @@ const users = async() => {
 
 const anotherFunction  =async() => {
     const data = await users();
-    console.log(data);
+    // console.log(data);
 }
 
 //  users()
