@@ -15,7 +15,7 @@
  
  */
 
- //
+ // simple 
  (function(){
     console.log("Hello");
  })()
