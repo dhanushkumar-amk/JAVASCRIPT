@@ -8,6 +8,11 @@
  2=> fulfilled
  3 => Rejected 
 
+ While a Promise object is "pending" (working), the result is undefined.
+
+When a Promise object is "fulfilled", the result is a value.
+
+When a Promise object is "rejected", the result is an error object.
 */
 
 // ! syntax :
