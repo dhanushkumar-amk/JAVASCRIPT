@@ -16,5 +16,5 @@
  */
 
  (hello(){
-    console.log();
+    console.log("Hello");
  })()
