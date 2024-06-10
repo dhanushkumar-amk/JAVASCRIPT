@@ -12,4 +12,6 @@
 
 // crating the promise
 
-const myPromise = new Promise((reso))
+const myPromise = new Promise((resolve, rejected) => {
+    
+})
