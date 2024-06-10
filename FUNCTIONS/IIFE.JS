@@ -69,6 +69,6 @@ console.log(name);
 
 // self invoking function with return value
 
-let output =  (function(){
+let output = (function(){
     return 'self invoking function with return value'
 })()
