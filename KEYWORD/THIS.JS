@@ -22,6 +22,9 @@ const person = {
   Role: 'Developer',
   getInfo() {
     console.log(this);
+    console.log(this.name);
+    console.log(this.name);
+    console.log(this.name);
   },
 };
 
