@@ -53,4 +53,4 @@
 // })()
 
 
-// return value with self invoking function
+// self invoking function
