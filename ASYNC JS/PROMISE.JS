@@ -1,8 +1,9 @@
 // promises
 
-/**3 stage*
+/**3 stage
+ 
  1=> pending
  2=> fulfilled
- 3 =>  
+ 3 => Rejected 
 
 * /
