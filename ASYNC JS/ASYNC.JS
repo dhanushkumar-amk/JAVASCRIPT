@@ -4,7 +4,7 @@
  */
 
 /**
- * // async function can't wait for anything it works immediately 
+//  * // async function can't wait for anything it works immediately 
 
 // promise 
 
@@ -25,7 +25,7 @@
 
 
 // async function getData(){
-// //    console.log("async");
+//    console.log("async");
 // let userInfo  = await promise;
 //   console.log(userInfo);
 // }
