@@ -8,6 +8,7 @@
 const myName = "Dhanush"
 
 
+
 function nameFunc(){
     console.log(myName);
 }
