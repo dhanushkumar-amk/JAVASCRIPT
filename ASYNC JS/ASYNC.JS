@@ -8,7 +8,7 @@
 // promise 
 
 let promise =  new Promise((resolve,reject) => {
-    set
+    setTimeout(() => {})
     let user ={
         name : "Dhanush",
         address : "India",
