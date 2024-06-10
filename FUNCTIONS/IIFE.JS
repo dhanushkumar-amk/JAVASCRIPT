@@ -73,3 +73,4 @@ let output = (function(){
     return 'self invoking function with return value'
 })()
 console.log(output);
+
