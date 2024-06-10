@@ -65,12 +65,5 @@ myPromise
 // .then only used when the promise become fulfilled 
 
 
-const nextPromise = new Promise((resolve, rejected) => {
-    setTimeout(() => {
-        resolve("Next promise Resolved")
-    }, 3000);
-})
 
-nextPromise
-.then(value => console.log(value))
 
