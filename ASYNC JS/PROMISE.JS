@@ -92,5 +92,5 @@ const users = fetch("https://jsonplaceholder.typicode.com/users")
     console.log(user);
    })
 })
-console.log(users);
+// console.log(users);
 
