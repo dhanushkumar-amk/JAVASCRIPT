@@ -11,7 +11,7 @@ let promise =  new Promise((resolve,reject) => {
         address : "India",
     } 
     if(Object.keys(user) != 0){
-        resolve.
+        resolve(user)
     }else{
         
     }
