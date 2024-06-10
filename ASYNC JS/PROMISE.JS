@@ -86,7 +86,7 @@ myPromise
 
 const users = fetch("https://jsonplaceholder.typicode.com/users")
 .then((res) => {
-    return res
+    return res;
 })
 console.log(users);
 
