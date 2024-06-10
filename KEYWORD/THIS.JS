@@ -2,4 +2,7 @@
 // which refers to the current variable
 
 
-const 
+const myName = "Dhanush"
+
+
+function name
