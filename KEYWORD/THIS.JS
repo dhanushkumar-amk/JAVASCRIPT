@@ -14,7 +14,7 @@
 function nameFunc(myName,myAddress){
   
   this.myName = myName;
-  
+  this.myAddress = myAddress;
     console.log(this.myName);
 }
 
