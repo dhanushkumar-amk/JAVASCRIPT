@@ -8,7 +8,18 @@
 // promise 
 
 let promise =  new Promise((resolve,reject) => {
-    setTimeout(() => {})
+    setTimeout(() => {
+        let user ={
+            name : "Dhanush",
+            address : "India",
+        } 
+        if(Object.keys(user) != 0){
+            resolve(user);
+        }else{
+            reject(user)
+        }
+    }) 
+    })
    
 
 
