@@ -10,5 +10,5 @@ let promise =  new Promise((resolve,reject) => {
         name : "Dhanush",
         address : "India",
     } 
-    if(user)
+    if(Object.keys)
 }) 
