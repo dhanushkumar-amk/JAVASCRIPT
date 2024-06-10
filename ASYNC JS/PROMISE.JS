@@ -65,4 +65,4 @@ myPromise
 // .then only used when the promise become fulfilled 
 
 
-conts nextpromise =
+const nextPromise =
