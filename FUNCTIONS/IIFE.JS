@@ -32,5 +32,7 @@
 
 // Self Invoking function using arrow function
 
-((name, age) => {})()
+((name, age) => {
+    console.log(Name );
+})()
  
