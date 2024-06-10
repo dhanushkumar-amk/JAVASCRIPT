@@ -20,7 +20,7 @@ const person = {
   name: 'Dhanush',
   age: 27,
   Role: 'Developer',
- let  getInfo() {
+  getInfo() {
     console.log(this);
   },
 };
