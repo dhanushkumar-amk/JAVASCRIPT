@@ -19,6 +19,6 @@ let promise =  new Promise((resolve,reject) => {
 
 
 function getData(){
-   console.log("asu");
+   console.log("async");
 }
 getData();
