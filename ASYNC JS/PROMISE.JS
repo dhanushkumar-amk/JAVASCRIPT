@@ -71,3 +71,5 @@ const nextPromise = new Promise((resolve, rejected) => {
     }, 3000);
 })
 
+nextPromise
+.then()
