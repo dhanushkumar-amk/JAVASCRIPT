@@ -74,3 +74,6 @@ let output = (function(){
 })()
 console.log(output);
 
+
+
+// selft noking function with function name 
