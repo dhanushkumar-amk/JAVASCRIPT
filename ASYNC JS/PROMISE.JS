@@ -62,4 +62,4 @@ myPromise
     console.log(err);
 })
 
-// .then only used when the promise become  
+// .then only used when the promise become fulfilled 
