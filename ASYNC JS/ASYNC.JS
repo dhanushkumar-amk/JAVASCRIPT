@@ -4,10 +4,7 @@
  */
 
 /**
-  *  async function can't wait for anything it works immediately 
-
- 
- * 
+  *  async function can't wait for anything it works immediately  
  */
 
  
