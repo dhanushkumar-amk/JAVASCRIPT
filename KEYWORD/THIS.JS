@@ -28,3 +28,5 @@ const person = {
     age : 27,
     Role : "Developer",
 }
+
+console.log();
