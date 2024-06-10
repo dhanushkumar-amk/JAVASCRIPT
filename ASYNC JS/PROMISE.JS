@@ -35,7 +35,7 @@ When a Promise object is "rejected", the result is an error object.
 // crating the promise
 
 const myPromise = new Promise((resolve, reject) => {
-    const error = false;
+    const error = ftrue;
     if(!error){
         resolve("yes ! resolved the promise")
     }
