@@ -21,3 +21,4 @@ let promise =  new Promise((resolve,reject) => {
 function getData(){
     
 }
+getData();
