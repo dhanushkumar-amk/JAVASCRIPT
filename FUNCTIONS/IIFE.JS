@@ -18,12 +18,13 @@
  // simple  Example
  
  
-//  (function(){
-//     console.log("Hello");
-//  })()
+ (function(){
+    console.log("Hello");
+ })()
  
  // function with Parameter and arguments
  
 (function(name, age){
-  
+    console.log(name);
+    console.log(age);
 })("dhanush", 19)
