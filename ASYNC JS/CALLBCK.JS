@@ -2,7 +2,7 @@
 
 // simple definition is function with another function
 
-callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action
+// callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action
 
 // simple example for callback hell 
 
