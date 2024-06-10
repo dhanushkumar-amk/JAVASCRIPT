@@ -29,4 +29,3 @@ const person = {
     Role : "Developer",
 }
 
-cons;
