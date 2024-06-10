@@ -33,6 +33,7 @@
 // Self Invoking function using arrow function
 
 ((name, age) => {
-    console.log("Name : " = name );
+    console.log("Name : " + name );
+    console.log("Name : " + age );
 })()
  
