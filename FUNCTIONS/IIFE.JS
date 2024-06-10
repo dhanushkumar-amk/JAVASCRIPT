@@ -43,11 +43,11 @@
 
 //nested self invoking functions
 
-((name, age) => {
-console.log("First self Invoking Function");
+// ((name, age) => {
+// console.log("First self Invoking Function");
 
-    (() => {
-    console.log("Nested  self Invoking function"); 
-    })()   
+//     (() => {
+//     console.log("Nested  self Invoking function"); 
+//     })()   
     
-})()
+// })()
