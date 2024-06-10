@@ -25,6 +25,8 @@
     //   function(error) { /* code if some error */ }
     // );
 
+    
+    
 // crating the promise
 
 const myPromise = new Promise((resolve, reject) => {
