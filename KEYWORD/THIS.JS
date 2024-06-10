@@ -22,6 +22,7 @@ const person = {
   Role: 'Developer',
   getInfo() {
     console.log(this);
+    
     console.log(this.name); // Dhanush
     console.log(this.age);  // 27
     console.log(this.Role); // Developer
