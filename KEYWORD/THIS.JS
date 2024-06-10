@@ -22,3 +22,4 @@ function nameFunc(myName,myAddress){
 let object =new nameFunc("Hello","amk");
 
 
+
