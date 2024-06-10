@@ -18,6 +18,6 @@ const myPromise = new Promise((resolve, reject) => {
         resolve("yes ! resolved the promise")
     }
     else {
-        rejected("No rejected the promise")
+        reject("No rejected the promise")
     }
 })
