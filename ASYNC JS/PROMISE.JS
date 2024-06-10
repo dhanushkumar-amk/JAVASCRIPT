@@ -65,4 +65,6 @@ myPromise
 // .then only used when the promise become fulfilled 
 
 
-const nextPromise = new Promise((resoleve, rejected))
+const nextPromise = new Promise((resolve, rejected) => {
+    
+})
