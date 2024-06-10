@@ -25,6 +25,5 @@
  // function with Parameter and arguments
  
 (function(name, age){
-    console.log(name);
-    console.log(age);
+  
 })("dhanush", 19)
