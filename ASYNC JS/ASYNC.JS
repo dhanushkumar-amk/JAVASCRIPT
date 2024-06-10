@@ -3,7 +3,7 @@
  * 
  */
 
-// async function ca/t 
+// async function can't wait for anything jit works immedietely 
 
 // promise 
 
