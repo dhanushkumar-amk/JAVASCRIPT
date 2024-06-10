@@ -5,4 +5,4 @@
 
 // promise 
 
-let promise =  new Promise((res)) 
+let promise =  new Promise((resolve,) => {}) 
