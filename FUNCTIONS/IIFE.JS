@@ -69,4 +69,6 @@ console.log(name);
 
 // self invoking function with return value
 
-()()
+(function(){
+    return ''
+})()
