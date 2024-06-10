@@ -2,7 +2,7 @@
 // which refers to the current variable
 
 
-
+// without creating object you use the this keyword it returns the window 
 
 
 // const myName = "Dhanush"
