@@ -43,3 +43,6 @@
 
 //nested self invoking functions
 
+(function(myName){
+    console.log(myName);
+ })("Dhanush")
