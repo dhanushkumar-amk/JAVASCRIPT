@@ -34,10 +34,10 @@
 
 // Self Invoking function using arrow function
 
-((name, age) => {
-    console.log("Name : " + name );
-    console.log("Age : " + age );
-})("ram", 20)
+// ((name, age) => {
+//     console.log("Name : " + name );
+//     console.log("Age : " + age );
+// })("ram", 20)
  
 
 
