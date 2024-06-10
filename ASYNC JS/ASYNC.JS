@@ -7,6 +7,8 @@
   *  async function can't wait for anything it works immediately  
  */
 
+
+async using set ttimeout
  
 console.log("First");
 setTimeout(() => console.log("Second"),2000);
