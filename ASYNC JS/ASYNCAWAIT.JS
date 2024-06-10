@@ -1,3 +1,7 @@
+
+// await  is used to wait the value in the function 
+// simply if you use the await the code block is waiting for the data 
+
 const users = async() => {
     const response = await fetch("https://jsonplaceholder.typicode.com/users")
     const userData  = await response.json();
