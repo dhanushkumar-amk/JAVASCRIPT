@@ -27,7 +27,7 @@ const person = {
     console.log(this.age);  // 27
     console.log(this.Role); // Developer
     
-    console.log("My name is ");
+    console.log("My name is ${this.}");
   },
 };
 
