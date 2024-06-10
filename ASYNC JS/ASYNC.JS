@@ -3,7 +3,7 @@
  * 
  */
 
-// async function can't wait for anything jit works immedietely 
+// async function can't wait for anything it works immediately 
 
 // promise 
 
