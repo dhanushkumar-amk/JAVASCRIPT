@@ -1,3 +1,4 @@
 // promises
 
-3 stage
+/**3 stage*
+ * /
