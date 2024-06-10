@@ -22,7 +22,7 @@
     console.log("Hello");
  })()
  
- // function with Parameter
+ // function with Parameter and aruguments
  
 (function(name, age){
     
