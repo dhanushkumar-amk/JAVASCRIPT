@@ -16,6 +16,9 @@ function nameFunc(myName, myAddress) {
 
 let object = new nameFunc('Hello', 'amk');
 
+
+
+// thiis keyword uig
 const person = {
   name: 'Dhanush',
   age: 27,
