@@ -61,4 +61,5 @@ function hello(){
     return "My name is someName"
 }
 
-letr name = hello();
+let name = hello();
+
