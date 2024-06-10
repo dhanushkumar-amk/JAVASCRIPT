@@ -6,5 +6,8 @@
 // promise 
 
 let promise =  new Promise((resolve,reject) => {
-    let user ={name : "Dhanush"} 
+    let user ={
+        name : "Dhanush"
+        
+    } 
 }) 
