@@ -5,7 +5,7 @@
 
 // a self-invoking function is also called immediately invoked function expression (IIFE).
 
-/ e can use this only one time
+// we can use this only one time
 
 
 
