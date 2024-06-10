@@ -29,4 +29,4 @@ const person = {
     Role : "Developer",
 }
 
-console.log();
+cons;
