@@ -1,3 +1,4 @@
 const users = () => {
-    const response = 
+    const response =  fetch("https://jsonplaceholder.typicode.com/users")
+    
 }
