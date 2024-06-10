@@ -35,5 +35,5 @@
 ((name, age) => {
     console.log("Name : " + name );
     console.log("Age : " + age );
-})()
+})("ram", 20)
  
