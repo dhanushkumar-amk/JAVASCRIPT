@@ -72,4 +72,4 @@ const nextPromise = new Promise((resolve, rejected) => {
 })
 
 nextPromise
-.then(value => logvalue)
+.then(value => console.log(value);)
