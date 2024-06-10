@@ -12,4 +12,4 @@
 
 // crating the promise
 
-const mypromise = new Promise
+const myPromise = new Promise
