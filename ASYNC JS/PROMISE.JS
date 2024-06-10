@@ -90,6 +90,7 @@ const users = fetch("https://jsonplaceholder.typicode.com/users")
 }).then( users => {
    users.forEach(user => {
     console.log(user);
+    console.log();
    })
 })
 // console.log(users);
