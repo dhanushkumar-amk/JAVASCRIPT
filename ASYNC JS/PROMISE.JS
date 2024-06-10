@@ -59,5 +59,5 @@ myPromise
 })
 .then(newValue =>console.log(newValue))  
 .catch(err => {
-    
+    console.log(err);
 })
