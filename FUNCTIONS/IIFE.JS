@@ -26,4 +26,4 @@
  
  (function(myName){
     console.log(myName);
- })()
+ })("Dhanush")
