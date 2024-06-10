@@ -24,6 +24,6 @@
  
  // function with Parameter
  
-(function(){
+(function(name, age){
     
 })()
