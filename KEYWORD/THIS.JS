@@ -27,10 +27,10 @@ const person = {
 
 person.getInfo();
 // {
-  name: 'Dhanush',
-  age: 27,
-  Role: 'Developer',
-  getInfo: [Function: getInfo]
-}
+//   name: 'Dhanush',
+//   age: 27,
+//   Role: 'Developer',
+//   getInfo: [Function: getInfo]
+// }
 
 // console.log(person);
