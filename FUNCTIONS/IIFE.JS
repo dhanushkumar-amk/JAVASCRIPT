@@ -25,5 +25,5 @@
  // function with Parameter
  
  (function(myName){
-    
+    console.log(myName);
  })()
