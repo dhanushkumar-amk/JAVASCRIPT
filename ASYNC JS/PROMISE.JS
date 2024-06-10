@@ -55,7 +55,7 @@ console.log(myPromise);
 myPromise
 .then(value => {
  return (
-    log
+    console.log()
  )
      // yes ! resolved the promise
 })
