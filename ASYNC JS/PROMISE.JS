@@ -21,3 +21,4 @@ const myPromise = new Promise((resolve, reject) => {
         reject("No rejected the promise")
     }
 })
+\
