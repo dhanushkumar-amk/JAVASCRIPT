@@ -76,4 +76,4 @@ console.log(output);
 
 
 
-// selft noking function with function name 
+// self inoking function with function name 
