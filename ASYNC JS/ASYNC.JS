@@ -18,7 +18,7 @@ let promise =  new Promise((resolve,reject) => {
         }else{
             reject(user)
         }
-    }) 
+    },3000) 
   })
    
 
