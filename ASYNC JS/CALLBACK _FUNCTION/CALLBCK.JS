@@ -4,7 +4,8 @@
 
 
 
-simple example for 
+// simple example for callback hell 
+
 setTimeout(() =>{
     console.log("One Second");
     setTimeout(() =>{
