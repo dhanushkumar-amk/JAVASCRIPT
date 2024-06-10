@@ -79,5 +79,6 @@ console.log(output);
 // self invoking function with function name
 
 (function funName(){
-    console.log("");
+    console.log("Function with name");
 })()
+
