@@ -55,4 +55,6 @@
 
 // self invoking function with  return value 
 
-// normal funct
+// normal function with return value
+
+funvtion 
