@@ -78,3 +78,4 @@ console.log(output);
 
 // self invoking function with function name
 
+()
