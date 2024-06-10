@@ -67,8 +67,8 @@ console.log(receiveJson);
  
 //  1 => Number
 //  2 => String
-// 3 => Boolean 
-// 4 => Array
+// 3 => Booalean 
+// 4 => Arry
 // 5 => Object
 // 6 => null
 
