@@ -19,7 +19,6 @@ function nameFunc(myName,myAddress){
     console.log(this.myAddress);
 }
 
-
 let object =new nameFunc("Hello","amk");
 
 
