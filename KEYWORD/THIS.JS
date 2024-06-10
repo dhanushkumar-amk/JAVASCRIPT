@@ -27,4 +27,4 @@ const person = {
 
 person.getInfo();
 
-console.log(person);
+// console.log(person);
