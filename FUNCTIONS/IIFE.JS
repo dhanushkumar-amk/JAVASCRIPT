@@ -22,4 +22,4 @@
     console.log("Hello");
  })()
  
- // function with example
+ // function with Parametrer
