@@ -26,5 +26,5 @@
  
 (function(name, age){
     console.log("Name" + name);
-    console.log("age" age);
+    console.log("Age" +  age);
 })("dhanush", 19)
