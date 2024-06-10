@@ -57,6 +57,8 @@
 
 // normal function with return value
 
-funvtion hello(){
+function hello(){
     return "My name is someName"
 }
+
+hello()
