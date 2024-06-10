@@ -5,20 +5,21 @@
 
 
 
-
-
 // const myName = "Dhanush"
 
 
+
+/// this function using function
 
 function nameFunc(myName,myAddress){
   
   this.myName = myName;
   this.myAddress = myAddress;
     console.log(this.myName);
+    console.log(this.myAddress);
 }
 
 
+let object =new nameFunc("Hello","amk");
 
 
-let object =new nameFunc("Hello","");
