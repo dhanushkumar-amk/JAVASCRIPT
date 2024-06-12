@@ -7,7 +7,7 @@
 
 
 // event capturing
-// netscape communicater
+// netscape communicate
 // just opposite of event bubbling
 
 // ancestors => grandParent => parent => child 
