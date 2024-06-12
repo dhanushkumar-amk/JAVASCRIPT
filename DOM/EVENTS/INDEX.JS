@@ -1,3 +1,3 @@
 // event bubbling
 
-child => parent => grandParent => ....ancestors
+// child => parent => grandParent => ....ancestors 
