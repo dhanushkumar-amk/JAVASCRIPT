@@ -7,7 +7,7 @@
 
 
 // event capturing
-
+// netrscape 
 // just opposite of event bubbling
 
 // ancestors => grandParent => parent => child 
