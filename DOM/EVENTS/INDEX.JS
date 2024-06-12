@@ -8,4 +8,4 @@
 // event capturing
 
 // just opposite of event bubbling
-ancestors => grandParent => 
+ancestors => grandParent => parent => 
