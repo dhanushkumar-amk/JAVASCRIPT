@@ -27,7 +27,9 @@ button.addEventListener('click', () => {
   console.log("button was clicked")
 })
 
-
+// span was clicked INDEX.JS:23:11
+div was clicked INDEX.JS:19:11
+body was clicked
 
 // event capturing
 // netscape communicate
