@@ -28,8 +28,8 @@ button.addEventListener('click', () => {
 })
 
 // span was clicked 
-div was clicked 
-body was clicked
+// div was clicked 
+// body was clicked
 
 // event capturing
 // netscape communicate
