@@ -27,6 +27,8 @@ button.addEventListener('click', () => {
   console.log("button was clicked")
 })
 
+
+
 // event capturing
 // netscape communicate
 // just opposite of event bubbling
