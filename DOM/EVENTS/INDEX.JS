@@ -1,2 +1,3 @@
 // event bubbling
 
+child => parent => 
