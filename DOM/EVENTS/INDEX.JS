@@ -36,3 +36,7 @@ button.addEventListener('click', () => {
 // just opposite of event bubbling
 
 // ancestors => grandParent => parent => child 
+
+// Event capturing occurs when a nested element gets clicked. The click event of its parent elements must be triggered before the click of the nested element. This phase trickles down from the top of the DOM tree to the target element.
+
+
