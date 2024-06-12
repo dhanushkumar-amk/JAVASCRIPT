@@ -7,4 +7,4 @@
 
 // event capturing
 
-// just opposite of event 
+// just opposite of event bubbling
