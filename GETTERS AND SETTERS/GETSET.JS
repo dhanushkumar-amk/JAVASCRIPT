@@ -13,7 +13,7 @@ let person = {
        console.log(person.FirstName + " " + person.lastName); 
     }  ,
     fullName(value){
-        //
+        // change the role value
     }
 }
 
