@@ -15,7 +15,7 @@ let person = {
     
 }
 
-// to chnah=ge 
+// to change the value in  
 person.FirstName = "sanjay";
 
 person.fullName();
