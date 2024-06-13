@@ -8,6 +8,5 @@ console.log(Math.abs(-1));  // Returns the absolute value of a number (the value
 
 const x = (num) => {
     console.log(Math.ceil(45));   
-}
-x(3);
+
  // Returns the smallest integer greater than or equal to the input.
