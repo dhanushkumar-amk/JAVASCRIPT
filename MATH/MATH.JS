@@ -65,4 +65,4 @@ console.log(Math.abs(-1)); // 1
  
  
  // Returns a random integer from 0 to 100:
-Math.floor(Math.random() * 101);
+console.log(Math.floor(Math.random() * 101));;
