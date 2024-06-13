@@ -57,4 +57,4 @@ const person1 = {
   
   // Set an object property using a setter:
   person2.lang = "en";
-  console.log(person2.lang());
+  console.log(person2.lang);
