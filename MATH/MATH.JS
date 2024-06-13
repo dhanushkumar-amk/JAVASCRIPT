@@ -11,3 +11,4 @@ console.log(Math.abs(-1));  // Returns the absolute value of a number (the value
  // Returns the smallest integer greater than or equal to the input.
  
  console.log(Math.floor());
+ // returns the greatest integer less than or equal to its numeric argument.
