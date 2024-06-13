@@ -33,7 +33,7 @@ console.log(Math.abs(-1)); // 1
  
  // trigonometric functions
  
- 
+ console.log(Math.sign(-1));
  
  
  
