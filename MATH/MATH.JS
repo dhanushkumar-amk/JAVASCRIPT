@@ -39,8 +39,8 @@ console.log(Math.abs(-1)); // 1
  
  console.log(Math.log(10));
  console.log(Math.log2(10));
- console.log(Math.log1p(1));
- console.log(Math.log10(1));
+ console.log(Math.log1p(10));
+ console.log(Math.log10(10));
  
  console.log("--------------------------------------");
  
