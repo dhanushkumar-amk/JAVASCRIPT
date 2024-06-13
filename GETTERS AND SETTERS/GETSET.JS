@@ -15,7 +15,7 @@ let person = {
     
 }
 
-
+person.FirstName = ""
 
 person.fullName();
 // console.log(person.name);
