@@ -19,7 +19,8 @@ let person = {
 // to change the value in object 
 // person.FirstName = "sanjay";
 
-// getters 
+// getters >>> is used to get the data
+// setters >> 
 
 
 person.fullName();
