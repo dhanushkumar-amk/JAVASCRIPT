@@ -1,4 +1,4 @@
-// 
+// Getters and setters allow you to define Object Accessors 
 
 
 let person = {
