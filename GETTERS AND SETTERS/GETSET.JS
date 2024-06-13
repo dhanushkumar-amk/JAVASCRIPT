@@ -15,7 +15,7 @@ let person = {
   
 }
 
-
+person.
 
 
 
