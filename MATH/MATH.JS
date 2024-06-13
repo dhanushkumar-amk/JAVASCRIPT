@@ -10,4 +10,4 @@ console.log(Math.abs(-1));  // Returns the absolute value of a number (the value
  console.log(Math.ceil(45));   
  // Returns the smallest integer greater than or equal to the input.
  
- console.log();
+ console.log(Math.floor());
