@@ -45,9 +45,9 @@ const person1 = {
   
   // setter using set keyword
   const person2 = {
-    firstName: "John",
-    lastName: "Doe",
-    language: "",
+    firstName: "Dhanush",
+    lastName: "Kumar",
+    language: "english",
     set lang(lang) {
       this.language = lang;
     }
