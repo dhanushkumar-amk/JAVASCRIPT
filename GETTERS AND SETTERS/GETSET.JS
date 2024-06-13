@@ -32,3 +32,14 @@ person.Role = "Gamer"
 person.fullName;
 // console.log(person.name);
 
+
+
+
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    language: "en",
+    get lang() {
+      return this.language;
+    }
+  };
