@@ -41,4 +41,4 @@ const person1 = {
       return this.language;
     }
   };
-  console.log(person1.lang());
+  console.log(person1.lang);
