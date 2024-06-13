@@ -35,5 +35,5 @@ console.log(Math.abs(-1)); // 1
  
  
  
- // ! mthematical properties
+ // ! mathematical properties
  
