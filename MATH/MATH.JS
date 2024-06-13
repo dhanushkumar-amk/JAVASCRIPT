@@ -35,6 +35,8 @@ console.log(Math.abs(-1)); // 1
  
  
  
+ log
+ 
  // ! mathematical properties
  
   console.log(Math.E);     // returns Euler's number
