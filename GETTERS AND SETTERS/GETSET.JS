@@ -9,9 +9,9 @@ let person = {
     age : 19,
   Role : "Developer",
     
-  get fullName(){
+  fullName(){
        console.log(person.FirstName + " " + person.lastName); 
-    },
+    }
    set fullName(value){
         // change the role value
       let values =  value.split( ' ');
