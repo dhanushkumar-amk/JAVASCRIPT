@@ -14,6 +14,6 @@ let person = {
     }
     
 }
-
+person.
 // console.log(person.name);
 
