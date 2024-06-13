@@ -37,7 +37,7 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.sign(1));
  
  
- // logorithm values
+ // logarithm values
  console.log(Math.log(10));
  console.log(Math.log2(10));
  console.log(Math.log1p(10));
