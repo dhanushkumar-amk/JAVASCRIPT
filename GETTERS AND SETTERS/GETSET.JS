@@ -15,7 +15,8 @@ let person = {
     
 }
 
-person.FirstName = ""
+// to chnah=ge 
+person.FirstName = "sanjay";
 
 person.fullName();
 // console.log(person.name);
