@@ -1,3 +1,3 @@
 // math object in js
 
-(Math.min(45));
+console.log(Math.min(45));
