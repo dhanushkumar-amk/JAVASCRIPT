@@ -4,3 +4,4 @@ let person = {
     Role : "Developer"
 }
 
+console.log(person.name);
