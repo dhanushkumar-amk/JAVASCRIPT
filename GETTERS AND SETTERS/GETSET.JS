@@ -16,7 +16,7 @@ let person = {
 }
 
 // to change the value in object 
-person.FirstName = "sanjay";
+// person.FirstName = "sanjay";
 
 person.fullName();
 // console.log(person.name);
