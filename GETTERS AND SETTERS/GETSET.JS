@@ -31,7 +31,7 @@ console.log(person);
 
 
 
-//  getter 
+//  getter using get keyword 
 
 const person1 = {
     firstName: "John",
