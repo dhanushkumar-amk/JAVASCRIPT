@@ -61,4 +61,4 @@ console.log(Math.abs(-1)); // 1
  // Math random to generate teh random method
  
  console.log(Math.random(Math.floor(3) + 1000));
- console.log(Math.random(1));
+ console.log(Math.random(1)*10);
