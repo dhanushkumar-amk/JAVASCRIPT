@@ -31,7 +31,8 @@ console.log(person);
 
 
 
-const person = {
+
+const person1 = {
     firstName: "John",
     lastName: "Doe",
     language: "en",
