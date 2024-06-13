@@ -34,7 +34,9 @@ console.log(person);
 //  getter using get keyword 
 
 const person1 = {
- 
+    firstName: "Dhanush",
+    lastName: "Kumar",
+    language: "english",
     get lang() {
       return this.language;
     }
