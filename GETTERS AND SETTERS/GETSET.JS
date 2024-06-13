@@ -25,7 +25,7 @@ let person = {
 // setters >>> is used to set the data 
 
 
-person();
+
 // console.log(person.name);
 
 
