@@ -16,3 +16,4 @@ console.log(Math.abs(-1)); // 1
  
  console.log(Math.round(46.7)); // 47
  console.log(Math.round(46.3));  // 46
+ // Returns a supplied numeric expression rounded to the nearest integer.
