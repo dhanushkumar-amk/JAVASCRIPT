@@ -10,7 +10,7 @@ let person = {
     Role : "Developer",
     
     fullName :function(){
-       console.log(); 
+       console.log(person.FirstName + " " + person.lastName); 
     }
     
 }
