@@ -23,6 +23,6 @@ let person = {
 // setters >>> is used to set the data 
 
 
-person.fullName();
+person.fullName;
 // console.log(person.name);
 
