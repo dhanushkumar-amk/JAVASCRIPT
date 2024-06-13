@@ -11,7 +11,7 @@ let person = {
     
   get fullName(){
        console.log(person.FirstName + " " + person.lastName); 
-    }  
+    }  ,
     fullName(value){
         //
     }
