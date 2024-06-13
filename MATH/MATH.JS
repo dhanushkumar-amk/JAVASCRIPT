@@ -18,4 +18,4 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.round(46.3));  // 46
  // it is used to rounded the value
  
- console.log(Math.);
+ console.log(Math.pow(3,2));
