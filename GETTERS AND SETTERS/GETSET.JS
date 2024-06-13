@@ -1,3 +1,3 @@
-let person = [
-    name : "Dhansh"
-]
+let person = {
+    name : "Dhanush",
+    
