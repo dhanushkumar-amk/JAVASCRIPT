@@ -38,7 +38,7 @@ console.log(Math.abs(-1)); // 1
  // ! mathematical properties
  
   console.log(Math.E);     // returns Euler's number
- console.log();  Math.PI       // returns PI
+ console.log(Math.PI);         // returns PI
  console.log();  Math.SQRT2    // returns the square root of 2
  console.log();  Math.SQRT1_2  // returns the square root of 1/2
  console.log();  Math.LN2      // returns the natural logarithm of 2
