@@ -30,3 +30,5 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.tan(10));
  console.log(Math.cos(10));
  console.log(Math.sin(10));
+ 
+ // trignometric function
