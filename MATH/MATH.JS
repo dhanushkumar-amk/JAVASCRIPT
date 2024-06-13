@@ -21,4 +21,4 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.pow(3,2)); // 9
  // used to find tje power of the value 
  
- console.log(Ma);
+ console.log(Math.);
