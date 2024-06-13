@@ -14,6 +14,6 @@ let person = {
     }
     
 }
-person.fullName;
+person.fullName();
 // console.log(person.name);
 
