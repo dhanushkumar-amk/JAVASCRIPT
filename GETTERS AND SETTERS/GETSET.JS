@@ -14,6 +14,8 @@ let person = {
     }  
 }
 
+st
+
 
 // to change the value in object 
 // person.FirstName = "sanjay";
