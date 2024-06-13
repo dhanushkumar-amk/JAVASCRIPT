@@ -6,5 +6,5 @@ console.log(Math.max(45,20)); // to find maximum value
 
 console.log(Math.abs(-1));  // Returns the absolute value of a number (the value without regard to whether it is positive or negative)
 
-const 
+const x = fu
 console.log(Math.ceil(45)); // Returns the smallest integer greater than or equal to the input.
