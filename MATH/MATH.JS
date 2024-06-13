@@ -24,4 +24,4 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.sqrt(4)); // 2
  // used to find the square root
  
- console.log(Math.trunc(45.3945,4));
+ console.log(Math.trunc(45.3945));
