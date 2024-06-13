@@ -20,7 +20,7 @@ let person = {
 // person.FirstName = "sanjay";
 
 // getters >>> is used to get the data
-// setters >> 
+// setters >>> is used to set 
 
 
 person.fullName();
