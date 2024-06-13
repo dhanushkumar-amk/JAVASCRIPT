@@ -46,3 +46,4 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.LOG2E);      // returns base 2 logarithm of E
  console.log( Math.LOG10E);    // returns base 10 logarithm of E
  
+ 
