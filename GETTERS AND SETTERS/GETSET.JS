@@ -14,7 +14,7 @@ let person = {
     }  
 }
 
-st
+person.role
 
 
 // to change the value in object 
