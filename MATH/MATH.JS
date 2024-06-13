@@ -19,4 +19,4 @@ console.log(Math.abs(-1)); // 1
  // it is used to rounded the value
  
  console.log(Math.pow(3,2)); // 9
- // used to find tje power of the valu
+ // used to find tje power of the value 
