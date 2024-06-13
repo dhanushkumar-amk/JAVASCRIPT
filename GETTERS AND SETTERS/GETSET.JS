@@ -14,7 +14,8 @@ let person = {
     }  ,
     fullName(value){
         // change the role value
-        value.split( ' ');
+      let values =  value.split( ' ');
+        
     }
 }
 
