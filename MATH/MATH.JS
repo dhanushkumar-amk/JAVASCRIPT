@@ -72,4 +72,8 @@ console.log(Math.floor(Math.random() * 10) + 1);
 
 
 
-// proper way to use 
+// proper way to use random number in js
+
+function getRndInteger(min, max) {
+    return Math.floor(Math.random() * (max - min + 1) ) + min;
+  }
