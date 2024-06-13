@@ -15,7 +15,7 @@ let person = {
     fullName(value){
         // change the role value
       let values =  value.split( ' ');
-        
+        logvalues
     }
 }
 
