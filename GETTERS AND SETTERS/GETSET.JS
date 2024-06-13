@@ -7,7 +7,7 @@ let person = {
     FirstName : "Dhanush",
     lastName  : "Kumar",
     age : 19,
-    Role : "Developer"
+    Role : "Developer",
     
     fullName():{
         
