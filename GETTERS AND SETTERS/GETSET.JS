@@ -12,14 +12,10 @@ let person = {
   fullName(){
        console.log(person.FirstName + " " + person.lastName); 
     }
-   set fullName(value){
-        // change the role value
-      let values =  value.split( ' ');
-        console.log(values);
-    }
+  
 }
 
-person.Role = "Gamer"
+
 
 
 // to change the value in object 
