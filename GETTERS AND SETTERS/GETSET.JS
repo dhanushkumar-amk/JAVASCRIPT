@@ -36,7 +36,7 @@ console.log(person);
 const person1 = {
     firstName: "Dhanush",
     lastName: "Kumar",
-    language: "en",
+    language: "english",
     get lang() {
       return this.language;
     }
