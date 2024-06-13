@@ -14,5 +14,5 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.floor(45.6));  //45
  // returns the greatest integer less than or equal to its numeric argument.
  
- console.log(Math.round(46.7));
+ console.log(Math.round(46.7)); // 47
  console.log(Math.round(46.3));
