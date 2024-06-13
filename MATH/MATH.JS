@@ -22,4 +22,4 @@ console.log(Math.abs(-1)); // 1
  // used to find tje power of the value 
  
  console.log(Math.sqrt(4)); // 2
- // used to find thw 
+ // used to find the square rot
