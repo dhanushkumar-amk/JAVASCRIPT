@@ -42,3 +42,7 @@ const person1 = {
     }
   };
   console.log(person1.lang);
+  
+  // setter using set keyword
+  
+  
