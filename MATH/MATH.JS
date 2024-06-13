@@ -1,0 +1,2 @@
+// math object in js
+
