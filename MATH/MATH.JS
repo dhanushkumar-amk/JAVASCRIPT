@@ -37,7 +37,7 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.sign(1));
  
  
- log
+ console.log(Math.log);
  
  console.log("--------------------------------------");
  
