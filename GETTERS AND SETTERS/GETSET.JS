@@ -5,7 +5,7 @@
 
 let person = {
     FirstName : "Dhanush",
-    last
+    lastName 
     age : 19,
     Role : "Developer"
     
