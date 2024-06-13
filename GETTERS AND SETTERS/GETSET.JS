@@ -46,5 +46,15 @@ const person1 = {
   
   
   // setter using set keyword
+  const person = {
+    firstName: "John",
+    lastName: "Doe",
+    language: "",
+    set lang(lang) {
+      this.language = lang;
+    }
+  };
   
+  // Set an object property using a setter:
+  person.lang = "en";
   
