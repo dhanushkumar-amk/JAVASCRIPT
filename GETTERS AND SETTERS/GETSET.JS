@@ -7,7 +7,7 @@ let person = {
     FirstName : "Dhanush",
     lastName  : "Kumar",
     age : 19,
-    Role : "Developer",
+  set  Role : "Developer",
     
   get fullName(){
        console.log(person.FirstName + " " + person.lastName); 
