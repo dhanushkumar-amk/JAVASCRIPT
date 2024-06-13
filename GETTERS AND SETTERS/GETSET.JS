@@ -9,7 +9,9 @@ let person = {
     age : 19,
     Role : "Developer"
     
-    fullName
+    fullName():{
+        
+    }
     
 }
 
