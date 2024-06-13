@@ -25,3 +25,4 @@ console.log(Math.abs(-1)); // 1
  // used to find the square root
  
  console.log(Math.trunc(45.3945)); // 45
+ // used to trunc the value
