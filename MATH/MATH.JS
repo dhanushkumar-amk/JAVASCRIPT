@@ -27,4 +27,4 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.trunc(45.3945)); // 45
  // used to trunc the value
  
- console.log(Math.);
+ console.log(Math.tan(2));
