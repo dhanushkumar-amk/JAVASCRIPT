@@ -37,7 +37,10 @@ console.log(Math.abs(-1)); // 1
  console.log(Math.sign(1));
  
  
- console.log(Math.log);
+ console.log(Math.log(1));
+ console.log(Math.log(1));
+ console.log(Math.log(1));
+ console.log(Math.log(1));
  
  console.log("--------------------------------------");
  
