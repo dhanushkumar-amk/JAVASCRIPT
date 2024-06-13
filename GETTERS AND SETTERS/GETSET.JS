@@ -9,7 +9,7 @@ let person = {
     age : 19,
     Role : "Developer",
     
-    fullName :function():{
+    fullName :function(){
        console.log(); 
     }
     
