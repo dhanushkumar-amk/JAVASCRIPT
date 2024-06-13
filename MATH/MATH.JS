@@ -39,7 +39,7 @@ console.log(Math.abs(-1)); // 1
  
  console.log(Math.log(1));
  console.log(Math.log2(1));
- console.log(Math.lg(1));
+ console.log(Math.log1pg(1));
  console.log(Math.log(1));
  
  console.log("--------------------------------------");
