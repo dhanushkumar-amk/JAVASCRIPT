@@ -10,3 +10,4 @@ let person = {
 }
 
 console.log(person.name);
+
