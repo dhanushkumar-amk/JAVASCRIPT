@@ -12,10 +12,10 @@ let person = {
   get fullName(){
        console.log(person.FirstName + " " + person.lastName); 
     }  ,
-    fullName(value){
+   Set fullName(value){
         // change the role value
       let values =  value.split( ' ');
-        logvalues
+        console.log(values);
     }
 }
 
