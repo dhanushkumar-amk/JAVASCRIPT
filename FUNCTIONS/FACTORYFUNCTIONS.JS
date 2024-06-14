@@ -3,6 +3,8 @@
 function createFunction(){
     return {
         name : "Dhanush",
-        
+        greeting(){
+            
+        }
     }
 }
