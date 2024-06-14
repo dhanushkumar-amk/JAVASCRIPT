@@ -15,7 +15,7 @@ console.log(message1);
 // we can use any type of formate
 
 const email = `hello my name is someName
-            from someCity, thankyou for coming,
+ from someCity, thankyou for coming,
             
             your faithfully,
             G.dhanushkumar
