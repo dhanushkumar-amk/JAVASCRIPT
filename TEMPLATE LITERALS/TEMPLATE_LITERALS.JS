@@ -29,4 +29,4 @@ console.log(email);
 
 const name = "ram";
 
-const printName = `My name is `
+const printName = `My name is ${name}`
