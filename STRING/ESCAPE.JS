@@ -13,4 +13,4 @@ let text1= 'It\'s alright.';
 console.log(text1); // It's alright.
 
 
-
+et text = "The character \\ is called backslash.";
