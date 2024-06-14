@@ -61,3 +61,5 @@ function Scope() {
 }
 
 console.log(c);
+
+
