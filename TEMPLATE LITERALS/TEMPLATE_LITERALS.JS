@@ -14,4 +14,4 @@ console.log(message1);
 
 // we can use any type of formate
 
-const emaiil  
+const email =   
