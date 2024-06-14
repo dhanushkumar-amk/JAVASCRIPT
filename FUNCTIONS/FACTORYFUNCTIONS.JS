@@ -15,7 +15,7 @@ function createFunction(name, interest){
 
 let person = createFunction("Dhanush", "Coding");
 
-// incase we want to add some liine of code
+// incase we want to add some another person we can add through 
 person.greeting();
 // console.log(person);
 
