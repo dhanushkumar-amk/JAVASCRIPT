@@ -8,6 +8,5 @@ console.log(message);
 
 
 const message1 = `my name is 
-"dhanushkumar"
-`
+"dhanushkumar"`
 console.log(message1);
