@@ -7,6 +7,7 @@ console.log(message);
 //  template literals : ` `;
 
 
+// we nod't need any escape notations
 const message1 = `my name is 
 "dhanushkumar"`
 console.log(message1);
