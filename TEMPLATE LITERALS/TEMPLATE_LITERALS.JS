@@ -30,4 +30,4 @@ console.log(email);
 const name = "ram";
 const city = "Chennai";
 
-const printName = `My name is ${name} and coming from  ${}`
+const printName = `My name is ${name} and coming from  ${c}`
