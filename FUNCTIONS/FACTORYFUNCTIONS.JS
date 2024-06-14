@@ -10,4 +10,4 @@ function createFunction(name){
     }
 }
 
-let person 
+let person = createFunction("Dhanush")
