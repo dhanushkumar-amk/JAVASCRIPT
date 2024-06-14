@@ -1,2 +1,2 @@
 const message = "my name is dhanushkumar"
-console.log();
+console.log(message);
