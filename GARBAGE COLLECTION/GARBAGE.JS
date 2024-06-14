@@ -1,1 +1,1 @@
-// 
+// in js the system automatically clear 
