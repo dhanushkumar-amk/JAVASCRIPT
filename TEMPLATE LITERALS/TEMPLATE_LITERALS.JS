@@ -27,4 +27,6 @@ console.log(email);
 
 // dynamically using template literals
 
-const name = "ram"
+const name = "ram";
+
+const 
