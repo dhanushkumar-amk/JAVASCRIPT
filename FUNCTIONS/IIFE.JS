@@ -82,3 +82,5 @@ console.log(output);
     console.log("Function with name");
 })()
 
+
+()()
