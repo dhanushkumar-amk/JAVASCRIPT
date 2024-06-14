@@ -10,3 +10,4 @@ function createFunction(name){
     }
 }
 
+let person 
