@@ -16,7 +16,7 @@ console.log(text1); // It's alright.
 let text2 = "The character \\ is called backslash.";
 console.log(text2); // The character \ is called backslash.
 
-// other 
+// other charcters
 // \b	Backspace
 // \f	Form Feed
 // \n	New Line
