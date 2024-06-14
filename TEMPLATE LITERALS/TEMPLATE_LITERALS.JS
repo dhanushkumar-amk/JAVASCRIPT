@@ -28,5 +28,5 @@ console.log(email);
 // dynamically using template literals
 
 const name = "ram";
-
+const city = ""
 const printName = `My name is ${name} and coming from `
