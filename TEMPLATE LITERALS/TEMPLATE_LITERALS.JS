@@ -22,4 +22,4 @@ const email = `hello my name is someName
 `  
 console.log(email);
 
-// it accepts the 
+// it accepts the white spa
