@@ -1,7 +1,7 @@
 // factory function
 
 function createFunction(){
-    let= {
-        
+    return {
+        name : "Dhanush"
     }
 }
