@@ -1,6 +1,6 @@
 // factory function
 
-function createFunction(){
+function createFunction(name){
     return {
         name : "Dhanush",
         greeting(){
