@@ -21,3 +21,5 @@ const email = `hello my name is someName
             G.dhanushkumar
 `  
 console.log(email);
+
+// it accepts the 
