@@ -11,6 +11,6 @@ function createFunction(name, interest){
     }
 }
 
-let person = createFunction("Dhanush");
+let person = createFunction("Dhanush", "Codeing");
 person.greeting();
 // console.log(person);
