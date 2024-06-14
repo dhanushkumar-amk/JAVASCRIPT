@@ -1,6 +1,6 @@
 // factory function
 
-function createFunction(name){
+function createFunction(name, interest){
     return {
         name : name,
         interest : interest,
