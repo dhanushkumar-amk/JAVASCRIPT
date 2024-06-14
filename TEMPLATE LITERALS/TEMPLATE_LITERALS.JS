@@ -7,4 +7,4 @@ console.log(message);
 //  template literals : ` `;
 
 
-const message1 = `my name `
+const message1 = `my name is `
