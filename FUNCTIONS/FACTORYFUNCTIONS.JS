@@ -10,4 +10,5 @@ function createFunction(name){
     }
 }
 
-let person = createFunction("Dhanush")
+let person = createFunction("Dhanush");
+console.log(eprson);
