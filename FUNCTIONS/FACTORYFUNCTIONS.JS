@@ -14,7 +14,8 @@ function createFunction(name, interest){
 }
 
 let person = createFunction("Dhanush", "Coding");
-//
+
+// incase we want to add some liine of code
 person.greeting();
 // console.log(person);
 
