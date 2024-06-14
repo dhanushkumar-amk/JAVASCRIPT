@@ -20,4 +20,4 @@ const email = `hello my name is someName
             your faithfully,
             G.dhanushkumar
 `  
-console.log();
+console.log(email);
