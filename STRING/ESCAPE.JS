@@ -8,7 +8,7 @@ console.log(text);// We are the so-called "Vikings" from the north.
 
 
 
-// \'
+// \'   is used to add single quotes
 let text1= 'It\'s alright.';
 console.log(text1); // It's alright.
 
