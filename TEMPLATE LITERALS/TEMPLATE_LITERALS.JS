@@ -25,4 +25,4 @@ console.log(email);
 // it accepts the white space
 
 
-// dynanically using
+// dynamically using
