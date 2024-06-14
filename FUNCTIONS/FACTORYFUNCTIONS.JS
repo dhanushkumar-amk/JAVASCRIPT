@@ -4,7 +4,7 @@ function createFunction(){
     return {
         name : "Dhanush",
         greeting(){
-            let msg = `my name is ${}`
+            let msg = `my name is ${this.name}`
         }
     }
 }
