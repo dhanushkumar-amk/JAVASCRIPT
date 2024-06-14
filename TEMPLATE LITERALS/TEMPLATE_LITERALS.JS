@@ -32,3 +32,4 @@ const city = "Chennai";
 
 const printName = `My name is ${name} and coming from  ${city}`;
 
+console.log(printName);
