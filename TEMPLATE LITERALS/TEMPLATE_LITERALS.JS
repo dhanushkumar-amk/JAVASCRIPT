@@ -29,4 +29,4 @@ console.log(email);
 
 const name = "ram";
 
-const printName = `My name is ${name} and comeing from `
+const printName = `My name is ${name} and coming from `
