@@ -3,6 +3,7 @@
 function createFunction(name){
     return {
         name : name,
+        intr
         greeting(){
             let msg = `my name is ${this.name}, i love ${this.interest}`;
             console.log(msg);
