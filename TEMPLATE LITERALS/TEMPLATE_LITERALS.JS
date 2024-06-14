@@ -11,3 +11,5 @@ console.log(message);
 const message1 = `my name is 
 "dhanushkumar"`
 console.log(message1);
+
+// we can use any type of foramte
