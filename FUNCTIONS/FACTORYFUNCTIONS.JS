@@ -20,8 +20,8 @@ let person1 = createFunction("Sanjay", "Coding");
 
 
 
-person.greeting()
-;
+person.greeting();
+person1.greeting();
 // console.log(person);
 
 
