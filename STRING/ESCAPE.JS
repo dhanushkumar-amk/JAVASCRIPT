@@ -12,3 +12,5 @@ console.log(text);// We are the so-called "Vikings" from the north.
 let text1= 'It\'s alright.';
 console.log(text1); // It's alright.
 
+
+
