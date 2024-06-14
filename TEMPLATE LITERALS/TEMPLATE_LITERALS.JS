@@ -4,4 +4,7 @@ console.log(message);
 // template literals are used to set the string values dynamically
 
 // String : "", '',
-//  template literals : ` `
+//  template literals : ` `;
+
+
+const message1
