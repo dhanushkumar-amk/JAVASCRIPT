@@ -11,4 +11,4 @@ function createFunction(name){
 }
 
 let person = createFunction("Dhanush");
-console.log(eprson);
+console.log(person);
