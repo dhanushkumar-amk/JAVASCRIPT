@@ -15,7 +15,11 @@ function createFunction(name, interest){
 
 let person = createFunction("Dhanush", "Coding");
 
-// incase we want to add some another person we can add through 
+// incase we want to add some another person we can add through factory function
+let person1 = createFunction("Dhanush", "Coding");
+
+
+
 person.greeting();
 // console.log(person);
 
