@@ -83,4 +83,6 @@ console.log(output);
 })()
 
 
-()()
+(function() {
+    console.log("Hello world");
+})()
