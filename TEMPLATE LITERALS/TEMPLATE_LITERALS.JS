@@ -25,4 +25,6 @@ console.log(email);
 // it accepts the white space
 
 
-// dynamically using
+// dynamically using template literals
+
+const name = "ram"
