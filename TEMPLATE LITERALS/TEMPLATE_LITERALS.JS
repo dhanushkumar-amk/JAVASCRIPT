@@ -17,5 +17,6 @@ console.log(message1);
 const email = `hello my name is someName
             from someCity, thankyou for coming,
             
-            your faithfully
+            your faithfully,
+            
 `  
