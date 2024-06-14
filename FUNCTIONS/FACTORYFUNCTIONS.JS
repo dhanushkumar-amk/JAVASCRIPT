@@ -2,7 +2,7 @@
 
 function createFunction(name, interest){
     return {
-        name : name,
+        name ,
         interest ,
         greeting(){
             let msg = `my name is ${this.name}, i love ${this.interest}`;
