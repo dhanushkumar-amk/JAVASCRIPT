@@ -41,4 +41,5 @@ let anotherWayToCall = games2;
 anotherWayToCall(); 
 
 
-// one of the disadvantage of the function expression is that we can't call the function before its created li 
+// one of the disadvantage of the function expression is that we can't call the function before its created 
+// but  
