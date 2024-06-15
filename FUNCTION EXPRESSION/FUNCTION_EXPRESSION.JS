@@ -26,3 +26,4 @@ game();
 let game1 = function functionName(){
     console.log("Function declaration with function name ");
 }
+game1();
