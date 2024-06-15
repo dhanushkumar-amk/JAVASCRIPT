@@ -6,6 +6,7 @@
 let games = function(){
     console.log("function expression");
 }
+log
 
 function game(){
     console.log("Function declaration");
