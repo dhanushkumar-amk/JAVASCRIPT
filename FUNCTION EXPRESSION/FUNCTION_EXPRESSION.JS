@@ -23,4 +23,4 @@ game();
 
 // ex :
 
-let 
+let game1 = function functionName()
