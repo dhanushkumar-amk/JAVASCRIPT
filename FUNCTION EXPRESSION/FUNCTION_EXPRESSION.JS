@@ -42,4 +42,4 @@ anotherWayToCall();
 
 
 // one of the disadvantage of the function expression is that we can't call the function before its created 
-// but function decleration can be call 
+// but function declaration can be call 
