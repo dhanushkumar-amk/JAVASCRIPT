@@ -8,5 +8,5 @@ let games = function(){
 }
 
 function game(){
-    console.log("Function decleration");
+    console.log("Function declaration");
 }
