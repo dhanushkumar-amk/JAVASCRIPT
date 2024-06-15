@@ -34,6 +34,8 @@ games();
 
 // another way to call the function expression
 
-let game
+let games2 = function(){
+    console.log();
+}
 let anotherWayToCall = games2;
 anotherWayToCall(); 
