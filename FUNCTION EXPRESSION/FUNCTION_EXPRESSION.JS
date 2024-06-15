@@ -33,4 +33,5 @@ games();
 
 
 // another way to call the function expression
-let anotherWayToCall = g 
+let anotherWayToCall = games;
+anotherWayToCall(); 
