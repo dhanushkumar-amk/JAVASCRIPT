@@ -9,7 +9,7 @@ let games = function(){
 games();
 
 
-
+// function declaration
 function game(){
     console.log("Function declaration");
 }
