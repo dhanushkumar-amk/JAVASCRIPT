@@ -23,4 +23,6 @@ game();
 
 // ex :
 
-let game1 = function functionName()
+let game1 = function functionName(){
+    console.log("Function decleration ");
+}
