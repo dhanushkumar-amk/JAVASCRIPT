@@ -28,4 +28,4 @@ let games = function(){
     console.log("function expression");
 }
 games();
-// 
+// but we don't call the function by function name
