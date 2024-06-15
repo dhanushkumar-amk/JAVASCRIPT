@@ -3,12 +3,6 @@
 
 // function expression are functions which are created inside an expression or inside the another syntax constructors
 
-let games = function(){
-    console.log("function expression");
-}
-games();
-
-
 
 
 // function declaration
@@ -27,3 +21,6 @@ let game1 = function functionName(){
     console.log("Function declaration with function name ");
 }
 game1();
+
+
+
