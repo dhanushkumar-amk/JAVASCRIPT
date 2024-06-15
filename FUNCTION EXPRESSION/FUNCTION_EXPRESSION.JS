@@ -19,4 +19,4 @@ game();
 
 //-----------------------------------------------------------
 
-// function expression function name id o
+// function expression function name id optionals
