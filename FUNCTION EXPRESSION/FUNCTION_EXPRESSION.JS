@@ -31,3 +31,5 @@ games();
 // but we don't call the function by function name we only call be variables
 
 
+
+// another way to call the
