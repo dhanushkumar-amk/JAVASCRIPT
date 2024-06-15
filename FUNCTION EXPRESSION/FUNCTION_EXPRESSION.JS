@@ -19,4 +19,8 @@ game();
 
 //-----------------------------------------------------------
 
-// function expression function name id optionals
+// function expression function name id optional
+
+// ex :
+
+
