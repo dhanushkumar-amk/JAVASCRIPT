@@ -1,4 +1,4 @@
 
 // function expressions
 
-// function expression 
+// function expression are functions which are created 
