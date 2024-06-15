@@ -8,6 +8,8 @@ let games = function(){
 }
 games();
 
+
+
 function game(){
     console.log("Function declaration");
 }
