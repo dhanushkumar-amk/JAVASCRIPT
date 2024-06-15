@@ -24,5 +24,5 @@ game();
 // ex :
 
 let game1 = function functionName(){
-    console.log("Function decleration ");
+    console.log("Function declaration with function name ");
 }
