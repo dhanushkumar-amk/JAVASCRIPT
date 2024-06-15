@@ -41,4 +41,4 @@ let anotherWayToCall = games2;
 anotherWayToCall(); 
 
 
-// one of the disadvantage of the function expession is 
+// one of the disadvantage of the function expression is 
