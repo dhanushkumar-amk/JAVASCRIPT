@@ -39,3 +39,5 @@ let games2 = function(){
 }
 let anotherWayToCall = games2;
 anotherWayToCall(); 
+
+
