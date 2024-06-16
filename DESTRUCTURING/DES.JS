@@ -11,7 +11,9 @@ Skills : {
     backend : "Javascript",
     database : "Mongo db",
 },
-hobby : ["coding, sleeping]
+hobby : ["coding", "sleeping"]
 }
 
 console.log(person);
+
+// accessing object property
