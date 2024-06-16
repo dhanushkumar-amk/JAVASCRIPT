@@ -19,7 +19,7 @@ console.log(person);
 // accessing object property
 
 console.log(person.name); // dhanush
-console.log(person.age);
+console.log(person.age); // 19
 
 // another easy way to access the object using destructuring
 
@@ -28,5 +28,5 @@ console.log(person.age);
 
 const {name, age,isLive} = person;
 
-console.log(name);
+console.log(name);// dhanush
 console.log(age);
