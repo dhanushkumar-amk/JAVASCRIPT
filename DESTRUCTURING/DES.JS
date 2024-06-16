@@ -52,7 +52,7 @@ const user1= {
 
 const {fName, lName, default = 20} = user;
 console.log(fName); // Dhanush
-console.log(lastName); // Kumar
-console.log(defaultValue); // 20
+console.log(lName); // Kumar
+console.log(default); // 20
 
 
