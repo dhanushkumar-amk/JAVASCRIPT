@@ -51,7 +51,7 @@ console.log(myFirstName); // Dhanush
 console.log(lName); // G
 
 
-// destructuring the value without
+// destructuring the value without defining
 const person1 = {
     name: 'Dhanush',
     age: 19,
@@ -64,3 +64,5 @@ const person1 = {
     },
     hobby: ['coding', 'sleeping'],
   };
+  
+  
