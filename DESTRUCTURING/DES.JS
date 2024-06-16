@@ -1,2 +1,2 @@
 
-// object des
+// object destructuring
