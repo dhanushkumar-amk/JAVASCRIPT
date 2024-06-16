@@ -26,4 +26,6 @@ console.log(person.age);
 // syntax :
 // const {key values, key values} = variableName
 
-const {name, age,isLive}
+const {name, age,isLive} = person;
+
+console.log(person);
