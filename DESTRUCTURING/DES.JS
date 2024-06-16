@@ -46,7 +46,7 @@ const user1 = {
   lName: 'G',
 };
 
-const {oldName : newName }
+// const {oldName : newName } = variables 
 const {fName: myFirstName, lName} = user1;
 console.log(myFirstName); // Dhanush
 console.log(lName); // G
