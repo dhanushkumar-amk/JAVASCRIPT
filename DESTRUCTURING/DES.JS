@@ -51,7 +51,7 @@ console.log(myFirstName); // Dhanush
 console.log(lName); // G
 
 
-// to grt the all items in the way of using rest parametrs
+// to grt the all items in the way of using rest parameters
 const person1 = {
     name1: 'Dhanush',
     age1: 19,
