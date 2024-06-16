@@ -51,7 +51,7 @@ console.log(myFirstName); // Dhanush
 console.log(lName); // G
 
 
-
+// destructuring
 const person1 = {
     name: 'Dhanush',
     age: 19,
