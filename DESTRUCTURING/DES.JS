@@ -33,4 +33,4 @@ console.log(age);// age
 
 
 
-// o assign the default value in 
+// o assign the default value in desctructuring
