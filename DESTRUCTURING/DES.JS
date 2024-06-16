@@ -9,6 +9,6 @@ const person = {
 Skills : {
     frontend : "javaScript",
     backend : "Javascript",
-    database : ""
+    database : "Mongo db"
 }
 }
