@@ -37,7 +37,9 @@ console.log(age);// age
 
 const user= {
     firstName : "Dhanush",
-    lastName : ""
+    lastName : "Kumar"
 }
+
+
 
 const {}
