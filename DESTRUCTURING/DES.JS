@@ -53,5 +53,5 @@ const user1= {
 const {fName, lName} = user;
 console.log(fName); // Dhanush
 console.log(lName); // Kumar
-console.log(default); // 20
+
 
