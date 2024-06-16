@@ -70,4 +70,4 @@ const person1 = {
   console.log(remainingItems);
   
   
-  function display
+  function displayUser()
