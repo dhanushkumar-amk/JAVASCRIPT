@@ -38,10 +38,9 @@ const user= {
     firstName : "Dhanush",
     lastName : "Kumar"
 }
-
 const {firstName, lastName, defaultValue = 20} = user;
-
 console.log(firstName); // Dhanush
 console.log(lastName); // Kumar
 console.log(defaultValue); // 20
+
 
