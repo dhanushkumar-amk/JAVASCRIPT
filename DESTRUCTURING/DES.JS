@@ -2,5 +2,7 @@
 // object destructuring
 
 const person = {
-    name : "Dhanush"
+    name : "Dhanush",
+    age : 19,
+    
 }
