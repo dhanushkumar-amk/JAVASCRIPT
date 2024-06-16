@@ -11,5 +11,5 @@ Skills : {
     backend : "Javascript",
     database : "Mongo db",
 },
-hobby :
+hobby : [coding, sleeping]
 }
