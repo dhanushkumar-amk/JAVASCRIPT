@@ -6,5 +6,7 @@ const person = {
     age : 19,
     isLive : true,
     
-
+Skills : {
+    
+}
 }
