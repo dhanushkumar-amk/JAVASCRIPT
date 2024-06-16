@@ -69,3 +69,5 @@ const person1 = {
   console.log(age1);
   console.log(remainingItems);
   
+  
+  
