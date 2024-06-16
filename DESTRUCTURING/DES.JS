@@ -65,4 +65,5 @@ const person1 = {
     hobby: ['coding', 'sleeping'],
   };
   
-  const {name1, age1, ...remainingItms }
+  const {name1, age1, ...remainingItems } = person1;
+  console.log();
