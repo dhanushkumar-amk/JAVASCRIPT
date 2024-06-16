@@ -17,3 +17,6 @@ hobby : ["coding", "sleeping"]
 console.log(person);
 
 // accessing object property
+
+console.log(person.name);
+console.log(person.age);
