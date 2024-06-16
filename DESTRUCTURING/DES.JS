@@ -29,4 +29,4 @@ console.log(person.age); // 19
 const {name, age,isLive} = person;
 
 console.log(name);// dhanush
-console.log(age);
+console.log(age);// age
