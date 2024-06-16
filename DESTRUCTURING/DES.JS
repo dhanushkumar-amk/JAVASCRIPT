@@ -18,7 +18,7 @@ console.log(person);
 
 // accessing object property
 
-console.log(person.name);
+console.log(person.name); // dhanush
 console.log(person.age);
 
 // another easy way to access the object using destructuring
