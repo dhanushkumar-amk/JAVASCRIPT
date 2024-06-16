@@ -35,6 +35,8 @@ console.log(age);// age
 
 // to assign the default value in destructuring
 
-log
+const user= {
+    
+}
 
 const {}
