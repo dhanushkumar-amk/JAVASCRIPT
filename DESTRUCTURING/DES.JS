@@ -47,10 +47,10 @@ console.log(defaultValue); // 20
 // to rename the existing object in an destructuring
 const user1= {
     fName : "Dhanush",
-    lName : G"
+    lName : "G"
 }
 
-const {firstName, lastName, defaultValue = 20} = user;
+const {fName, lastName, defaultValue = 20} = user;
 console.log(firstName); // Dhanush
 console.log(lastName); // Kumar
 console.log(defaultValue); // 20
