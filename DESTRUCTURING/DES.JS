@@ -39,4 +39,4 @@ const user= {
     lastName : "Kumar"
 }
 
-const {firstName, lastName, } = user;
+const {firstName, lastName, defaukt} = user;
