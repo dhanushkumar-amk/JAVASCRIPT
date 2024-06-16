@@ -73,4 +73,4 @@ const person1 = {
   function displayUser(person){
     console.log(`My name is ${person1}`);
   }
-  displayUser();
+  displayUser(person);
