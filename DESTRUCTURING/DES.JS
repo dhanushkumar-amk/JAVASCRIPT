@@ -53,9 +53,9 @@ console.log(lName); // G
 
 // destructuring the value without defining
 const person1 = {
-    name: 'Dhanush',
-    age: 19,
-    isLive: true,
+    name1: 'Dhanush',
+    age1: 19,
+    isLive1: true,
   
     Skills: {
       frontend: 'javaScript',
