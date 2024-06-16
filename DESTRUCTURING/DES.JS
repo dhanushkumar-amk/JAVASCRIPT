@@ -14,3 +14,4 @@ Skills : {
 hobby : [coding, sleeping]
 }
 
+console.log(person);
