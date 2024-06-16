@@ -71,5 +71,6 @@ const person1 = {
   
   
   function displayUser(){
-    console.log("My name is ");
+    console.log("My name is dhanush");
   }
+  
