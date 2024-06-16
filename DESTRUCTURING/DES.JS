@@ -70,7 +70,7 @@ const person1 = {
   console.log(remainingItems);
   
   
-  function displayUser(person1){
+  function displayUser(person){
     console.log(`My name is ${person1}`);
   }
   displayUser();
