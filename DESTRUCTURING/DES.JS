@@ -40,3 +40,6 @@ const user= {
 }
 
 const {firstName, lastName, defaultValue = 20} = user;
+
+console.log(firstName);
+console.log(firstName);
