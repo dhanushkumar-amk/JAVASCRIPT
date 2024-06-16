@@ -1,4 +1,6 @@
 
 // object destructuring
 
-const 
+const person = {
+    name : "Dhanush"
+}
