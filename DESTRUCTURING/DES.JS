@@ -7,6 +7,7 @@ const person = {
     isLive : true,
     
 Skills : {
-    frontend : "javaScript"
+    frontend : "javaScript",
+    backend : "Javascript"
 }
 }
