@@ -65,4 +65,4 @@ const person1 = {
     hobby: ['coding', 'sleeping'],
   };
   
-  const {name1, age1,  }
+  const {name1, age1, ...reamai }
