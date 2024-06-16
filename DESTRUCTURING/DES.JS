@@ -69,7 +69,7 @@ const person1 = {
   console.log(age1);
   console.log(remainingItems);
   
-  // des
+  // destructure using o
   function displayUser(person){
     console.log(`My name is ${person.name1}`);
   }
