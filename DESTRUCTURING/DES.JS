@@ -43,4 +43,5 @@ const {firstName, lastName, defaultValue = 20} = user;
 
 console.log(firstName); // Dhanush
 console.log(lastName); // Kumar
-console.log(defaultValue);
+console.log(defaultValue); // 20
+
