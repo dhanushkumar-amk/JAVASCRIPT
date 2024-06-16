@@ -66,4 +66,6 @@ const person1 = {
   };
   
   const {name1, age1, ...remainingItems } = person1;
-  console.log();
+  console.log(name1);
+  console.log(age1);
+  
