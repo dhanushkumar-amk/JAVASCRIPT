@@ -52,7 +52,7 @@ console.log(lName); // G
 
 
 
-const person = {
+const person1 = {
     name: 'Dhanush',
     age: 19,
     isLive: true,
