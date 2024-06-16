@@ -48,4 +48,4 @@ const user1 = {
 
 const {fName: myFirstName, lName} = user1;
 console.log(myFirstName); // Dhanush
-console.log(lName); // Kumar
+console.log(lName); // G
