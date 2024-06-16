@@ -34,12 +34,9 @@ console.log(age);// age
 
 
 // to assign the default value in destructuring
-
 const user= {
     firstName : "Dhanush",
     lastName : "Kumar"
 }
-
-
 
 const {}
