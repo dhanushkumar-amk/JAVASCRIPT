@@ -28,4 +28,4 @@ console.log(person.age);
 
 const {name, age,isLive} = person;
 
-console.log(person);
+console.log(name);
