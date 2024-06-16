@@ -21,4 +21,4 @@ console.log(person);
 console.log(person.name);
 console.log(person.age);
 
-// another easy way to access 
+// another easy way to access the object using
