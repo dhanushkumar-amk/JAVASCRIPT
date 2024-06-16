@@ -44,4 +44,4 @@ console.log(lastName); // Kumar
 console.log(defaultValue); // 20
 
 
-// to rename 
+// to rename the existing object
