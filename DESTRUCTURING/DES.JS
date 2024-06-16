@@ -70,7 +70,7 @@ const person1 = {
   console.log(remainingItems);
   
   // destructure in function
-  function displayUser({person}){
+  function displayUser({person.name1}){
     console.log(`My name is ${person.name1}`);
   }
   displayUser(person1);
