@@ -8,6 +8,7 @@ const person = {
     
 Skills : {
     frontend : "javaScript",
-    backend : "Javascript"
+    backend : "Javascript",
+    database : ""
 }
 }
