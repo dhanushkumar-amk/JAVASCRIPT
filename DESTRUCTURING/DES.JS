@@ -23,4 +23,7 @@ console.log(person.age);
 
 // another easy way to access the object using destructuring
 
-const {key values, key values} = variableName
+
+// const {key values, key values} = variableName
+
+const {}
