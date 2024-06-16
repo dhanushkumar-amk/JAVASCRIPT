@@ -50,7 +50,7 @@ const user1= {
     lName : "G"
 }
 
-const {fName : , lName} = user;
+const {fName : myFirstName, lName} = user;
 console.log(fName); // Dhanush
 console.log(lName); // Kumar
 
