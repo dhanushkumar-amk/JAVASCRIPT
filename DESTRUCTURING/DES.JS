@@ -71,6 +71,6 @@ const person1 = {
   
   // destructure in function
   function displayUser({name1, age1}){
-    console.log(`My name is ${name1}`);
+    console.log(`My name is ${name1} and my age is {}`);
   }
   displayUser(person1);
