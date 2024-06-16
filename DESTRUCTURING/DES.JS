@@ -44,4 +44,5 @@ console.log(lastName); // Kumar
 console.log(defaultValue); // 20
 
 
-// to rename the existing object in an destr
+// to rename the existing object in an destructuring
+
