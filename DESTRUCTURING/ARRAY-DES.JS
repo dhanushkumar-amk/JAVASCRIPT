@@ -81,4 +81,4 @@ console.log(six);
 function getFullName(){
     return ['Dhanush', 'Kumar'];
 }
-getFullName([])
+const getFullName([])
