@@ -40,7 +40,7 @@ console.log(kannada);
 
 //default values
 const [Hindi, Urdu=20] = [10];
-console.log(Hindi);
+console.log(Hindi); // 10
 console.log(Urdu);
 
 
