@@ -80,3 +80,5 @@ const language = "  JavaScript  "
 console.log(language);
 //   JavaScript  
 console.log(language.trim());// JavaScript
+
+// trimStart()
