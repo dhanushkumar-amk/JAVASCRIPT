@@ -120,6 +120,6 @@ console.log(newText); // Please visit Google and Google!
 // the split method converts string into array  
 console.log(newText.split(" ")); // [ 'Please', 'visit', 'Google', 'and', 'Google!' ]
 
-
+const 
 console.log(newText.split()); // [ 'Please visit Google and Google!' ]
 console.log(newText.split("|"));
