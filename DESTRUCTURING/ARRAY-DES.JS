@@ -26,7 +26,7 @@ console.log("Bio = ", Biology);
 
 
 // handling undefined values
-const [Tamil, english]
+const [Tamil, English]
 
 
 
