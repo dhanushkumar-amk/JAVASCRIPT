@@ -17,7 +17,7 @@ console.log(firstName.length);// 7
 
 
 // methods
-
+// charAt()
 // to check the specif character in a string using charAt() by default value is index of 0 
 console.log(firstName.charAt()); // D
 console.log(firstName.charAt(1)); // h
