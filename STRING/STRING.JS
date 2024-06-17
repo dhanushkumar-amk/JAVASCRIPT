@@ -112,4 +112,5 @@ console.log(replaceValues); // Hello viewers !
 // The replace() method replaces only the first match
 
 // To replace all matches, use a regular expression with a /g flag (global match):
-const 
+let text = "Please visit Microsoft and Microsoft!";
+let newText = text.replace(/Microsoft/g, "W3Schools"); 
