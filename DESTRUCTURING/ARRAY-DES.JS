@@ -81,5 +81,5 @@ console.log(six);
 function getFullName(){
     return ['Dhanush', 'Kumar'];
 }
-const [firstName] = getFullName()
+const [firstName, lastName] = getFullName()
 console.log(name);
