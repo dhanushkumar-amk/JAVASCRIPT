@@ -67,4 +67,5 @@ console.log(fullName.toUpperCase()); //DHANUSHKUMAR
 // it transforms string to lowercase
 console.log(fullName.toLowerCase()); // dhanushkumar
 
-// concate()
+// concat()
+concat() joins two or more strings:
