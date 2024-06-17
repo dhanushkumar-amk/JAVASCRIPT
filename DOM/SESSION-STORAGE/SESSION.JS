@@ -8,7 +8,8 @@
 // The sessionStorage object stores data for only one session.
 // (The data is deleted when the browser is closed).
 
-set
+// setItem()
+// Sets the value of the pair identified by key to value, creating a new key/value pair if none existed for key previously.
 
 function saveData(){
     var inputData = document.getElementById('username').value;
