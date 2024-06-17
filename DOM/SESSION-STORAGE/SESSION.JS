@@ -3,4 +3,5 @@
 // IT STORE 10MB OF DATA IN THE BROWSER
 
 // it will store the data on particular page
-// when you close the page the
+// when you close the page then the session storage will be gone
+
