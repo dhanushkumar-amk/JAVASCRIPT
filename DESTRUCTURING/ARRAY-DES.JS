@@ -20,4 +20,4 @@ console.log("Biology : " + SubMarks[2]);
 // basic array destructuring :-
 
 const [Physics, Science, Biology] = [70,80,90];
-console.log("Phy = " p);
+console.log("Phy = " , P);
