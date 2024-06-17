@@ -51,5 +51,5 @@ console.log(part); // Banana, kiwi
 console.log(part1); // Banana, kiwi
 
 // substring()
-
+// substring is similar to slice
 console.log(fullName.substring(1,7));
