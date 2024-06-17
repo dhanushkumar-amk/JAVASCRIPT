@@ -95,3 +95,4 @@ console.log(language.trimEnd());// JavaScript
 // The repeat() method returns a new string.
 
 console.log(firstName.repeat(2)); // DhanushDhanush
+// The repeat() method does not change the original string.
