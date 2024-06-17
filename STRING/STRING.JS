@@ -83,4 +83,4 @@ console.log(language.trim());// JavaScript
 
 // trimStart()
 // it trim only on the start
-console.log(language.trimStart());
+console.log(language.trimStart());// javaScript
