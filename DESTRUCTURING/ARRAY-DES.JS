@@ -79,5 +79,6 @@ console.log(six);
 // array destructuring on function
 
 function getFullName(){
-    return ['Dhanush', 'Kumar']
+    return ['Dhanush', 'Kumar'];
 }
+getFullName
