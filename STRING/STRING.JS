@@ -14,3 +14,5 @@ console.log(name);
 
 // to check the length of the values or string
 console.log(firstName.length);// 7
+
+
