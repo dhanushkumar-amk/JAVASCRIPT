@@ -116,4 +116,4 @@ let text1 = "Please visit Microsoft and Microsoft!";
 let newText = text1.replace(/Microsoft/g, "Google"); 
 console.log(newText); // Please visit Google and Google!
 
-console.log(newText.spl);
+console.log(newText.split());
