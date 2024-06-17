@@ -29,4 +29,6 @@ document.getElementById('username').value= " ";
 }
 
 // retrieve the data from the  session storage
-function display
+function displayData(){
+    
+}
