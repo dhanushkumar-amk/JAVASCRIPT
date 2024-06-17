@@ -11,5 +11,5 @@
 
 
 function saveData(){
-    var inputData = Document
+    var inputData = document.get
 }
