@@ -50,7 +50,7 @@ const [JavaScript, Python, ...BalanceLanguage] = [100,90,80,70,60,50,40]
 console.log(JavaScript,Python,BalanceLanguage); // 100 90 [ 80, 70, 60, 50, 40 ]
 
 //swapping variables
-const [one,two,three]
+const [one,two,three] =[1,2,3];
 
 
 
