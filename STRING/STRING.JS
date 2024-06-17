@@ -57,3 +57,4 @@ console.log(fullName.substring(7,12));// kumar
 //substr()
 // it is also similar to slice
 console.log(fullName.substr(7,11)); // kumar
+
