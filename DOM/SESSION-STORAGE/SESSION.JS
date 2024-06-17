@@ -28,4 +28,4 @@ document.getElementById('username').value= " ";
     }
 }
 
-// retreve the data from the storage
+// retrieve the data from the  session storage
