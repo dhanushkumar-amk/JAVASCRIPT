@@ -32,7 +32,7 @@ console.log(English); // undefined
 
 
 // skipping elements
-// to skip 
+// to skip the elementsusing 
 const [telugu, ,kannada] = [10,30,55]
 
 console.log(telugu);
