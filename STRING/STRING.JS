@@ -86,4 +86,4 @@ console.log(language.trim());// JavaScript
 console.log(language.trimStart());// JavaScript
 
 // trimEnd()
-// it trim 
+// it trim only on end
