@@ -54,3 +54,5 @@ console.log(part1); // Banana, kiwi
 // substring is similar to slice
 console.log(fullName.substring(7,12));// kumar
 
+//substr()
+// it is also similar to slice
