@@ -36,3 +36,5 @@ console.log(firstName.charCodeAt(1));
 console.log(firstName.at(1)); // h
 
 
+// Now you can use myString.at(-2) instead of charAt(myString.length-2).
+
