@@ -4,4 +4,4 @@
 // basic array destructuring :-
 
 const SubMarks = [70,80,90];
-console.log(su); 
+console.log(SubMarks); 
