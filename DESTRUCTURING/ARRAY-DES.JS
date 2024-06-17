@@ -36,7 +36,7 @@ console.log(English); // undefined
 const [telugu,malayalam,kannada] = [10,30,55]
 
 console.log(telugu);
-console.log(ks);
+console.log(kannada);
 
 
 
