@@ -45,7 +45,7 @@ console.log(fullName.slice(7)); // kumar
 
 let text = "Apple, Banana, Kiwi";
 let part = text.slice(7); // start index
-let part1= text.slice(-12); // end index
+let part1= text.slice(-12); //
 
 console.log(part); // Banana, kiwi
 console.log(part1); // Banana, kiwi
