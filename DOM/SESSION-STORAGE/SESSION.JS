@@ -16,7 +16,7 @@ function saveData(){
     // alert(inputData)
     
     if(inputData){
-        // setItem()
+        // setItem(ket, value)
         sessionStorage.setItem('user',inputData);
     }
 }
