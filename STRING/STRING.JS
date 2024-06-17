@@ -13,4 +13,4 @@ console.log(name);
 // property
 
 // to check the length of the values or string
-console.log(firstName.length);
+console.log(firstName.length);// 7
