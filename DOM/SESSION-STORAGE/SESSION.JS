@@ -36,4 +36,8 @@ function displayData(){
     if (storedData) {
         display.textContent = "Username : " + storedData
     }
+    else{
+        display.textContent = "Username : " + storedData
+        
+    }
 }
