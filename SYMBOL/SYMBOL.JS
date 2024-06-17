@@ -8,4 +8,5 @@ console.log(a ==b); // false
 
 // console.log(Symbol(4));
 
-console.log(a);
+console.log(typeof a);
+console.log(typeof b);
