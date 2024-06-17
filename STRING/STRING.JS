@@ -59,4 +59,4 @@ console.log(fullName.substring(7,12));// kumar
 console.log(fullName.substr(7,11)); // kumar
 
 // toUpperCase()
-// it transforms
+// it transforms 
