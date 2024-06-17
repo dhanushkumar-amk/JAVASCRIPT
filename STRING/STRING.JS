@@ -96,3 +96,4 @@ console.log(language.trimEnd());// JavaScript
 
 console.log(firstName.repeat(2)); // DhanushDhanush
 // The repeat() method does not change the original string.
+console.log(firstName);
