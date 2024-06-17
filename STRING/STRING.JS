@@ -32,7 +32,7 @@ console.log(firstName.charCodeAt(1));
 
 
 // at() 
-
+it return sthecharcter at the spe
 console.log(firstName.at(1)); // h
 
 
