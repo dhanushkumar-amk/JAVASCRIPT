@@ -23,3 +23,11 @@ const [Physics, Science, Biology] = [70,80,90];
 console.log("Phy = " , Physics);
 console.log("SC = " , Science);
 console.log("Bio = ", Biology);
+
+
+
+
+
+
+
+
