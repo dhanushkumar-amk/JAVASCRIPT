@@ -18,6 +18,7 @@ function saveData(){
     if(inputData){
         // setItem(key, value)
         sessionStorage.setItem('user',inputData);
-        inputData.value = " "
+
+// it will store data on the session storage        inputData.value = " "
     }
 }
