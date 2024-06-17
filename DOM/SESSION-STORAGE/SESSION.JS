@@ -16,6 +16,6 @@ function saveData(){
     // alert(inputData)
     
     if(inputData){
-        sessionStorage.setItem('user',)
+        sessionStorage.setItem('user',inputData)
     }
 }
