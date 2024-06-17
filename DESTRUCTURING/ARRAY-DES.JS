@@ -1,5 +1,6 @@
 
 // array destructuring
 
-// basic array destructuring ""
+// basic array destructuring :-
+
 
