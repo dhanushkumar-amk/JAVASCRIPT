@@ -14,4 +14,7 @@ function saveData(){
     var inputData = document.getElementById('username').value;
     // alert(inputData)
     
+    if(inputData){
+        ses
+    }
 }
