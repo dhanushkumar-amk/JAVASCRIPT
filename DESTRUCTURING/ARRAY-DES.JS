@@ -82,3 +82,4 @@ function getFullName(){
     return ['Dhanush', 'Kumar'];
 }
 const name = getFullName()
+console.log(name);
