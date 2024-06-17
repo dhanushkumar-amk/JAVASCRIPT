@@ -16,3 +16,6 @@ console.log(name);
 console.log(firstName.length);// 7
 
 
+// methods
+
+
