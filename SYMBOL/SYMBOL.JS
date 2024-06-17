@@ -1,1 +1,2 @@
-let symbol = Symbol(4)
+let symbol = Symbol(4);
+console.log(symbol);
