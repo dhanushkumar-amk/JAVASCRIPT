@@ -72,3 +72,9 @@ console.log(fullName.toLowerCase()); // dhanushkumar
 console.log(firstName.concat(lastName)); // Dhanushkumar
 // The concat() method can be used instead of the plus operator
 console.log(firstName + lastName);  // Dhanushkumar
+
+
+// trim()
+// The trim() method removes whitespace from both sides of a string
+
+log
