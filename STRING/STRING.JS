@@ -60,4 +60,4 @@ console.log(fullName.substr(7,11)); // kumar
 
 // toUpperCase()
 // it transforms string to uppercase
-console.log(fullName.to);
+console.log(fullName.toUpperCase());
