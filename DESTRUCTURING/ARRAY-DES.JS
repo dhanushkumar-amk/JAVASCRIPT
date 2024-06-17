@@ -55,6 +55,7 @@ console.log(JavaScript,Python,BalanceLanguage); // 100 90 [ 80, 70, 60, 50, 40 ]
 let a = 20;
 let b = 30;
 let c = a;
+a = b;
 
 
 
