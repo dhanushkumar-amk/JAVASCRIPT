@@ -1,5 +1,5 @@
 
 // array destructuring
 
-// basic array desctr
+// basic array destructuring ""
 
