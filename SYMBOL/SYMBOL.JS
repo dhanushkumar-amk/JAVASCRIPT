@@ -1,1 +1,1 @@
-let sy
+let symbol = Symbol(4)
