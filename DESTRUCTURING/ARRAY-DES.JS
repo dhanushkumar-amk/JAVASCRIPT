@@ -83,4 +83,4 @@ function getFullName(){
 }
 const [firstName, lastName] = getFullName()
 console.log(firstName);
-console.log(firstName);
+console.log(lastName);
