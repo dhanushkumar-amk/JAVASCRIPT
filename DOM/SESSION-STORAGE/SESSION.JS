@@ -3,3 +3,4 @@
 // IT STORE 10MB OF DATA IN THE BROWSER
 
 // it will store the data on particular page
+// when you close the page the
