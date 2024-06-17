@@ -18,6 +18,6 @@ function saveData(){
     if(inputData){
         // setItem(key, value)
         sessionStorage.setItem('user',inputData);
-        inputData.value
+        inputData.value = " "
     }
 }
