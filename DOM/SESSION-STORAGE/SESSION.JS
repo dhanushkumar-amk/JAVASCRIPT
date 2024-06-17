@@ -15,6 +15,6 @@ function saveData(){
     // alert(inputData)
     
     if(inputData){
-        ses
+        sessionStorage.setItem()
     }
 }
