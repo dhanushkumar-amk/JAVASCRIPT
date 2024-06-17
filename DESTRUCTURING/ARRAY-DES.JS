@@ -33,7 +33,7 @@ console.log(English); // undefined
 
 // skipping elements
 
-const [telugu,malayalam]
+const [telugu,malayalam] = [100]
 
 
 
