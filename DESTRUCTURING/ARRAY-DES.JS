@@ -21,4 +21,4 @@ console.log("Biology : " + SubMarks[2]);
 
 const [Physics, Science, Biology] = [70,80,90];
 console.log("Phy = " , Physics);
-console.log("Phy = " , sc);
+console.log("Phy = " , Science);
