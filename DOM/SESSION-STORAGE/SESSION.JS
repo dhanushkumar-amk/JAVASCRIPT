@@ -35,6 +35,6 @@ function displayData(){
     var display = document.getElementById('result');
     
     if(storedData){
-        
+        dis
     }
 }
