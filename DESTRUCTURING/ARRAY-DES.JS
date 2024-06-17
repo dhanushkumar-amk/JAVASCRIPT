@@ -60,7 +60,8 @@ b = c
 console.log(a, b);
 
 // swap using destructuring 
-[a , b] = [b, a]
+[a , b] = [b, a];
+console.log(a,b);
 
 
 
