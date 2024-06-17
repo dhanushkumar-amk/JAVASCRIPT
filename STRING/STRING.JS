@@ -12,4 +12,4 @@ console.log(name);
 
 // property
 
-console.log();
+console.log(firstName.length());
