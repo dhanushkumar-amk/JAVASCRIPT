@@ -19,4 +19,4 @@ console.log("Biology : " + SubMarks[2]);
 
 // basic array destructuring :-
 
-const [Physics, Science, Biology]
+const [Physics, Science, Biology] = []
