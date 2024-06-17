@@ -8,7 +8,7 @@
 // The sessionStorage object stores data for only one session.
 // (The data is deleted when the browser is closed).
 
-
+set
 
 function saveData(){
     var inputData = document.getElementById('username').value;
