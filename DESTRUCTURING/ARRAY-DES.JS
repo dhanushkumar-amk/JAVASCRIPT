@@ -3,4 +3,4 @@
 
 // basic array destructuring :-
 
-const SubMarks = [] 
+const SubMarks = [70,80,90] 
