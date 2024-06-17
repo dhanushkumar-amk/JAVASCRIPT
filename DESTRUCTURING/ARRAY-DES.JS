@@ -25,6 +25,8 @@ console.log("SC = " , Science);
 console.log("Bio = ", Biology);
 
 
+// handling undefined values
+
 
 
 
