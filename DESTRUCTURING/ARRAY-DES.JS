@@ -46,7 +46,7 @@ console.log(Urdu); // 20
 
 // rest syntax
 
-const [JavaScript, Python, ...BalanceLanguage] = [100,]
+const [JavaScript, Python, ...BalanceLanguage] = [100,90,80,70,60,50,40]
 
 
 
