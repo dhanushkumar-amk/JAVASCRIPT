@@ -1,3 +1,6 @@
+
+
+
 //JAVASCRIPT PROGRAM to check if a number is prime or not
 let number=13;
 let flag = true;
