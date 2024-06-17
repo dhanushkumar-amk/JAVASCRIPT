@@ -3,4 +3,4 @@
 
 // basic array destructuring :-
 
-const 
+const arr = [""]
