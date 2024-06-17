@@ -34,5 +34,5 @@ function displayData(){
     var storedData = sessionStorage.getItem('user');
     var display = document.getElementById('result');
     
-    
+    if()
 }
