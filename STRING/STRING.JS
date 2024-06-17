@@ -70,3 +70,4 @@ console.log(fullName.toLowerCase()); // dhanushkumar
 // concat()
 // concat() joins two or more strings
 console.log(firstName.concat(lastName)); // Dhanushkumar
+// The concat() method can be used instead of the plus operator
