@@ -121,6 +121,8 @@ console.log(newText); // Please visit Google and Google!
 console.log(newText.split(" ")); // [ 'Please', 'visit', 'Google', 'and', 'Google!' ]
 
 
+// to search methods 
+
 
 const oldText = "Hello my name is Dhanush, and my age is 19"
 
