@@ -18,4 +18,5 @@ console.log(firstName.length);// 7
 
 // methods
 
+// to check the specif value 
 console.log(firstName.charAt());
