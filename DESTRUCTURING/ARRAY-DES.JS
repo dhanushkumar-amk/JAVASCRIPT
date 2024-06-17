@@ -38,6 +38,7 @@ const [telugu, ,kannada] = [10,30,55]
 console.log(telugu);
 console.log(kannada);
 
+//default values
 
 
 
