@@ -25,3 +25,4 @@ console.log(firstName.charAt(1)); // h
 
 console.log(firstName.charCodeAt(0));
 
+
