@@ -10,8 +10,11 @@ console.log("Physics : " + SubMarks[1]);
 console.log("Biology : " + SubMarks[2]);
 
 
-// basic array destructuring :-
 
 let Science = SubMarks[0]
 let Physics = SubMarks[1]
 let Biology = SubMarks[2];
+
+
+
+// basic array destructuring :-
