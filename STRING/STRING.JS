@@ -69,5 +69,4 @@ console.log(fullName.toLowerCase()); // dhanushkumar
 
 // concat()
 // concat() joins two or more strings
-
-console.log(firstName.concat(lastName));
+console.log(firstName.concat(lastName)); // Dhanushkumar
