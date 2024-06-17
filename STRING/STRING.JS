@@ -107,6 +107,6 @@ const replaceValues = words.replace("World", "Viewers")
 console.log(replaceValues); // Hello viewers !
 
 // some notes
-The replace() method does not change the string it is called on.
-The replace() method returns a new string.
-The replace() method replaces only the first match
+// The replace() method does not change the string it is called on.
+// The replace() method returns a new string.
+// The replace() method replaces only the first match
