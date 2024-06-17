@@ -99,4 +99,5 @@ console.log(firstName.repeat(2)); // DhanushDhanush
 console.log(firstName); // dhanush
 
 // replace()
-the replace method is used to replace the value
+// the replace method is used to replace the value
+const 
