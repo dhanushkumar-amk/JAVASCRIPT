@@ -117,5 +117,5 @@ let newText = text1.replace(/Microsoft/g, "Google");
 console.log(newText); // Please visit Google and Google!
 
 // split() 
-
+the split method converts 
 console.log(newText.split());
