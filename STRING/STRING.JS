@@ -4,5 +4,5 @@ let firstName = 'Dhanush';
 let lastName = 'kumar';
 let fullName = `DhanushKumar`
 
-// another wat 
+// another way to create the string
 const name = new String("Ram")
