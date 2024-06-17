@@ -127,4 +127,4 @@ console.log(newText.split(" ")); // [ 'Please', 'visit', 'Google', 'and', 'Googl
 // The indexOf() method returns the index (position) of the first occurrence of a string in a string, or it returns -1 if the string is not found:
 
 const oldText = "Hello my name is Dhanush, and my age is 19"
-console.log(oldText.indexOf("Hello")); // 0 Hello
+console.log(oldText.indexOf("Hello")); // 0 Hello is oth index
