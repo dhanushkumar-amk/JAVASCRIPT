@@ -57,7 +57,7 @@ let b = 30;
 let c = a;
 a = b;
 b = c
-console.log(a, b);
+// console.log(a, b);
 
 // swap using destructuring 
 [a , b] = [b, a];
