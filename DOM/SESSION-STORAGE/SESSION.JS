@@ -5,6 +5,5 @@
 // it will store the data on particular page
 // when you close the page then the session storage will be gone
 
-The sessionStorage object stores data for only one session.
-
-(The data is deleted when the browser is closed).
+// The sessionStorage object stores data for only one session.
+// (The data is deleted when the browser is closed).
