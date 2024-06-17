@@ -93,6 +93,5 @@ console.log(language.trimEnd());// JavaScript
 // repeat()
 // The repeat() method returns a string with a number of copies of a string.
 // The repeat() method returns a new string.
-// The repeat() method does not change the original string.
 
 console.log(firstName.repeat(2)); // DhanushDhanush
