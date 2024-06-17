@@ -19,6 +19,8 @@ function saveData(){
         // setItem(key, value)
         sessionStorage.setItem('user',inputData);
 
-// it will store data on the session storage        inputData.value = " "
+// it will store data on the session storage
+
+inputData.value = " "
     }
 }
