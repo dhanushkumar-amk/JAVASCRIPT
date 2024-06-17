@@ -1,5 +1,5 @@
 
-// symbol data type isused to 
+// symbol data type is used to 
 
 
 let a = Symbol(4);
