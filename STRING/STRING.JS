@@ -121,4 +121,4 @@ console.log(newText); // Please visit Google and Google!
 console.log(newText.split()); // [ 'Please visit Google and Google!' ]
 
 console.log(newText.split(" ")); // [ 'Please', 'visit', 'Google', 'and', 'Google!' ]
-console.log(newText.split(|));
+console.log(newText.split("|"));
