@@ -45,4 +45,4 @@ console.log(fullName.slice(7)); // kumar
 
 let text = "Apple, Banana, Kiwi";
 let part = text.slice(7);
-console.log(part); // 
+console.log(part); // Banana, kiw
