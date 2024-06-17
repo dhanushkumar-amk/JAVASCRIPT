@@ -21,6 +21,6 @@ function saveData(){
 
 // it will store data on the session storage
 // go to inspect => storage => session storage
-inputData.value = " "
+inpu
     }
 }
