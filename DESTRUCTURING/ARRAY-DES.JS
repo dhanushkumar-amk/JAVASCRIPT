@@ -76,4 +76,4 @@ console.log(five);
 console.log(six);
 
 
-// array desctructuring on function
+// array destructuring on function
