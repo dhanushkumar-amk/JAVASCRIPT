@@ -111,3 +111,5 @@ console.log(replaceValues); // Hello viewers !
 // The replace() method returns a new string.
 // The replace() method replaces only the first match
 
+// To replace all matches, use a regular expression with a /g flag (global match):
+log
