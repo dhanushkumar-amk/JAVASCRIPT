@@ -52,4 +52,4 @@ console.log(part1); // Banana, kiwi
 
 // substring()
 
-console.log(fullName.substring());
+console.log(fullName.substring(1,7));
