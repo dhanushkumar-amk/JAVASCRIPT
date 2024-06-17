@@ -1,4 +1,4 @@
-
+// lag variable is used as a signal in programming to let the program know that a certain condition has met. It usually acts as a boolean variable indicating a condition to be either true or false. 
 
 
 //JAVASCRIPT PROGRAM to check if a number is prime or not
