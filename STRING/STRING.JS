@@ -79,4 +79,4 @@ console.log(firstName + lastName);  // Dhanushkumar
 const language = "  JavaScript  "
 console.log(language);
 //   JavaScript  
-console.log(language.trim());//   JavaScript
+console.log(language.trim());// JavaScript
