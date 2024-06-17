@@ -1,6 +1,6 @@
 
 // SESSION STORAGE IS USED TO STORE THE DATA IN THE BROWSER
-// IT STORE 10MB OF DATA IN THE BROWSER
+// IT STORE 5MB OF DATA IN THE BROWSER
 
 // it will store the data on particular page
 // when you close the page then the session storage will be gone
