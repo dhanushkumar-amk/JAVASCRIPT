@@ -18,5 +18,6 @@ function saveData(){
     if(inputData){
         // setItem(key, value)
         sessionStorage.setItem('user',inputData);
+        doc
     }
 }
