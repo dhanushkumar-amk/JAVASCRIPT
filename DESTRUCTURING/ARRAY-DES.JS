@@ -66,7 +66,7 @@ console.log(a,b);
 
 
 // nesting array destructing
-const num [1,2,[3,4,5],6,8,9 ]
+const [] =  [1,2,[3,4,5],6,8,9 ]
 
 
 
