@@ -76,4 +76,5 @@ console.log(firstName + lastName);  // Dhanushkumar
 
 // trim()
 // The trim() method removes whitespace from both sides of a string
-const language = "  JavaScript "
+const language = "  JavaScript  "
+console.log();
