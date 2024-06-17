@@ -11,5 +11,5 @@
 
 
 function saveData(){
-    var inputData = document.getElementById(username')
+    var inputData = document.getElementById('username').ariaValueMax
 }
