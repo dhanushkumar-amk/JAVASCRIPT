@@ -18,4 +18,4 @@ console.log(firstName.length);// 7
 
 // methods
 
-console.log();
+console.log(firstName.charAt());
