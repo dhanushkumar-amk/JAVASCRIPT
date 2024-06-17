@@ -31,7 +31,8 @@ console.log(Tamil); //100
 console.log(English); // undefined
 
 
-// skipping elements 
+// skipping elements
+ 
 
 
 
