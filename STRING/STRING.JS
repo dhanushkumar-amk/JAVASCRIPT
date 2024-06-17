@@ -64,3 +64,4 @@ console.log(fullName.toUpperCase()); //DHANUSHKUMAR
 
 
 // tolowercase()
+// it transforms string to uppercase
