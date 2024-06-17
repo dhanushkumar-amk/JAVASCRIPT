@@ -32,7 +32,8 @@ console.log(English); // undefined
 
 
 // skipping elements
- 
+
+const [telugu]
 
 
 
