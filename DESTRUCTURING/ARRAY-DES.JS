@@ -12,4 +12,4 @@ console.log("Biology : " + SubMarks[2]);
 
 // basic array destructuring :-
 
-let p
+let Physics = SubMarks[0]
