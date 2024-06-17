@@ -114,4 +114,4 @@ console.log(replaceValues); // Hello viewers !
 // To replace all matches, use a regular expression with a /g flag (global match):
 let text1 = "Please visit Microsoft and Microsoft!";
 let newText = text1.replace(/Microsoft/g, "Google"); 
-console.log();
+console.log(newText);
