@@ -31,6 +31,6 @@ console.log(firstName.charCodeAt(0));
 console.log(firstName.charCodeAt(1));
 
 
-console.log(firstName.StringAt(2));
+console.log(firstName.at(2));
 
 
