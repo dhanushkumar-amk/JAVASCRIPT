@@ -42,3 +42,7 @@ console.log(firstName.at(1)); // h
 // The method takes 2 parameters: start position, and end position (end not included).
 
 console.log(fullName.slice(7)); // kumar
+
+let text = "Apple, Banana, Kiwi";
+let part = text.slice(7);
+console.log(part);
