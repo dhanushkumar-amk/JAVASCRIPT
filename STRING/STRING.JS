@@ -22,3 +22,6 @@ console.log(firstName.length);// 7
 console.log(firstName.charAt()); // D
 console.log(firstName.charAt(1)); // h
 
+
+console.log();
+
