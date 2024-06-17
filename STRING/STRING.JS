@@ -1,3 +1,3 @@
 let firstName = 'Dhanush';
 let lastName = 'kumar';
-let fullName = ``
+let fullName = `DhanushKumar`
