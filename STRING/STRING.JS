@@ -10,4 +10,6 @@ const name = new String("Ram")
 console.log(name);
 
 
-// prorper
+// property
+
+console.log();
