@@ -82,4 +82,4 @@ console.log(language);
 console.log(language.trim());// JavaScript
 
 // trimStart()
-// it trim only on the 
+// it trim only on the start
