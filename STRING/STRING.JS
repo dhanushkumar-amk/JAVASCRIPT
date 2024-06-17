@@ -98,4 +98,5 @@ console.log(firstName.repeat(2)); // DhanushDhanush
 // The repeat() method does not change the original string.
 console.log(firstName); // dhanush
 
-// replace
+// replace()
+the replace method is used to replace the value
