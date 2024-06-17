@@ -87,3 +87,5 @@ console.log(language.trimStart());// JavaScript
 
 // trimEnd()
 // it trim only on end
+console.log(language.trimS());// JavaScript
+
