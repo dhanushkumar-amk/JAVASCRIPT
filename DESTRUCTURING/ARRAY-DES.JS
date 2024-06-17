@@ -79,5 +79,5 @@ console.log(six);
 // array destructuring on function
 
 function getFullName(){
-    
+    return ['']
 }
