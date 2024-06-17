@@ -19,4 +19,4 @@ let Biology = SubMarks[2];
 
 // basic array destructuring :-
 
-const [Physics, ceh]
+const [Physics, Science, Biology]
