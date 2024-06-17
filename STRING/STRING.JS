@@ -18,5 +18,5 @@ console.log(firstName.length);// 7
 
 // methods
 
-// to check the specif character in a string using charAt() 
+// to check the specif character in a string using charAt()  
 console.log(firstName.charAt());
