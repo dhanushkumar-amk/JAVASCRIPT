@@ -26,7 +26,7 @@ console.log(firstName.charAt(1)); // h
 
 
 // charCodeAt()
-it return the asque
+it return the ascii 
 console.log(firstName.charCodeAt(0));
 console.log(firstName.charCodeAt(1));
 
