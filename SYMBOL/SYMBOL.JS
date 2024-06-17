@@ -1,5 +1,5 @@
 
-// symbol data type is used to 
+// symbol data type is used to create the unique values 
 
 
 let a = Symbol(4);
