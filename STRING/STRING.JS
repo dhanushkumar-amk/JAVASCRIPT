@@ -41,4 +41,4 @@ console.log(firstName.at(1)); // h
 // slice() extracts a part of a string and returns the extracted part in a new string.
 // The method takes 2 parameters: start position, and end position (end not included).
 
-console.log(fullName.slice());
+console.log(fullName.slice(6));
