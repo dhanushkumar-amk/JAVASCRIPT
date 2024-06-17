@@ -25,5 +25,4 @@ function saveData(){
 document.getElementById('username').value= " ";
     }
     
-    
 }
