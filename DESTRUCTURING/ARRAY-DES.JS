@@ -11,3 +11,4 @@ console.log("Biology : " + SubMarks[2]);
 
 
 // basic array destructuring :-
+
