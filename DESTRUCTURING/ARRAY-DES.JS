@@ -39,6 +39,7 @@ console.log(telugu);
 console.log(kannada);
 
 //default values
+// if
 const [Hindi, Urdu=20] = [10];
 console.log(Hindi); // 10
 console.log(Urdu); // 20
