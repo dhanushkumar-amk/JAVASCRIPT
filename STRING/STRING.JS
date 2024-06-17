@@ -63,4 +63,4 @@ console.log(fullName.substr(7,11)); // kumar
 console.log(fullName.toUpperCase()); //DHANUSHKUMAR
 
 
-// to
+// tolowercase()
