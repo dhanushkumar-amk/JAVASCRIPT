@@ -12,4 +12,5 @@ console.log(name);
 
 // property
 
+// to check the length of the values
 console.log(firstName.length());
