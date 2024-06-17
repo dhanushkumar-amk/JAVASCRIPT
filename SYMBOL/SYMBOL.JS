@@ -1,2 +1,3 @@
 let a = Symbol(4);
-console.log(symbol);
+
+console.log(a ==b);
