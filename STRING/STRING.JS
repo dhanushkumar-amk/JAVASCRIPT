@@ -25,7 +25,7 @@ console.log(firstName.charAt()); // D
 console.log(firstName.charAt(1)); // h
 
 
-
+// charCodeAt()
 console.log(firstName.charCodeAt(0));
 console.log(firstName.charCodeAt(1));
 
