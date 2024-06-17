@@ -49,3 +49,4 @@ let part1= text.slice(-12); // start index from backward
  
 console.log(part); // Banana, kiwi
 console.log(part1); // Banana, kiwi
+
