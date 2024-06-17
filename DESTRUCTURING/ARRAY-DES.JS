@@ -33,7 +33,7 @@ console.log(English); // undefined
 
 // skipping elements
 
-const [telugu,malayalam,kanadam] = [10,30,55]
+const [telugu,malayalam,kannada] = [10,30,55]
 
 
 
