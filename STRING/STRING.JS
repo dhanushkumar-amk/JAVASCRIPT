@@ -101,7 +101,7 @@ console.log(firstName); // dhanush
 // replace()
 // the replace method is used to replace the value
 const words = "Hello World !"
-console.log(words);
+console.log(words); // Hello World !
 
 const replaceValues = words.replace("World", "Viewers")
 console.log(replaceValues);
