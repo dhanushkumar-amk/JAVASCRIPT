@@ -37,7 +37,7 @@ function displayData(){
         display.textContent = "Username : " + storedData
     }
     else{
-        display.textContent = "No dta found"
+        display.textContent = "No data found"
         
     }
 }
