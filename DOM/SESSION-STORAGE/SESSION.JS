@@ -12,5 +12,5 @@
 
 function saveData(){
     var inputData = document.getElementById('username').value;
-    alert
+    alert(inputData)
 }
