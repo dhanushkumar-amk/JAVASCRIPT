@@ -66,6 +66,7 @@ console.log(a,b);
 
 
 // nesting array destructing
+// one ways
 const [one, two, [three,four, five], six] =  [1,2,[3,4,5],6 ]
 console.log(one);
 console.log(two);
