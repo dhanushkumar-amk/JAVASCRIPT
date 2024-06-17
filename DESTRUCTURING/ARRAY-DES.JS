@@ -5,3 +5,7 @@
 
 const SubMarks = [70,80,90];
 console.log(SubMarks);  // [ 70, 80, 90 ]
+log
+
+
+// basic array destructuring :-
