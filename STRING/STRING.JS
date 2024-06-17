@@ -38,6 +38,5 @@ console.log(firstName.at(1)); // h
 // Now you can use myString.at(-2) instead of charAt(myString.length-2).
 
 // JavaScript String slice()
-slice() extracts a part of a string and returns the extracted part in a new string.
-
+// slice() extracts a part of a string and returns the extracted part in a new string.
 // The method takes 2 parameters: start position, and end position (end not included).
