@@ -89,3 +89,5 @@ console.log(language.trimStart());// JavaScript
 // it trim only on end
 console.log(language.trimEnd());// JavaScript
 
+
+// repaet
