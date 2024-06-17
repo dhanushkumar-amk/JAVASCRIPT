@@ -39,8 +39,7 @@ console.log(telugu);
 console.log(kannada);
 
 //default values
-const [Hindi, Urdu] = [10,20];
-
+const [Hindi, Urdu] = [10];
 
 
 
