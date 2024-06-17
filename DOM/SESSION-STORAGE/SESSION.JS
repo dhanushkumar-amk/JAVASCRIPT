@@ -30,5 +30,6 @@ document.getElementById('username').value= " ";
 
 // retrieve the data from the  session storage
 function displayData(){
+    // Returns the current value associated with the given key, or null if the given key does not exist.
     var storedData = sessionStorage.getItem()
 }
