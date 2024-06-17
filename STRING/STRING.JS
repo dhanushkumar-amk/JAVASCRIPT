@@ -128,4 +128,4 @@ console.log(newText.split(" ")); // [ 'Please', 'visit', 'Google', 'and', 'Googl
 
 const oldText = "Hello my name is Dhanush, and my age is 19"
 console.log(oldText.indexOf("Hello")); // 0 Hello is oth index
-console.log(oldText.indexOf("my")); // 6
+console.log(oldText.indexOf("name")); // 6
