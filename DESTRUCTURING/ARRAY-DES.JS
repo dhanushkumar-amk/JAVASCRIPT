@@ -32,7 +32,7 @@ console.log(English); // undefined
 
 
 // skipping elements
-// to skip the elements using comas i 
+// to skip the elements using comas inbeteween 
 const [telugu, ,kannada] = [10,30,55]
 
 console.log(telugu);
