@@ -11,9 +11,9 @@ console.log("Biology : " + SubMarks[2]);
 
 
 
-let Science = SubMarks[0]
-let Physics = SubMarks[1]
-let Biology = SubMarks[2];
+// let Science = SubMarks[0]
+// let Physics = SubMarks[1]
+// let Biology = SubMarks[2];
 
 
 
