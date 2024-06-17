@@ -65,8 +65,8 @@ let b = 30;
 console.log(a,b);
 
 
-// nesting array desttructi
-
+// nesting array destructing
+const num [ ]
 
 
 
