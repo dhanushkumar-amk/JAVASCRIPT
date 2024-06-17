@@ -1,2 +1,2 @@
-let symbol = Symbol(4);
+let a = Symbol(4);
 console.log(symbol);
