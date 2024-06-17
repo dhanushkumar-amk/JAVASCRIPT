@@ -20,7 +20,7 @@ function saveData(){
         sessionStorage.setItem('user',inputData);
 
 // it will store data on the session storage
-// go to inspect => storage => session 
+// go to inspect => storage => session storage
 inputData.value = " "
     }
 }
