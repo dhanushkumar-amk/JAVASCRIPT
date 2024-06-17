@@ -11,5 +11,5 @@
 
 
 function saveData(){
-    var inputData = document.get
+    var inputData = document.getElementById(username')
 }
