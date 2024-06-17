@@ -28,4 +28,4 @@ document.getElementById('username').value= " ";
     }
 }
 
-// retrive the data from the storage
+// retreve the data from the storage
