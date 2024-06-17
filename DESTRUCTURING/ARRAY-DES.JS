@@ -5,7 +5,7 @@
 
 const SubMarks = [70,80,90];
 console.log(SubMarks);  // [ 70, 80, 90 ]
-log
+console.log("Tamil" + );
 
 
 // basic array destructuring :-
