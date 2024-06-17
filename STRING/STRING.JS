@@ -29,6 +29,7 @@ console.log(firstName.charAt(1)); // h
 // it return the ascii  value of the particular index
 console.log(firstName.charCodeAt(0));
 console.log(firstName.charCodeAt(1));
-console.log(charCodeAt(a));
+
+const a = cha
 
 
