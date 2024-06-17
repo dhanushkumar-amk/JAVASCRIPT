@@ -48,4 +48,4 @@ let part = text.slice(7);
 let part1= text.slice(-12);
 
 console.log(part); // Banana, kiwi
-console.log(part); // Banana, kiwi
+console.log(part1); // Banana, kiwi
