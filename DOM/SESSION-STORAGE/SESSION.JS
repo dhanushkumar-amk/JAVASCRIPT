@@ -27,3 +27,5 @@ function saveData(){
 document.getElementById('username').value= " ";
     }
 }
+
+// retrive the data from the storage
