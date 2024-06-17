@@ -39,7 +39,7 @@ console.log(telugu);
 console.log(kannada);
 
 //default values
-// if the value those not exit not 
+// if the value those not exit not it take default values
 const [Hindi, Urdu=20] = [10];
 console.log(Hindi); // 10
 console.log(Urdu); // 20
