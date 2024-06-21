@@ -19,4 +19,4 @@ console.log(result2);
 
 // imPure function
 
-function add
+function addFoods()
