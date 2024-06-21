@@ -23,6 +23,6 @@ console.log(result2);
  
 const foods = ["Briyani", "Tomato Rice"]
 function addFoods(food){
-    foods.push(foos)
+    foods.push(food)
 
 }
