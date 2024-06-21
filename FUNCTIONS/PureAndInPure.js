@@ -1,1 +1,1 @@
-// how to declare the function 
+// pure and inure how to declare the function 
