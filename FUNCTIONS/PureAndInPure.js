@@ -3,7 +3,7 @@
 
 // pure function
 
-// pure function are functions that always 
+// pure function are functions that always return the same 
 
 function add(a,b){
     return a + b;
