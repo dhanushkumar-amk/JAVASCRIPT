@@ -27,4 +27,4 @@ function addFoods(food){
 
 }
 const addedFoods = addFoods("Curd Rice");
-console.log(a); 
+console.log(addedFoods); 
