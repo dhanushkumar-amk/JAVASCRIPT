@@ -24,4 +24,5 @@ console.log(result2);
 const foods = ["Briyani", "Tomato Rice"]
 function addFoods(){
     
+
 }
