@@ -8,4 +8,5 @@
 function add(a,b){
     return a + b;
 }
+const result = `
 console.log(result1);
