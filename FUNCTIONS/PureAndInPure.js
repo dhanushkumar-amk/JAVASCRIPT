@@ -9,6 +9,6 @@ function add(a,b){
     return a + b;
 }
 const result1 = add(4,5); // two input two output
-const result2 = add(5,5);
+const result2 = add(4,5);
 console.log(result1);
 console.log(result2);
