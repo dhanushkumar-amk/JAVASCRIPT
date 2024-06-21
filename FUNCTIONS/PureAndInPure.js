@@ -13,4 +13,4 @@ const result2 = add(4,5);
 console.log(result1);
 console.log(result2);
 
-// don't use 
+// don't use console.log() functon
