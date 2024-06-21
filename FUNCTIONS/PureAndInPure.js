@@ -19,6 +19,7 @@ console.log(result2);
 
 // imPure function
 
+// iti
 const foods = ["Briyani", "Tomato Rice"]
 function addFoods(){
     
