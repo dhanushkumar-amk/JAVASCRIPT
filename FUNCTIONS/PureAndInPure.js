@@ -3,4 +3,4 @@
 function add(a,b){
     return a + b;
 }
-console.log(a);
+console.log(add(4,4));
