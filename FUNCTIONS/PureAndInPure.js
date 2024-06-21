@@ -28,4 +28,4 @@ function addFoods(food){
 }
 const addedFoods = addFoods("Curd Rice");
 console.log(foods); //[ 'Briyani', 'Tomato Rice', 'Curd Rice' ]
-console.log(addedFoods); 
+console.log(addedFoods); // 3
