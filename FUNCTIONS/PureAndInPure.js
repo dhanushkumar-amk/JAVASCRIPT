@@ -19,7 +19,8 @@ console.log(result2);
 
 // imPure function
 
-// it is not written in the formate and also gives the different 
+// it is not written in the formate and also gives the different output for different input
+ 
 const foods = ["Briyani", "Tomato Rice"]
 function addFoods(){
     
