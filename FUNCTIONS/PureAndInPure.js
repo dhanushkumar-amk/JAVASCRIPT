@@ -19,5 +19,5 @@ console.log(result2);
 
 // imPure function
 
-const foods = ["Briyani"]
+const foods = ["Briyani", "Tomato Riice"]
 function addFoods()
