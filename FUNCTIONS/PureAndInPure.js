@@ -26,4 +26,4 @@ function addFoods(food){
     foods.push(food)
 
 }
-const addedFoods = addFoods("") 
+const addedFoods = addFoods("Curd Rice") 
