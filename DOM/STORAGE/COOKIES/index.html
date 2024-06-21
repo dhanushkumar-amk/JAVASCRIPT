@@ -1,52 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html><html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
     <title>Cookies in Javascript</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Cookies</h1>
     <h2>Set Cookie name</h2>
-    <input type="text" placeholder="Enter you cookie name ..." id="setCookieName">
+    <input
+      type="text"
+      placeholder="Enter you cookie name ..."
+      id="setCookieName" />
     <h2>Set Cookie value</h2>
-    <input type="text" placeholder="Enter your cookie value ..." id="setCookieValue"> <br>
-    <br>
+    <input
+      type="text"
+      placeholder="Enter your cookie value ..."
+      id="setCookieValue" />
+    <br />
+    <br />
     <button onclick="setCookie()">SetCookie</button>
-    
+
     <h2>Get cookie Name</h2>
-    <input type="text" placeholder="Enter your...." id="getCookieName">
-    <br>
-    <br>
+    <input
+      type="text"
+      placeholder="Enter your...."
+      id="getCookieName" />
+    <br />
+    <br />
     <button onclick="getCookie()">Get Cookie</button>
 
     <h2>Update Cookie name</h2>
-<input type="text" placeholder="Enter Your old cookie name 
-" id="updateCookieValue"/>
-<br>
-<input type="text" placeholder="Enter your new cookie name..." id="updateCookieName"/>
-<br>
-<button onclick="updateCookie()">Update</button>
+    <input
+      type="text"
+      placeholder="Enter Your old cookie name 
+"
+      id="updateCookieValue" />
+    <br />
+    <input
+      type="text"
+      placeholder="Enter your new cookie name..."
+      id="updateCookieName" />
+    <br />
+    <button onclick="updateCookie()">Update</button>
 
-<h2>Delete Cookie value</h2>
-<input type="text" placeholder="Enter yhe name.... " id="deleteCookie">
-<br>
-<button onclick="deleteCookie()" >Delete</button>
+    <h2>Delete Cookie value</h2>
+    <input
+      type="text"
+      placeholder="Enter yhe name.... "
+      id="deleteCookie" />
+    <br />
+    <button onclick="deleteCookie()">Delete</button>
 
-<script>
-   // set Cookie
-   function setCookie(){
-    const cookieName = document.getElementById("setCookieName");
-    const CookieValue = document.getElementById("setCookieValue")
-    
-    if(cookieName || CookieValue){
-        alert("please Enter both the fields")
-    }
-   }
-</script>
+    <script>
+      // set Cookie
+      function setCookie() {
+        const cookieName = document.getElementById('setCookieName');
+        const CookieValue = document.getElementById('setCookieValue');
 
-
-</body>
+        if (cookieName || CookieValue) {
+          alert('please Enter both the fields');
+          return;
+        }
+      }
+    </script>
+  </body>
 </html>
 
 <!--
