@@ -22,7 +22,7 @@ console.log(result2);
 // it is not written in the formate and also gives the different output for different input
  
 const foods = ["Briyani", "Tomato Rice"]
-function addFoods(){
-    
+function addFoods(food){
+    fo
 
 }
