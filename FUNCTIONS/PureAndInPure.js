@@ -26,3 +26,4 @@ function addFoods(food){
     foods.push(food)
 
 }
+const addedFoodes 
