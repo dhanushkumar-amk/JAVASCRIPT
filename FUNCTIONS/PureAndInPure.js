@@ -3,7 +3,7 @@
 
 // pure function
 
-// pure function 
+// pure function are functions 
 
 function add(a,b){
     return a + b;
