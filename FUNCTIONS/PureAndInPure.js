@@ -19,4 +19,5 @@ console.log(result2);
 
 // imPure function
 
+const foods = 
 function addFoods()
