@@ -16,3 +16,7 @@ console.log(result2);
 // don't use console.log() function in pure function
 
 
+
+// imPure function
+
+
