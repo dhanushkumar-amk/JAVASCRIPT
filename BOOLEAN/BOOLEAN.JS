@@ -22,4 +22,4 @@ console.log(res2); // true
 
 // The Boolean value of 0 (zero) is false:
 let x = 0;
-console.log(x);
+console.log(Boolean(x));
