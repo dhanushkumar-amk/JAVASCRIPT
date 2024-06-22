@@ -50,6 +50,8 @@ console.log(person);
 const objectCloning = Object.assign({}, person);
 console.log(objectCloning);
 console.log("-----------------");
+
+
 // cloning or merging the objects using spread operator 
 const finalObjects = {...person, ...person1}
 console.log(finalObjects);
