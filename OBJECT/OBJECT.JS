@@ -48,4 +48,4 @@ console.log(person);
 
 // objects cloning
 Object.assign({}, person);
-log
+console.log(person);
