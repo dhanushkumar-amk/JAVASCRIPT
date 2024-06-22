@@ -9,7 +9,7 @@
 
 const myName = "Dhanushkumar";
 function outerFunction(){
-    console.log("Acessing ");
+    console.log("Accessing the global scope", myName);
     
     function innerFunction(){
         console.log("Can i access the function scope ");
