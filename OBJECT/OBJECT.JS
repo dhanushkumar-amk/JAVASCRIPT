@@ -29,3 +29,4 @@ console.log(person.lastName);
 
 
 // merging the objects
+const person1
