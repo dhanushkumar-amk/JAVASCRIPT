@@ -42,4 +42,4 @@ function points() {
   }
 }
 
-points();
+const table = points();
