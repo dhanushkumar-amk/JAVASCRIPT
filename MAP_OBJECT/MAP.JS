@@ -42,6 +42,7 @@ const mapLength = fruits.size;
 console.log(mapLength); // 5
 
 // delete the data from the map
-const  
+fruits.delete("apples");
+console.log(fruits); 
   
 
