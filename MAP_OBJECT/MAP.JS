@@ -60,4 +60,4 @@ const ClearMapExample = new Map([
   ]);
   
   ClearMapExample.clear;
-  console.log(cl);
+  console.log(ClearMapExample);
