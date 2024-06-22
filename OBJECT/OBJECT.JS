@@ -16,7 +16,7 @@ const person = {
      lastName : "Kumar",
      age : 19,
      isAlive : true,
-     fullName(){
+     fullName(){ // function within the object is called methods
         
      }
 }
