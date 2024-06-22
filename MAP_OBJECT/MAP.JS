@@ -21,4 +21,4 @@ const fruits = new Map([
   
   // using the values in the map or add the values
   
-  fruits.set("")
+  fruits.set("PineApple")
