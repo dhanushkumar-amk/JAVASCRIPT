@@ -59,4 +59,5 @@ const ClearMapExample = new Map([
     ["oranges", 200]
   ]);
   
-  ClearMapExample.cl
+  ClearMapExample.clear;
+  console.log(cl);
