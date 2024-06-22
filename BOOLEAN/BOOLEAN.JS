@@ -16,4 +16,5 @@ console.log(res); // true
 
 // also use as 
 const res2 = (10 > 8)
-console.log(res2);
+console.log(res2); // true
+
