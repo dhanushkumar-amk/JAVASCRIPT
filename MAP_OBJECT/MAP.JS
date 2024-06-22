@@ -52,7 +52,7 @@ console.log(fruits);
 //     'kiwi' => 300
 //   }
   
-? ?
+// ?  clear
 const ClearMapExample = new Map([
     ["apples", 500],
     ["bananas", 300],
