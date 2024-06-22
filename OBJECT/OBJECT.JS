@@ -40,5 +40,6 @@ const person1 = {
 
 person1.yearOfBirth();
 
+// assign keyword is used to 
 Object.assign(person, person1);
 console.log(person);
