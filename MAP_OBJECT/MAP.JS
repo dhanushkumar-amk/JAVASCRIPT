@@ -67,4 +67,6 @@ const ClearMapExample = new Map([
   //   The has() method returns true if a key exists in a map:
 
   const isExists = fruits.has("oranges")
-  console.log(isExists);
+  console.log(isExists); // true
+  
+  
