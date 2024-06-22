@@ -28,3 +28,8 @@ console.log(Boolean(x)); // false
 let y = -0;
 console.log(Boolean(y)); // false
 
+
+// The Boolean value of "" (empty string) is false:
+
+
+
