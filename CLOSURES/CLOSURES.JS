@@ -33,6 +33,7 @@ outerFunction("outside outside")
 // example for closure
 
 function points(){
+log
     const totalPoints = 0;
     
     const  addPoints = () => {
