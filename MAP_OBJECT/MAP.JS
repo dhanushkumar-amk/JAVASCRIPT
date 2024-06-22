@@ -26,9 +26,9 @@ const fruits = new Map([
   console.log(fruits);
   
   // Map(4) {
-  'apples' => 500,
-  'bananas' => 300,
-  'oranges' => 200,
-  'PineApple' => 250
-}
+//   'apples' => 500,
+//   'bananas' => 300,
+//   'oranges' => 200,
+//   'PineApple' => 250
+// }
   
