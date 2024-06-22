@@ -38,7 +38,8 @@ function points() {
   
   return
   {
-    addPoints, removePoints,
+    addPoints, removePoints,getTotalPoints
   }
 }
+
 points();
