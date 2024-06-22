@@ -20,6 +20,8 @@ function outerFunction(){
     }
 }
 
+console.log(user);  // 
+
 
 outerFunction()
 
