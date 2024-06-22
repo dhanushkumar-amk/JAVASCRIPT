@@ -16,7 +16,7 @@ function outerFunction(){
     console.log("Accessing the global scope", myName);
     
     function innerFunction(){
-        console.log();
+        console.log("inner function is orked");
     }
 }
 
