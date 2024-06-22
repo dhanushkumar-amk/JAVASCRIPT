@@ -33,7 +33,7 @@ const person1 = {
     yearOfBirth(){
         const currentData = new Date();
         const DOB = 2004;
-        const result = currentData - d
+        const result = currentData - DOB;
     }
 }
 
