@@ -11,8 +11,6 @@ const mapName = new Map();
 // console.log(mapName); 
 
 
-
-
 // Create a Map
 const fruits = new Map([
     ["apples", 500],
