@@ -30,4 +30,5 @@ outerFunction("outside outside")
  
 
 
-// example for closu
+// example for closure
+
