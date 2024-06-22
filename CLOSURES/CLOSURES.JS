@@ -43,6 +43,6 @@ function points(totalPointsValue) {
 
 const table = points(199);
 console.log(table.addPoints());
- table.removePoints();
+//  table.removePoints();
 console.log(table.removePoints());
  
