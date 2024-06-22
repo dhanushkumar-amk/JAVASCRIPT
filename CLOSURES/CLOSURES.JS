@@ -16,8 +16,6 @@ function outerFunction(){
     function innerFunction(){
         console.log("Can i access the function scope ");
     }
-    
-    
 }
 
 
