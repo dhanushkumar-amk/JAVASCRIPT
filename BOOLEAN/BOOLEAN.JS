@@ -50,8 +50,10 @@ const Bool = new Boolean();
 let x1 = false;
 let y1 = new Boolean(false);
 
-console.log( typeof x1);
-console.log( typeof y1);
+console.log( typeof x1); // boolean
+console.log( typeof y1); // object
+
+
 
 
 
