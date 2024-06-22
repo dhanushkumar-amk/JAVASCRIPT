@@ -8,7 +8,9 @@
 
 // map using constructor method
 const mapName = new Map();
-console.log(mapName); 
+// console.log(mapName); 
+
+
 
 
 // Create a Map
