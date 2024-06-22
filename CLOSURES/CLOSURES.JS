@@ -37,5 +37,5 @@ function points(){
     
     const  addPoints = () => {}
     const  removePoints = () => {}
-    const  removePoints = () => {}
+    const  getTotalPoints = () => {}
 }
