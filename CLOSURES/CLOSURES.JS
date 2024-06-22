@@ -39,7 +39,9 @@ function points(){
         return totalPoints + 1;
     }
     const  removePoints = () => {
-        return totalPoints - 1
+        return totalPoints - 1;
     }
-    const  getTotalPoints = () => {}
+    const  getTotalPoints = () => {
+        
+    }
 }
