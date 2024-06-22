@@ -1,3 +1,5 @@
-{  "cSpell.words": ["ashwin", "ATRTIMEMETIC", "kumar", "sanjay"],
-  "terminal.integrated.defaultLocation": "editor"
+{
+  "cSpell.words": ["ashwin", "ATRTIMEMETIC", "kumar", "sanjay"],
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.tabs.defaultColor": "terminal.ansiBlue"
 }
