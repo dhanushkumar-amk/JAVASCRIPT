@@ -42,6 +42,6 @@ function points(){
         return totalPoints - 1;
     }
     const  getTotalPoints = () => {
-        
+        return totalPoints;
     }
 }
