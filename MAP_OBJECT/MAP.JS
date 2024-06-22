@@ -7,7 +7,8 @@
 // object can override the old value when we gave as new value
 
 // map using constructor method
-const mapName = new Map(); 
+const mapName = new Map();
+console.log(mapName); 
 
 
 // Create a Map
