@@ -32,7 +32,7 @@ console.log(person.lastName);
 const person1 = {
     yearOfBirth(){
         const currentData = new Date();
-        c
+        const 
     }
 }
 
