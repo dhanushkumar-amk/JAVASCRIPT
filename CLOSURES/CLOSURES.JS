@@ -7,11 +7,11 @@
 
 // inner function access the outer function scope 
 
+const myName = "Dhanushkumar";
 function outerFunction(){
-    const myName = "Dhanushkumar";
     
     function innerFunction(){
-        console.log("Can i access ");
+        console.log("Can i access the function scope ");
     }
 }
 
