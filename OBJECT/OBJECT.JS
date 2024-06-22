@@ -50,4 +50,4 @@ console.log(person);
 const objectCloning = Object.assign({}, person);
 console.log(objectCloning);
 
-// cloning the objects using spread operator 
+// cloning or merging the objects using spread operator 
