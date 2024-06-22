@@ -33,5 +33,5 @@ outerFunction("outside outside")
 // example for closure
 
 function points(){
-    const tota
+    const totalPoints = 0;
 }
