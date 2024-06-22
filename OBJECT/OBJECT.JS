@@ -47,4 +47,4 @@ console.log(person);
 
 
 // objects cloning
-ob
+Object.assign({}, person)
