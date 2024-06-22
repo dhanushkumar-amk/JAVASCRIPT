@@ -11,6 +11,8 @@
 
 const myName = "Dhanushkumar"; // global scope
 function outerFunction(){
+    
+    const user = "Sanjay"
     console.log("Accessing the global scope", myName);
     
     function innerFunction(){
