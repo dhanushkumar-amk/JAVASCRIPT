@@ -57,6 +57,7 @@ console.log(x1 == y1); // true
 console.log(x1 === y1); // false
 
 
-
+let x = new Boolean(false);
+let y = new Boolean(false);
 
 
