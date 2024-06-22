@@ -31,6 +31,8 @@ console.log(Boolean(y)); // false
 
 // The Boolean value of "" (empty string) is false:
 let empStr = "";
-console.log(Boolean(empStr));
+console.log(Boolean(empStr)); // false
+
+
 
 
