@@ -9,7 +9,7 @@
 
 
 
-const myName = "Dhanushkumar"; // g
+const myName = "Dhanushkumar"; // global scope
 function outerFunction(){
     console.log("Accessing the global scope", myName);
     
