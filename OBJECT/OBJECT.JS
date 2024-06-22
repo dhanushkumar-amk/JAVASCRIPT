@@ -34,7 +34,7 @@ const person1 = {
         const currentData = new Date();
         const age = 19;
         const result = currentData - age;
-        console.log(result.toLoca);
+        console.log(result);
     }
 }
 
