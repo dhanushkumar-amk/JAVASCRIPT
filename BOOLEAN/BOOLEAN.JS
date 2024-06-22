@@ -33,6 +33,7 @@ console.log(Boolean(y)); // false
 let empStr = "";
 console.log(Boolean(empStr)); // false
 
+let empStr1 = " "
 
 
 
