@@ -19,4 +19,5 @@ const fruits = new Map([
   ]);
   
   
-  // using the values in the map oradd thevalues 
+  // using the values in the map or add the values
+   
