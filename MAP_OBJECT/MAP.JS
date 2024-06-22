@@ -17,7 +17,7 @@ const fruits = new Map([
     ["bananas", 300],
     ["oranges", 200]
   ]);
-  log
+  console.log(fruits);
   
   // using the values in the map or add the values
   
