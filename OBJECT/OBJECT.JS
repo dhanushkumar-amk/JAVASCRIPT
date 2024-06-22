@@ -33,7 +33,7 @@ const person1 = {
     yearOfBirth(){
         const currentData = new Date();
         const age = 20;
-        const result = currentData.getFullYear() - age;
+        const result = currentData.getFullYear()+ currentData.get - age;
         console.log(result);
     }
 }
