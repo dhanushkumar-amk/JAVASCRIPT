@@ -40,6 +40,6 @@ const person1 = {
 
 person1.yearOfBirth();
 
-// assign keyword is used to  merge the two objects 
+// assign keyword is used to  merge the two objects it tooks two params 
 Object.assign(person, person1);
 console.log(person);
