@@ -40,7 +40,12 @@ console.log(Boolean(empStr1)); // true
 let z ;
 console.log(Boolean(z)); // false
 
-// same as  
+// same as  null, false,NAN
+
+
+//  booleans can also be defined as objects with the keyword new:
+
+
 
 
 
