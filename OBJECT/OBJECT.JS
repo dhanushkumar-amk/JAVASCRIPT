@@ -31,7 +31,7 @@ console.log(person.lastName);
 // merging the objects
 const person1 = {
     yearOfBirth(){
-        const currentData = new Date();
+        const currentData = new ();
         const age = 19;
         const result = currentData - age;
         console.log(result);
