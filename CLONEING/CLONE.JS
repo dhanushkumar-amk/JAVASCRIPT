@@ -11,4 +11,5 @@
 
 // boolean as function
 
-Boolean(10 > 7);
+const res = Boolean(10 > 7);
+console.log(res);
