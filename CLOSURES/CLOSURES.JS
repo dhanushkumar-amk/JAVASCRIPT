@@ -7,6 +7,8 @@
 
 // inner function access the outer function scope 
 
+
+
 const myName = "Dhanushkumar";
 function outerFunction(){
     console.log("Accessing the global scope", myName);
