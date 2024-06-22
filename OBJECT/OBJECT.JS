@@ -38,5 +38,7 @@ const person1 = {
     }
 }
 
+person1.yearOfBirth()
+
 Object.assign(person, person1);
 console.log(person);
