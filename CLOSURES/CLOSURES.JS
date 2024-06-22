@@ -32,3 +32,4 @@ outerFunction("outside outside")
 
 // example for closure
 
+function points
