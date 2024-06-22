@@ -15,5 +15,5 @@ const person = {
     firstName : "Dhanush",
      lastName : "Kumar",
      age : 19,
-     isAlive
+     isAlive : true,
 }
