@@ -10,7 +10,9 @@
 function outerFunction(){
     const myName = "Dhanushkumar";
     
-    function i
+    function innerFunction(){
+        
+    }
 }
 
 
