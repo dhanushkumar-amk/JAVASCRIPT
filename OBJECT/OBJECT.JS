@@ -34,6 +34,7 @@ const person1 = {
         const currentData = new Date();
         const DOB = 2004;
         const result = currentData - DOB;
+        console.log(result);
     }
 }
 
