@@ -34,6 +34,7 @@ const fruits = new Map([
 //   'kiwi'  => 300
 // }
 
-// to get the specific value from the 
+// to get the specific value from the map
+fruits.get
   
 
