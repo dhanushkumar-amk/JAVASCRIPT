@@ -55,6 +55,7 @@ console.log("-----------------");
 // cloning or merging the objects using spread operator 
 const finalObjects = {...person, ...person1}
 console.log(finalObjects);
+console.log("-----------------");
 
 
 // delete the key value in object
