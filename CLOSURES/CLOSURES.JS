@@ -43,3 +43,5 @@ function points() {
 }
 
 const table = points();
+table.addPoints();
+ta
