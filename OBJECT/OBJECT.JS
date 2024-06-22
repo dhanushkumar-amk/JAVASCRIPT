@@ -58,3 +58,4 @@ console.log(finalObjects);
 
 
 // delete the key value in object
+delete.per
