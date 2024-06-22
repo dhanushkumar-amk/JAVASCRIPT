@@ -34,6 +34,9 @@ let empStr = "";
 console.log(Boolean(empStr)); // false
 
 let empStr1 = " "
+console.log(Boolean(empStr1)); // true
+
+
 
 
 
