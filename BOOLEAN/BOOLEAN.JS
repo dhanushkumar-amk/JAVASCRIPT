@@ -40,7 +40,7 @@ console.log(Boolean(empStr1)); // true
 let z ;
 console.log(Boolean(z)); // false
 
-
+// same as  
 
 
 
