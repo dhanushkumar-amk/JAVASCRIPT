@@ -10,7 +10,7 @@
 
 
 // const myName = "Dhanushkumar"; // global scope
-function outerFunction(out){
+function outerFunction(outsideData){
     
     const user = "Sanjay"
     console.log("Accessing the global scope", user);
