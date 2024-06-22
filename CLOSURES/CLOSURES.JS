@@ -20,7 +20,8 @@ function outerFunction(){
     }
 }
 
-console.log(user);  // user can't be access outside the function
+console.log(user); 
+ // user can't be access outside the function
 
 
 outerFunction()
