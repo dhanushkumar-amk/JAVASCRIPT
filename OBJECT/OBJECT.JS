@@ -1,3 +1,3 @@
 // object
 
-new obje
+new Object()
