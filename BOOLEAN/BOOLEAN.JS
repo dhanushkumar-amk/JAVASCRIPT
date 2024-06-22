@@ -13,3 +13,5 @@
 
 const res = Boolean(10 > 7);
 console.log(res); // true
+
+also use as
