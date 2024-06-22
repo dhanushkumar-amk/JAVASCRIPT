@@ -37,5 +37,8 @@ function points() {
   };
   
   return
+  {
+    addPoints, removePoints,
+  }
 }
 points();
