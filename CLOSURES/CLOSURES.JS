@@ -42,5 +42,5 @@ function points(totalPointsValue) {
 }
 
 const table = points();
-console.log(table.addPoints(10));
+console.log(table.addPoints());
 // table.removePoints();
