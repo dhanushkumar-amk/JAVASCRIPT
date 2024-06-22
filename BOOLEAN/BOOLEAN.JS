@@ -36,8 +36,9 @@ console.log(Boolean(empStr)); // false
 let empStr1 = " "
 console.log(Boolean(empStr1)); // true
 
-The Boolean value of undefined is false:
-
+// The Boolean value of undefined is false:
+let z ;
+console.log();
 
 
 
