@@ -53,7 +53,7 @@ console.log(fruits);
 //   }
   
 
-const fruits1 = new Map([
+const ClearMapExample = new Map([
     ["apples", 500],
     ["bananas", 300],
     ["oranges", 200]
