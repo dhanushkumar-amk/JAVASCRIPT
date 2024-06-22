@@ -14,5 +14,5 @@ const objectName2 = {} // it automatically convert into object constructor
 const person = {
     firstName : "Dhanush",
      lastName : "Kumar",
-     age : 19
+     age : 19,
 }
