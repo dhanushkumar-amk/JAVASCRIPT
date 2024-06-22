@@ -8,7 +8,9 @@
 // inner function access the outer function scope 
 
 function outerFunction(){
-    const myName = "Dhanushlkumar"
+    const myName = "Dhanushkumar";
+    
+    function i
 }
 
 
