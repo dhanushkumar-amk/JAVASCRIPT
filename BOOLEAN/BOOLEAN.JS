@@ -47,6 +47,9 @@ console.log(Boolean(z)); // false
 const Bool = new Boolean();
 
 
+let x = false;
+let y = new Boolean(false);
+
 
 
 
