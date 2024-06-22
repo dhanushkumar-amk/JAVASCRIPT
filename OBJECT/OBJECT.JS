@@ -26,3 +26,6 @@ const person = {
 person.fullName();
 console.log(person.firstName);
 console.log(person.lastName);
+
+
+// merging the objects
