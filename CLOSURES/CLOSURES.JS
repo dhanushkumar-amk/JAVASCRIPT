@@ -36,9 +36,7 @@ function points(totalPointsValue) {
     return totalPoints;
   };
   
-  return
-  
-  {
+  return{
     addPoints, removePoints,getTotalPoints
   }
 }
