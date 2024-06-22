@@ -45,3 +45,4 @@ function points(){
         return totalPoints;
     }
 }
+points();
