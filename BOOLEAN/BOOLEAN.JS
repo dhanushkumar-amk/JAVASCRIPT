@@ -44,7 +44,7 @@ console.log(Boolean(z)); // false
 
 
 //  booleans can also be defined as objects with the keyword new:
-
+const Bool = new Boolean();
 
 
 
