@@ -70,6 +70,6 @@ const ClearMapExample = new Map([
   console.log(isExists); // true
   
   const isExists1 = fruits.has("apples")
-  console.log(isExists1); // true
+  console.log(isExists1); // fasle
   
   
