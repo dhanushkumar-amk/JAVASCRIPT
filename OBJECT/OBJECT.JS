@@ -7,4 +7,4 @@ const objectName = new Object()
 
 
 // 2 => object literals
-const objectName2 = {}
+const objectName2 = {} // it automatically c
