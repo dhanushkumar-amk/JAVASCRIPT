@@ -8,6 +8,7 @@
 
 
 
+
 // Create a Map
 const fruits = new Map([
     ["apples", 500],
