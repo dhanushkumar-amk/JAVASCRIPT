@@ -16,5 +16,5 @@ const person = {
      lastName : "Kumar",
      age : 19,
      isAlive : true,
-     fullName
+     fullName()
 }
