@@ -23,4 +23,4 @@ const person = {
 
 // getting object values
 
-person.
+person.fullName();
