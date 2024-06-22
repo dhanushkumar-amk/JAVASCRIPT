@@ -19,4 +19,4 @@ const fruits = new Map([
   ]);
   
   
-  // 
+  // [using the values in the map or ]
