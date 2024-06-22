@@ -61,3 +61,4 @@ console.log("-----------------");
 // delete the key value in object
 delete person.age;
 console.log(person);
+
