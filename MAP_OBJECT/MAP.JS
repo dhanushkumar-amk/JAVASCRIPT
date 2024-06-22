@@ -53,7 +53,7 @@ console.log(fruits);
 //   }
   
 
-const fruits = new Map([
+const fruits1 = new Map([
     ["apples", 500],
     ["bananas", 300],
     ["oranges", 200]
