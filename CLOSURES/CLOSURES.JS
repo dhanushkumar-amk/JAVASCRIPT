@@ -24,10 +24,10 @@ outerFunction('outside outside');
 
 function points() {
   console.log('Outside function running');
-  const totalPoints = 0;
+  const totalPoints = ;
 
   const addPoints = (totalPointsValue) => {
-    return totalPoints + to;
+    return totalPoints + 1;
   };
   const removePoints = () => {
     return totalPoints - 1;
