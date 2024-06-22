@@ -39,6 +39,8 @@ console.log(fruits.get("apples")) // 500
 
 // to check the sizeof the map
 const mapLength = fruits.size;
-console.log(mapLength);
+console.log(mapLength); // 5
+
+
   
 
