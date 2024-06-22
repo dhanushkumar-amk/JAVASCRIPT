@@ -22,9 +22,9 @@ outerFunction('outside outside');
 
 // example for closure
 
-function points() {
+function points(totalPointsValue) {
   console.log('Outside function running');
-  const totalPoints = ;
+  const totalPoints = totalPointsValue;
 
   const addPoints = () => {
     return totalPoints + 1;
