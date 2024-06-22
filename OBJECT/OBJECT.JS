@@ -49,3 +49,4 @@ console.log(person);
 // objects cloning
 const objectCloning = Object.assign({}, person);
 console.log(objectCloning);
+
