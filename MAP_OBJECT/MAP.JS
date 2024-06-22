@@ -66,4 +66,4 @@ const ClearMapExample = new Map([
   // has
   //   The has() method returns true if a key exists in a map:
 
-  const isExists = fruits.has()
+  const isExists = fruits.has("apples")
