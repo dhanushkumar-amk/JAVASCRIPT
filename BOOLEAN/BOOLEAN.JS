@@ -25,5 +25,6 @@ let x = 0;
 console.log(Boolean(x)); // false
 
 // The Boolean value of -0 (minus zero) is false:
-
+let y = -0;
+console.log(Boolean(y)); // gfgalse
 
