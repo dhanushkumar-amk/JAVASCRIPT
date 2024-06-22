@@ -26,8 +26,8 @@ function points() {
   console.log('Outside function running');
   const totalPoints = 0;
 
-  const addPoints = (to) => {
-    return totalPoints + 1;
+  const addPoints = (totalPointsValue) => {
+    return totalPoints + to;
   };
   const removePoints = () => {
     return totalPoints - 1;
