@@ -34,10 +34,11 @@ const fruits = new Map([
 //   'kiwi'  => 300
 // }
 
+
 // to get the specific value from the map
 console.log(fruits.get("apples")) // 500
 
-// size
+// ? size
 // to check the size of the map
 const mapLength = fruits.size;
 console.log(mapLength); // 5
