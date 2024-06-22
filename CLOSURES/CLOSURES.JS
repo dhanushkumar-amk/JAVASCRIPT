@@ -35,5 +35,7 @@ function points() {
   const getTotalPoints = () => {
     return totalPoints;
   };
+  
+  return
 }
 points();
