@@ -43,5 +43,5 @@ function points() {
 }
 
 const table = points();
-table.addPoints(10);
+log;
 // table.removePoints();
