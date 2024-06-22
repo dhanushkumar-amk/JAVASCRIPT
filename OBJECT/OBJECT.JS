@@ -46,3 +46,5 @@ Object.assign(person, person1);
 console.log(person);
 
 
+// objects cloning
+ob
