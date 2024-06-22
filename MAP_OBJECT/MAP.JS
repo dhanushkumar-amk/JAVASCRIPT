@@ -23,7 +23,7 @@ const fruits = new Map([
   // using the values in the map or add the values
   
   fruits.set("PineApple", 250);
-  
+  fruits.set("")
   console.log(fruits);
   
   // Map(4) {
