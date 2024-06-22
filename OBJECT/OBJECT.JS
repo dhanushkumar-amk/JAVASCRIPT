@@ -35,3 +35,4 @@ const person1 = {
     }
 }
 
+object
