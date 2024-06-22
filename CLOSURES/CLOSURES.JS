@@ -25,6 +25,6 @@ function outerFunction(){
  // user can't be access outside the function
 
 
-outerFunction()
+outerFunction("ouside")
 
  
