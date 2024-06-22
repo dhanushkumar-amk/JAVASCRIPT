@@ -17,6 +17,6 @@ const person = {
      age : 19,
      isAlive : true,
      fullName(){ // function within the object is called methods
-        console.log();
+        console.log('my name is');
      }
 }
