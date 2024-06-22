@@ -11,7 +11,7 @@ function outerFunction(){
     const myName = "Dhanushkumar";
     
     function innerFunction(){
-        
+        console.log();
     }
 }
 
