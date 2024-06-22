@@ -60,6 +60,6 @@ console.log(x1 === y1); // false
 let x2 = new Boolean(false);
 let y2 = new Boolean(false);
 
-console.log(x2 === y2);
-console.log(x2 === y2);
+console.log(x2 === y2); // false
+console.log(x2 === y2); // false
 
