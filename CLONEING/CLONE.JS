@@ -10,3 +10,5 @@
 // TRUE / FALSE
 
 // boolean as function
+
+Boolean(10 > 7);
