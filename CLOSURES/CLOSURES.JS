@@ -13,7 +13,7 @@
 function outerFunction(){
     
     const user = "Sanjay"
-    console.log("Accessing the global scope", myName);
+    console.log("Accessing the global scope", user);
     
     function innerFunction(){
         console.log("inner function is worked");
