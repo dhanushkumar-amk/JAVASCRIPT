@@ -1,3 +1,3 @@
 // object
 
-new Object()
+const objectNamenew Object()
