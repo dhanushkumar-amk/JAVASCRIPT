@@ -53,7 +53,8 @@ let y1 = new Boolean(false);
 console.log( typeof x1); // boolean
 console.log( typeof y1); // object
 
-console.log();
+console.log(x1 == y1); // true
+
 
 
 
