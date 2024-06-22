@@ -57,3 +57,4 @@ const finalObjects = {...person, ...person1}
 console.log(finalObjects);
 
 
+// delete the key value in object
