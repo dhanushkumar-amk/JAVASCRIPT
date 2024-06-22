@@ -9,3 +9,4 @@
 // ON / OFF
 // TRUE / FALSE
 
+// boolean as function
