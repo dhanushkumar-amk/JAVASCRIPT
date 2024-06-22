@@ -18,5 +18,6 @@ const person = {
      isAlive : true,
      fullName(){ // function within the object is called methods
         console.log(`my name is ${this.firstName} + ${this.lastName}`);
-     }
+     },
 }
+
