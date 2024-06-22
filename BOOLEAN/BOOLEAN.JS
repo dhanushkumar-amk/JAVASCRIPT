@@ -20,3 +20,5 @@ console.log(res2); // true
 
 // ? ! Everything With a "Value" is True
 
+// The Boolean value of 0 (zero) is false:
+
