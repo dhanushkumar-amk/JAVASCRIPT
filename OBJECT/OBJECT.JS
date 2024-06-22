@@ -51,4 +51,4 @@ const objectCloning = Object.assign({}, person);
 console.log(objectCloning);
 
 // cloning or merging the objects using spread operator 
-{per}
+{person, person1}
