@@ -69,4 +69,7 @@ const ClearMapExample = new Map([
   const isExists = fruits.has("oranges")
   console.log(isExists); // true
   
+  const isExists = fruits.has("oranges")
+  console.log(isExists); // true
+  
   
