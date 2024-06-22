@@ -15,4 +15,5 @@ const res = Boolean(10 > 7);
 console.log(res); // true
 
 // also use as 
-(10 > 8)
+const res2 = (10 > 8)
+console.log(res2);
