@@ -34,4 +34,6 @@ outerFunction("outside outside")
 
 function points(){
     const totalPoints = 0;
+    
+    const 
 }
