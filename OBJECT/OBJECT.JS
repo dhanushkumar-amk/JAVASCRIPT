@@ -24,4 +24,5 @@ const person = {
 // getting object values
 
 person.fullName();
-console.log();
+console.log(person.firstName);
+console.log(person.firstName);
