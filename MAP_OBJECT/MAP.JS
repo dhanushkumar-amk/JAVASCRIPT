@@ -31,8 +31,7 @@ const fruits = new Map([
 //   'bananas' => 300,
 //   'oranges' => 200,
 //   'PineApple' => 250,
-//   'kiwi
-
+//   'kiwi'  => 300
 // }
   
 
