@@ -35,4 +35,4 @@ const person1 = {
     }
 }
 
-object
+Object.assign()
