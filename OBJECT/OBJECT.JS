@@ -6,4 +6,4 @@
 const objectName = new Object()
 
 
-// 2 => object literls
+// 2 => object literals
