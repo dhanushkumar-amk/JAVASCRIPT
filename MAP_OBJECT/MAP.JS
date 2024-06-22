@@ -25,3 +25,10 @@ const fruits = new Map([
   fruits.set("PineApple", 250);
   console.log(fruits);
   
+  // Map(4) {
+  'apples' => 500,
+  'bananas' => 300,
+  'oranges' => 200,
+  'PineApple' => 250
+}
+  
