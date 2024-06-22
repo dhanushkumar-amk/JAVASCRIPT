@@ -18,7 +18,7 @@ function outerFunction(outsideData){
     function innerFunction(){
         console.log("inner function is worked");
     }
-    innerFunction()
+    innerFunction();
 }
 
 // console.log(user); 
