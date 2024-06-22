@@ -3,4 +3,4 @@
 
 // closures
 
-// function within function is called closers
+// function within function is called closures
