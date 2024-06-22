@@ -12,4 +12,4 @@
 // boolean as function
 
 const res = Boolean(10 > 7);
-console.log(res);
+console.log(res); // true
