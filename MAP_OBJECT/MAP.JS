@@ -37,6 +37,6 @@ const fruits = new Map([
 // to get the specific value from the map
 console.log(fruits.get("apples")) // 500
 
-
+// to check the sizeof the ma
   
 
