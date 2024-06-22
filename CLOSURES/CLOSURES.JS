@@ -18,6 +18,7 @@ function outerFunction(){
     function innerFunction(){
         console.log("inner function is worked");
     }
+    innerFunction()
 }
 
 // console.log(user); 
