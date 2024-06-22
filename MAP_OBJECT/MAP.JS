@@ -45,11 +45,11 @@ console.log(mapLength); // 5
 fruits.delete("apples");
 console.log(fruits); 
 
-Map(4) {
-    'bananas' => 300,
-    'oranges' => 200,
-    'PineApple' => 250,
-    'kiwi' => 300
-  }
+// Map(4) {
+//     'bananas' => 300,
+//     'oranges' => 200,
+//     'PineApple' => 250,
+//     'kiwi' => 300
+//   }
   
 
