@@ -58,4 +58,5 @@ console.log(finalObjects);
 
 
 // delete the key value in object
-delete person.age()
+delete person.age;
+console.log(person);
