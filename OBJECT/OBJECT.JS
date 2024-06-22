@@ -21,3 +21,6 @@ const person = {
      },
 }
 
+// getting object values
+
+person.
