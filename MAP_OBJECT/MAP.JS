@@ -63,4 +63,5 @@ const ClearMapExample = new Map([
   // Map(0) {}
   console.log(ClearMapExample);
   
-  
+//   The has() method returns true if a key exists in a map:
+
