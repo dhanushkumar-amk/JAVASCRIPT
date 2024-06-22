@@ -32,7 +32,7 @@ console.log(person.lastName);
 const person1 = {
     yearOfBirth(){
         const currentData = new Date();
-        const age = 2004;
+        const age = 19;
         const result = currentData - age;
         console.log(result.toLocaleString());
     }
