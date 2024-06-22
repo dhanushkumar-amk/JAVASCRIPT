@@ -50,4 +50,4 @@ console.log(person);
 const objectCloning = Object.assign({}, person);
 console.log(objectCloning);
 
-// cloneing 
+// cloning 
