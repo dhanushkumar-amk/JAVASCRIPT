@@ -35,6 +35,6 @@ const fruits = new Map([
 // }
 
 // to get the specific value from the map
-log(fruits.get("apples"))
+console.log(fruits.get("apples"))
   
 
