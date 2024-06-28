@@ -19,4 +19,4 @@ class Person {
 
 // calling the class
 
-let employee =
+let employee = new cl
