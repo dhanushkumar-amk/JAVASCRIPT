@@ -19,3 +19,5 @@ class Person {
 
 // calling the class
 let person = new Person();
+
+
