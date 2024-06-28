@@ -39,7 +39,7 @@ function handlerCallback(name) {
         handlerCallback
     },7000, name)
 }
-
+handlerCallback();
 
 
 
