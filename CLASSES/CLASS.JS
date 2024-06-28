@@ -38,4 +38,4 @@ class user{
         console.log("Function is executed");
     }
 }
-let user = new Us
+let user = new User();
