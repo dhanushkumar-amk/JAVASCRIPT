@@ -32,5 +32,6 @@ console.log(person.name);// SanjayKumar
 
 
 class user{
-    name = ""
+    name = "ashwin";
+    print
 }
