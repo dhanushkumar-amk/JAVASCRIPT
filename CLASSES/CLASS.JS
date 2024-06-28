@@ -22,3 +22,5 @@ let person = new Person();
 
 
 console.log(person.name);
+
+
