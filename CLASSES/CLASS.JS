@@ -81,5 +81,5 @@ class Setter{
     }
 }
 
-let Setter = new Se
+let setter = new Setter();
 
