@@ -1,5 +1,5 @@
 // syntax for class
 
 
-// best pratice 
+// best practice 
 class Employee
