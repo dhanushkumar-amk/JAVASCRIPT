@@ -72,6 +72,8 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
             },2000) 
         },2000)
       }
+      
+      first();
 
 
 
