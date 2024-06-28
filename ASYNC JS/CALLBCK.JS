@@ -32,7 +32,7 @@ setTimeout(() => {
 
 
 
-// passing the pra
+// passing the para
 function handlerCallback(name) {
     console.log("");
 }
