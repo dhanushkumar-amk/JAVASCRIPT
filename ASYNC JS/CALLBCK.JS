@@ -67,7 +67,7 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
                 console.log("two");
                 
                 setInterval(() => {
-                    
+                    console.log();
                 })
             }) 
         },2000)
