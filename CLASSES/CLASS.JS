@@ -103,6 +103,7 @@ setter.Employee = "raj"
 
 class private{
     #name = "sa";
-    console.log();
+    
+    console.log(name);
     
 }
