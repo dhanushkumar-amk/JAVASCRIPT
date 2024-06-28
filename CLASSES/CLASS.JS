@@ -64,5 +64,5 @@ some.namePrint();
 
 class a{
     name ="a";
-    print
+    printA(name)
 }
