@@ -59,7 +59,9 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
       
       // chaining callback
       
-      function first() => 
+      function first(){
+        setTimeout
+      }
 
 
 
