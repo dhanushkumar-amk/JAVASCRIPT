@@ -55,5 +55,5 @@ class some{
     }
 }
 
-let some = new user1();
+let some = new Some();
 user1.print();
