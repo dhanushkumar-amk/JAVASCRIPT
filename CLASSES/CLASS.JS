@@ -51,6 +51,6 @@ class User1{
     name = "Sam";
     
     namePrint(){
-        console.log(`my name is dhanushkumar `);
+        console.log(`my name is dhanushkumar ${this.name} `);
     }
 }
