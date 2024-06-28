@@ -63,7 +63,7 @@ some.namePrint();
 // passing the parameter
 
 class a{
-    name ="a";
+    this.name =name;
     printA(name){
         
     }
