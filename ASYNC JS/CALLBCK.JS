@@ -36,7 +36,7 @@ setTimeout(() => {
 // callback function in real time example
 
 
-// callback is mainly used to execute the element the 
+// callback is mainly used to execute the element that function can be exectued 
 const numbers = [1,2,3,4,5,6];
 
 numbers.forEach((num) => {
