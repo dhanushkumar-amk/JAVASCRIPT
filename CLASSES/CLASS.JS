@@ -56,4 +56,4 @@ class Some{
 }
 
 let some = new Some();
-some.print;
+some
