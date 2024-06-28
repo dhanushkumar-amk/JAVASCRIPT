@@ -101,4 +101,6 @@ setter.Employee = "raj"
 
 // ex:
 
-class 
+class private{
+    
+}
