@@ -44,4 +44,4 @@ user.print(); // ashwin
 
 // we can access the variable inside the function sing this keyword
 
-// incase we can access the variable inside the class that not available 
+// incase we can access the variable inside the class that not available then it automatically created
