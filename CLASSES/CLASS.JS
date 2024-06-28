@@ -81,4 +81,5 @@ class Setter{
     }
 }
 
+let Setter = new Se
 
