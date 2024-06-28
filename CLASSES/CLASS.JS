@@ -35,6 +35,6 @@ console.log(person.name);// SanjayKumar
 class user{
     name = "ashwin";
     print(){
-        console.log("");
+        console.log("Function is executed");
     }
 }
