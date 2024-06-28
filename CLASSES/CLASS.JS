@@ -14,5 +14,5 @@
 
 
 class Person {
-    name = :
+    name = "Dhanushkumar"
 }
