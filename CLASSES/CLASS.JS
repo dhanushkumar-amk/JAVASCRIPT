@@ -56,4 +56,5 @@ class Some{
 }
 
 let some = new Some();
+some.age= 29;
 some.namePrint();
