@@ -3,6 +3,7 @@
 
 // best practice is always keep firstLetter caps  
 
+// syntax for class
 
 // class Employee{
 // fields => variables 
@@ -10,4 +11,6 @@
 
 // and also add functions
 // }
+
+
 
