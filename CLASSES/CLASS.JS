@@ -60,7 +60,7 @@ some.age= 29; // my name is dhanushkumar Sam 29
 some.namePrint();
 
 
-// passing the parameter
+// passing the parameter 
 
 class A{
     printA(name){
