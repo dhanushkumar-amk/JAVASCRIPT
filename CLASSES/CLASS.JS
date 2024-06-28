@@ -21,9 +21,13 @@ class Person {
 let person = new Person();
 
 
-console.log(person.name); // dhanushkumat
+console.log(person.name); // dhanushkumar
 
 
 // updating the value in class
 person.name = "SanjayKumar";
 console.log(person.name);// SanjayKumar
+
+
+
+
