@@ -37,7 +37,7 @@ setTimeout(() => {
 
 
 // callback is mainly used to execute the element that function can be executed in every time
-we can use multiple eleemnt  
+we can use multiple eleemnt can get eve 
 const numbers = [1,2,3,4,5,6];
 
 numbers.forEach((num) => {
