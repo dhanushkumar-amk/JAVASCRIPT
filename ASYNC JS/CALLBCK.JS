@@ -27,6 +27,6 @@ setTimeout(() =>{
 
 
 setTimeout(() => {
-    log
+    console.log();
 },1000)
 
