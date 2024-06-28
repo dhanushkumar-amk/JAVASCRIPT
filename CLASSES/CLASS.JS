@@ -91,4 +91,6 @@ setter.Employee = "raj"
 
 
 
-// getter function is used to 
+// getter function is used to get the values
+
+
