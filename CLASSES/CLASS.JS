@@ -48,5 +48,5 @@ user.print(); // ashwin
 
 // ex:
 class User1{
-    name = ""
+    name = "Sam"
 }
