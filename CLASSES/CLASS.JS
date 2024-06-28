@@ -101,7 +101,7 @@ setter.Employee = "raj"
 
 // ex:
 
-class private{
+class Private{
     #name = "sa";
     print(){
         
