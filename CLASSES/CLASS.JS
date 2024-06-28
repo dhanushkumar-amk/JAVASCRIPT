@@ -73,4 +73,6 @@ let a = new A();
 a.printA("Dhanush")
 
 
+//setter and getter
+
 
