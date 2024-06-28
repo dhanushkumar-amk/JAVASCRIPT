@@ -21,7 +21,7 @@ class Person {
 let person = new Person();
 
 
-console.log(person.name);
+console.log(person.name); // dhanushkumat
 
 
 // updating the value in class
