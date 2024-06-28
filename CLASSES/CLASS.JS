@@ -63,5 +63,6 @@ some.namePrint();
 // passing the parameter
 
 class a{
-    name 
+    name ="a";
+    print
 }
