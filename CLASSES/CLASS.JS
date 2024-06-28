@@ -47,7 +47,7 @@ user.print(); // ashwin
 // incase we can access the variable inside the class that not available then it automatically create
 
 // ex:
-class some{
+class Some{
     name = "Sam";
     
     namePrint(){
@@ -56,4 +56,4 @@ class some{
 }
 
 let some = new Some();
-user1.print();
+some.print();
