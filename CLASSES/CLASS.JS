@@ -25,4 +25,5 @@ console.log(person.name);
 
 
 // updating the value in class
-person.name = "SanjayKumar"
+person.name = "SanjayKumar";
+console.log(pr);
