@@ -39,4 +39,4 @@ class User{
     }
 }
 let user = new User();
-user.print();
+user.print(); // asw
