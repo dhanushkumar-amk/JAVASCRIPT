@@ -1,6 +1,6 @@
 // syntax for class
 
-
+// class is 
 // best practice is always keep firstLetter caps  
 
 
