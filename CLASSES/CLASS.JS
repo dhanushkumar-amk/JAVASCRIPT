@@ -39,4 +39,4 @@ class user{
     }
 }
 let user = new User();
-us
+user.pr
