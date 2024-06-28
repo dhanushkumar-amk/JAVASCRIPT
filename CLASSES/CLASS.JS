@@ -105,7 +105,7 @@ class Private{
     #name = "sa";
     print(){
         
-        console.log(this.#namename);
+        console.log(this.#name);
     }    
 }
 
