@@ -31,4 +31,4 @@ console.log(person.name);// SanjayKumar
 
 
 
-clas
+class user 
