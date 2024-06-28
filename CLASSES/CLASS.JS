@@ -50,5 +50,7 @@ user.print(); // ashwin
 class User1{
     name = "Sam";
     
-    name
+    namePrint(){
+        console.log(`my name `);
+    }
 }
