@@ -1,6 +1,6 @@
 const user = {
     name : "Dhanush",
-    greet() : {
+    greet() {
         console.log();
     }
 }
