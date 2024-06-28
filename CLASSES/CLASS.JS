@@ -18,5 +18,4 @@ class Person {
 }
 
 // calling the class
-
-let person = new Person()
+let person = new Person();
