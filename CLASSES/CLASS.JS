@@ -78,8 +78,10 @@ class Setter{
     // set function is used to add the values to the function
     set Employee(name){
         this.name = name;
+        
+        
     }
 }
 
 let setter = new Setter();
-setter.Employe
+setter.Employee = "dhanush"
