@@ -76,7 +76,7 @@ a.printA("Dhanush")
 //setter and getter
 class Setter{
     set Employee(name){
-        
+        this.name = name;
     }
 }
 
