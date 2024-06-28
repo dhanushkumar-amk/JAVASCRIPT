@@ -42,3 +42,4 @@ let user = new User();
 user.print(); // ashwin
 
 
+// we can access thje variable 
