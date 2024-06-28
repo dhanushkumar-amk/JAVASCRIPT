@@ -80,7 +80,9 @@ class Setter{
         this.name = name;
     }
     
-    
+    greet(){
+        console.log();
+    }
 }
 
 let setter = new Setter();
