@@ -94,3 +94,4 @@ setter.Employee = "raj"
 // getter function is used to get the values
 
 
+// it both setter and getter act as 
