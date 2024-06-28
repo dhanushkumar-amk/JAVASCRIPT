@@ -94,4 +94,4 @@ setter.Employee = "raj"
 // getter function is used to get the values
 
 
-// it both setter and getter act as function inside the class but 
+// it both setter and getter act as function inside the class but normal act as 
