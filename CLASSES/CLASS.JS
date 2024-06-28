@@ -30,6 +30,7 @@ console.log(person.name);// SanjayKumar
 
 
 
+// creating t
 
 class user{
     name = "ashwin";
