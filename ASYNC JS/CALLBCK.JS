@@ -38,7 +38,7 @@ function handlerCallback(name, callback) {
  
     callback(name);
 }
-handlerCallback(dhanush);
+handlerCallback("dhanush");
 
 
 
