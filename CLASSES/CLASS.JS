@@ -97,4 +97,6 @@ setter.Employee = "raj"
 // it both setter and getter act as function inside the class but normal act as normal variables
 
 
-// to keep the values in the private using  
+// to keep the values in the private using #variableName
+
+ex:
