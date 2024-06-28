@@ -109,4 +109,4 @@ class Private{
     }    
 }
 
-letpPrivate = new pr
+let private = new pr
