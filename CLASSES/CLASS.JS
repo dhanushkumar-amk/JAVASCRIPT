@@ -39,4 +39,3 @@ class user{
     }
 }
 let user = new User();
-user.print;
