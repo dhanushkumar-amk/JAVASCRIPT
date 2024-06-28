@@ -87,4 +87,4 @@ class Setter{
 
 let setter = new Setter();
 setter.Employee = "raj"
-setter.greet();
+// setter.greet();
