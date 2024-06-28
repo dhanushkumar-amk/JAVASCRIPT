@@ -32,13 +32,7 @@ setTimeout(() => {
 
 
 
-// passing the parameter to the callback function
-function handlerCallback(name, callback) {
-    console.log("my name is" + this.name);
- 
-    callback(name);
-}
-handlerCallback("dhanush",handlerCallback);
+
 
 
 
