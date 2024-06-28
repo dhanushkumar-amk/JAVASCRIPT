@@ -81,7 +81,7 @@ class Setter{
     }
     
     greet(){
-        console.log();
+        console.log(name);
     }
 }
 
