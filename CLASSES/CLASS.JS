@@ -82,4 +82,4 @@ class Setter{
 }
 
 let setter = new Setter();
-
+setter.
