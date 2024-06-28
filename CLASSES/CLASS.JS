@@ -55,4 +55,5 @@ class User1{
     }
 }
 
-let user1 = new user1
+let user1 = new user1();
+l
