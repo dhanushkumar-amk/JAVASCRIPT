@@ -4,4 +4,6 @@ const user = {
         console.log(`My name is ${this.name}`);
     }
 }
-console.log(user.greet);
+
+
+console.log(user);
