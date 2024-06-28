@@ -97,4 +97,4 @@ setter.Employee = "raj"
 // it both setter and getter act as function inside the class but normal act as normal variables
 
 
-// to keep the vallue sin the 
+// to keep the values in the 
