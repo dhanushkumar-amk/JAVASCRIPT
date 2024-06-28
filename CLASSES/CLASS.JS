@@ -31,4 +31,6 @@ console.log(person.name);// SanjayKumar
 
 
 
-class user 
+class user{
+    name = ""
+}
