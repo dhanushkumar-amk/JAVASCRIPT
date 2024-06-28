@@ -55,3 +55,4 @@ class User1{
     }
 }
 
+let user1 = new user1
