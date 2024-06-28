@@ -31,7 +31,7 @@ setTimeout(() => {
 },6000)
 
 
-function handlerCallback() {
-    console.log();
+function handlerCallback(name) {
+    console.log("");
 }
 
