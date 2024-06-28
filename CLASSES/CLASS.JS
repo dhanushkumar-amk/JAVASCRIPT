@@ -35,7 +35,7 @@ console.log(person.name);// SanjayKumar
 class user{
     name = "ashwin";
     print(){
-        console.log();
+        console.log(this.name);
     }
 }
 let user = new User();
