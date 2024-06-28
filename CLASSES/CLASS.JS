@@ -106,6 +106,7 @@ class private{
     print(){
         
         console.log(name);
-    }
-    
+    }    
 }
+
+let 
