@@ -5,6 +5,6 @@
 
 
 // class Employee{
-// f    
+// feilds     
 // }
 
