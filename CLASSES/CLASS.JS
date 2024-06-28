@@ -110,5 +110,5 @@ class Private{
 
 let private = new Private();
 
-
+private.name = ""
 private.print();
