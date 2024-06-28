@@ -102,7 +102,7 @@ setter.Employee = "raj"
 // ex:
 
 class private{
-    #name : "sa";
-    
+    #name = "sa";
+    lo
     
 }
