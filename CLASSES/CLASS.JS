@@ -1,1 +1,3 @@
-// syntax for
+// syntax for class
+
+class Employee
