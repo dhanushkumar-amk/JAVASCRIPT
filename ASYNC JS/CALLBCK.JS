@@ -27,6 +27,6 @@ setTimeout(() =>{
 
 
 setTimeout(() => {
-    console.log();
+    console.log("Callback function");
 },1000)
 
