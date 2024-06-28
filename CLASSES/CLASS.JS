@@ -51,6 +51,7 @@ class User1{
     name = "Sam";
     
     namePrint(){
-        console.log(`my name is dhanushkumar ${this.name} `);
+        console.log(`my name is dhanushkumar ${this.name} ${this.age}`);
     }
 }
+
