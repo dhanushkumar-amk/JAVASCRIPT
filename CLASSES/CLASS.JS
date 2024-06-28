@@ -69,4 +69,4 @@ class a{
     }
 }
 
-let 
+let a = n
