@@ -31,5 +31,5 @@ setTimeout(() => {
 },6000)
 
 
-functi
+function
 
