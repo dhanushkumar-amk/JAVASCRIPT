@@ -24,4 +24,5 @@ let person = new Person();
 console.log(person.name);
 
 
-// updating the value in em
+// updating the value in class
+person
