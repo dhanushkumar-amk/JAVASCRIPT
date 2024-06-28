@@ -109,4 +109,6 @@ class Private{
 }
 
 let private = new Private();
+
+
 private.print();
