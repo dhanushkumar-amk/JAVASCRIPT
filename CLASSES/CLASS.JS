@@ -65,6 +65,6 @@ some.namePrint();
 class a{
     this.name =name;
     printA(name){
-        
+        console.log(name);
     }
 }
