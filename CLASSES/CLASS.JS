@@ -19,4 +19,4 @@ class Person {
 
 // calling the class
 
-let employee = new Person
+let perso = new Person
