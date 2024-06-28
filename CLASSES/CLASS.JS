@@ -70,4 +70,4 @@ class A{
 }
 
 let a = new A();
-A.printA()
+A.printA("Dhanush")
