@@ -104,7 +104,6 @@ setter.Employee = "raj"
 class Private{
     #name = "sa";
     print(){
-        
         console.log(this.#name);
     }    
 }
