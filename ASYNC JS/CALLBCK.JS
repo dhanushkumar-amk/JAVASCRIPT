@@ -31,6 +31,8 @@ setTimeout(() => {
 },6000)
 
 
+
+// passing the pra
 function handlerCallback(name) {
     console.log("");
 }
