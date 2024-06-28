@@ -75,7 +75,7 @@ a.printA("Dhanush")
 
 //setter and getter
 class Setter{
-    // set function is used to add the 
+    // set function is used to add the alues to the function
     set Employee(name){
         this.name = name;
     }
