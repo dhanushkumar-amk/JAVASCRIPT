@@ -6,4 +6,4 @@ const user = {
 }
 // prototype is a unbuild function in object
 
-console.log(user);
+console.log(user.name);
