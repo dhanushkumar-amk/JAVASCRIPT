@@ -1,6 +1,6 @@
 // syntax for class
 
-// class is collection offields
+// class is collection of fields
 // best practice is always keep firstLetter caps  
 
 
