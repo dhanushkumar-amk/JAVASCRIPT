@@ -1,5 +1,5 @@
 // syntax for class
 
 
-// best practice 
+// best practice is always keep  
 class Employee
