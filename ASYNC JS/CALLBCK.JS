@@ -36,7 +36,7 @@ setTimeout(() => {
 function handlerCallback(name, callback) {
     console.log("my name is" + this.name);
  
-    callback(myna)
+    callback(name);
 }
 handlerCallback();
 
