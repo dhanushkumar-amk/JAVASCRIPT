@@ -61,7 +61,7 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
       
       function first(){
         setTimeout(() => {
-            log
+            console.log("Running");
         },2000)
       }
 
