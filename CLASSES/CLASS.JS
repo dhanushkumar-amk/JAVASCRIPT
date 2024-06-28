@@ -74,5 +74,5 @@ a.printA("Dhanush")
 
 
 //setter and getter
-
+class setter
 
