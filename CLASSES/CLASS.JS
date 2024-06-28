@@ -86,4 +86,4 @@ class Setter{
 }
 
 let setter = new Setter();
-setter.Employee = "dhanush"
+setter.Employee = ""
