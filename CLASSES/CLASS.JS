@@ -60,7 +60,7 @@ some.age= 29; // my name is dhanushkumar Sam 29
 some.namePrint();
 
 
-// passing the parameter 
+// passing the parameter function in class
 
 class A{
     printA(name){
@@ -71,5 +71,6 @@ class A{
 
 let a = new A();
 a.printA("Dhanush")
+
 
 
