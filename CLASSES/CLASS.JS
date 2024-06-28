@@ -1,5 +1,5 @@
 // syntax for class
 
 
-// best practice is always keep  
+// best practice is always keep firstLetter caps  
 class Employee
