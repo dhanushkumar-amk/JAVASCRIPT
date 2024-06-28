@@ -6,6 +6,8 @@
 
 // class Employee{
 // fields => variables 
-// a=1     
+// a=10;
+
+// and also add functions
 // }
 
