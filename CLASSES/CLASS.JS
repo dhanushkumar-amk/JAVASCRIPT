@@ -32,7 +32,7 @@ console.log(person.name);// SanjayKumar
 
 // creating the function in class 
 
-class user{
+class User{
     name = "ashwin";
     print(){
         console.log(this.name);
