@@ -88,3 +88,7 @@ class Setter{
 let setter = new Setter();
 setter.Employee = "raj"
 // setter.greet();
+
+
+
+// getter function is used to 
