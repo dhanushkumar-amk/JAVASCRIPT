@@ -30,7 +30,7 @@ console.log(person.name);// SanjayKumar
 
 
 
-// creating the function in 
+// creating the function in class 
 
 class user{
     name = "ashwin";
