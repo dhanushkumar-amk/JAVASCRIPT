@@ -39,5 +39,5 @@ function handlerCallback(name) {
 
 setTimeout(() => {
     handlerCallback
-},7000, my)
+},7000, name)
 
