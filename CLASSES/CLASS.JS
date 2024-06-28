@@ -69,4 +69,5 @@ class A{
     }
 }
 
-let a = new A
+let a = new A();
+A.printA()
