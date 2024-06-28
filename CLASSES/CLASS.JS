@@ -1,6 +1,6 @@
 // syntax for class
 
-// class is 
+// class is collection off
 // best practice is always keep firstLetter caps  
 
 
