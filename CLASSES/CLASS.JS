@@ -47,4 +47,6 @@ user.print(); // ashwin
 // incase we can access the variable inside the class that not available then it automatically create
 
 // ex:
-class User1 = 
+class User1{
+    name = ""
+}
