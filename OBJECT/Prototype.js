@@ -9,4 +9,4 @@ const user = {
 // console.log(Object.prototype.toString(user));
 
 
-console.log();
+console.log(my);
