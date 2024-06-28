@@ -8,7 +8,7 @@ const user = {
 // console.log(Object.prototype.toString(user));
 
 
-console.log(user.protoy);
+console.log(user.protype());
 
 const numbers = [1,2,3,4,5,6];
 
