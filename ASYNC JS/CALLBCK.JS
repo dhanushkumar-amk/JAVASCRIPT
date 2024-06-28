@@ -27,6 +27,6 @@ setTimeout(() =>{
 
 
 setTimeout(() => {
-    
-},)
+    log
+},1000)
 
