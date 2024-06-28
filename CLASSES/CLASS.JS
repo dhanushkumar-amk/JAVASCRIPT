@@ -63,8 +63,9 @@ some.namePrint();
 // passing the parameter
 
 class A{
-    this.name =name;
     printA(name){
+    this.name =name;
+        
         console.log(name);
     }
 }
