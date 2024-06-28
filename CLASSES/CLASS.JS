@@ -6,6 +6,6 @@
 
 // class Employee{
 // fields => variables 
-// a=      
+// a=1     
 // }
 
