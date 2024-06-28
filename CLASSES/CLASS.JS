@@ -62,11 +62,11 @@ some.namePrint();
 
 // passing the parameter
 
-class a{
+class A{
     this.name =name;
     printA(name){
         console.log(name);
     }
 }
 
-let a = n
+let a = new A
